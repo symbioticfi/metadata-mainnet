@@ -2,7 +2,7 @@
   "name": "cbETH",
   "description": "Coinbase Wrapped Staked ETH (“cbETH”) is a utility token that represents Ethereum 2 (ETH2), which is ETH staked through Coinbase. Coinbase customers can wrap their locked staked ETH to receive cbETH, which is an asset that can be traded, moved on-chain, and used in DeFi and other dapps.",
   "tags": [
-    "vault",
+    "token",
     "cbETH"
   ],
   "links": [

@@ -2,7 +2,7 @@
   "name": "LsETH",
   "description": "LsETH is a liquid staking token (LST), a token representing staked ETH plus network rewards. When you stake ETH with Liquid Collective you mint LsETH. Your LsETH evidences that you own the staked ETH and any ETH network rewards it earns, minus any fees or penalties. LsETH allows users to directly participate in ETH staking while also maintaining the ability to use their LsETH elsewhere in decentralized finance (DeFi), or to transfer ownership of their staked tokens by transferring their LsETH. You can think of LsETH like a token that keeps track of your staked Ethereum and its rewards in a straightforward way.",
   "tags": [
-    "vault",
+    "token",
     "LsETH"
   ],
   "links": [

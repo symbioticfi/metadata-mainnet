@@ -2,7 +2,7 @@
   "name": "tBTC",
   "description": "tBTC is Threshold’s decentralized bridge to bring BTC to the Ethereum network. tBTC allows you to unlock your Bitcoin’s value to borrow and lend, mint stablecoins, provide liquidity, and much more. Instead of centralized intermediaries, tBTC uses a randomly selected group of operators running nodes on the Threshold Network to secure deposited Bitcoin through threshold cryptography.",
   "tags": [
-    "vault",
+    "token",
     "tBTC"
   ],
   "links": [

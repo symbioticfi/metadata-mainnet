@@ -2,7 +2,7 @@
   "name": "sUSDe",
   "description": "Ethena Staked USDe (sUSDe) is a reward-bearing token that users can obtain by staking their USDe. This process grants access to the protocol''s generated yield without requiring any further action from users.",
   "tags": [
-    "vault",
+    "token",
     "sUSDe"
   ],
   "links": [

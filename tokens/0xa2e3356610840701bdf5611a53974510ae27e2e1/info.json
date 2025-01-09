@@ -2,7 +2,7 @@
   "name": "wBETH",
   "description": "WBETH is a liquid staking token, where 1 WBETH represents 1 ETH and the total staking rewards accrued by the ETH token on ETH Staking. WBETH will allow users to obtain immediate liquidity and participate in DeFi projects, while ensuring their eligibility to receive the corresponding ETH Staking rewards accrued.",
   "tags": [
-    "vault",
+    "token",
     "wBETH"
   ],
   "links": [

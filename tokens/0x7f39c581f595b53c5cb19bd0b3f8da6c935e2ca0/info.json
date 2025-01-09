@@ -2,7 +2,7 @@
   "name": "wstETH",
   "description": "stETH is a transferable rebasing utility token representing a share of the total ETH staked through the protocol, which consists of user deposits and staking rewards. Because stETH rebases daily, it communicates the position of the share daily.",
   "tags": [
-    "vault",
+    "token",
     "wstETH"
   ],
   "links": [

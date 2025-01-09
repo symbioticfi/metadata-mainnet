@@ -2,7 +2,7 @@
   "name": "sfrxETH",
   "description": "sfrxETH is a Liquid Staking Derivative stablecoin by Frax Finance. sfrxETH is a ERC-4626 vault designed to accrue the staking yield of the Frax ETH validators. At any time, frxETH can be exchanged for sfrxETH by depositing it into the sfrxETH vault, which allows users to earn staking yield on their frxETH. Over time, as validators accrue staking yield, an equivalent amount of frxETH is minted and added to the vault, allowing users to redeem their sfrxETH for a greater amount of frxETH than they deposited.",
   "tags": [
-    "vault",
+    "token",
     "sfrxETH"
   ],
   "links": [

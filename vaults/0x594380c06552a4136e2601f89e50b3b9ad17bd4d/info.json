@@ -3,7 +3,8 @@
   "description": "The MANTA is the native currency for Manta Network.",
   "tags": [
     "vault",
-    "token:MANTA"
+    "token:MANTA",
+    "legacy"
   ],
   "links": [
     {

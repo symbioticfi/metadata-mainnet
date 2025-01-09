@@ -3,7 +3,8 @@
   "description": "The ENA token serves multiple key roles within the Ethena ecosystem, primarily focused on governance and utility. ENA token holders can participate in the decentralized governance of the Ethena protocol, influencing decisions about the platform''s development and future direction.",
   "tags": [
     "vault",
-    "token:ENA"
+    "token:ENA",
+    "legacy"
   ],
   "links": [
     {

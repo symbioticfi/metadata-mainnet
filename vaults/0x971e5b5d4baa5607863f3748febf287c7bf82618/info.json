@@ -1,0 +1,20 @@
+{
+  "name": "WBTC",
+  "description": "WBTC brings greater liquidity to the Ethereum ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with Bitcoin. WBTC changes that, bringing Bitcoin’s liquidity to DEXs and making it possible to use Bitcoin for token trades.",
+  "tags": [
+    "vault",
+    "token:WBTC"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x971e5b5d4baa5607863f3748febf287c7bf82618"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://wbtc.network/"
+    }
+  ]
+}

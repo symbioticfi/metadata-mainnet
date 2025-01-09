@@ -1,0 +1,30 @@
+{
+  "name": "wstETH",
+  "description": "stETH is a transferable rebasing utility token representing a share of the total ETH staked through the protocol, which consists of user deposits and staking rewards. Because stETH rebases daily, it communicates the position of the share daily.",
+  "tags": [
+    "vault",
+    "token:wstETH"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xc329400492c6ff2438472d4651ad17389fcb843a"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://lido.fi/ethereum"
+    },
+    {
+      "type": "docs",
+      "name": "Lido Documentation",
+      "url": "https://docs.lido.fi/"
+    },
+    {
+      "type": "example",
+      "name": "wstETH rollup bridging guide",
+      "url": "https://docs.lido.fi/token-guides/wsteth-bridging-guide"
+    }
+  ]
+}

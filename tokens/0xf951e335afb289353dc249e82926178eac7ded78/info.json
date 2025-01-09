@@ -1,0 +1,31 @@
+{
+  "name": "swETH",
+  "description": "swETH is a decentralized and non-custodial liquid staking token that provides users with the opportunity to earn staking rewards while retaining liquidity over their Ethereum holdings. It is a relatively new concept in decentralized finance (DeFi) that seeks to bring together the benefits of staking and liquidity in a single asset.",
+  "tags": [
+    "vault",
+    "swETH"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xf951e335afb289353dc249e82926178eac7ded78"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.swellnetwork.io/"
+    },
+    {
+      "type": "docs",
+      "name": "swETH Liquid Staking",
+      "url": "https://docs.swellnetwork.io/swell-staking/sweth-liquid-staking"
+    },
+    {
+      "type": "example",
+      "name": "How to stake swETH",
+      "url": "https://www.swellnetwork.io/post/liquid-stake-with-swell-in-five-simple-steps"
+    }
+  ],
+  "cmcId": "25147"
+}

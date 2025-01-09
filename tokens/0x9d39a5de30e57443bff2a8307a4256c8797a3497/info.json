@@ -1,0 +1,33 @@
+{
+  "name": "sUSDe",
+  "description": "Ethena Staked USDe (sUSDe) is a reward-bearing token that users can obtain by staking their USDe. This process grants access to the protocol''s generated yield without requiring any further action from users.",
+  "tags": [
+    "vault",
+    "sUSDe"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://ethena.fi/"
+    },
+    {
+      "type": "docs",
+      "name": "Staking USDe",
+      "url": "https://docs.ethena.fi/solution-design/staking-usde"
+    },
+    {
+      "type": "example",
+      "name": "How to Stake USDe",
+      "url": "https://docs.ethena.fi/video-guides/how-to-stake-usde"
+    }
+  ],
+  "cmcId": "29471",
+  "permitName": "sUSDe",
+  "permitVersion": "1"
+}

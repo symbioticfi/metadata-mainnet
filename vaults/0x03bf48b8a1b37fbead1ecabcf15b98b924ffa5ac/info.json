@@ -1,0 +1,30 @@
+{
+  "name": "rETH",
+  "description": "Rocket Pool ETH (rETH) is the Rocket Pool protocol''s liquid staking token. The rETH token represents an amount of ETH that is being staked and earning rewards within Ethereum Proof-of-Stake. As Rocket Pool node operators, stake Ethereum on Proof-of-Stake the resulting rewards increase the value of rETH relative to ETH. Rocket Pool''s liquid staking token allows holders to benefit from the returns of the Ethereum Proof-of-Stake.",
+  "tags": [
+    "vault",
+    "token:rETH"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x03bf48b8a1b37fbead1ecabcf15b98b924ffa5ac"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://rocketpool.net/"
+    },
+    {
+      "type": "docs",
+      "name": "Rocket Pool ETH Documentation",
+      "url": "https://docs.rocketpool.net/overview/"
+    },
+    {
+      "type": "example",
+      "name": "Guides Overview",
+      "url": "https://docs.rocketpool.net/guides/"
+    }
+  ]
+}

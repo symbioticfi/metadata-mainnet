@@ -1,0 +1,26 @@
+{
+  "name": "LBTC",
+  "description": "Lombard unlocks Bitcoin’s potential as a dynamic financial tool by connecting it to DeFi. Its flagship product is LBTC, the Universal Liquid Bitcoin Standard. LBTC is yield-bearing, natively cross-chain, and backed 1:1 by BTC. With LBTC, BTC holders can earn a Babylon staking yield, points from multiple ecosystems and also participate in DeFi to trade, borrow/lend, yield farm, and more.",
+  "tags": [
+    "vault",
+    "LBTC"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x8236a87084f8b84306f72007f36f2618a5634494"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.lombard.finance/"
+    },
+    {
+      "type": "docs",
+      "name": "Introduction to LBTC",
+      "url": "https://docs.lombard.finance/lbtc-liquid-bitcoin/introduction-to-lbtc"
+    }
+  ],
+  "cmcId": "33652"
+}

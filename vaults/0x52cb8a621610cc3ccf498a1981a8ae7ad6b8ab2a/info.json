@@ -1,0 +1,30 @@
+{
+  "name": "osETH",
+  "description": "Liquid staking in StakeWise V3 is powered by osETH - an overcollateralized staked ETH token that accrues staking rewards when held. osETH represents ETH staked in Vaults and earns ETH rewards that accrue from their validators. osETH can always be redeemed for ETH from Vaults, helping it maintain an accurate price on DEXs.",
+  "tags": [
+    "vault",
+    "token:osETH"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x52cb8a621610cc3ccf498a1981a8ae7ad6b8ab2a"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.stakewise.io/"
+    },
+    {
+      "type": "docs",
+      "name": "StakeWise Documentation",
+      "url": "https://docs.stakewise.io/"
+    },
+    {
+      "type": "example",
+      "name": "osToken",
+      "url": "https://docs.stakewise.io/protocol-overview-in-depth/ostoken"
+    }
+  ]
+}

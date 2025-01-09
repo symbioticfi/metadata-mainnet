@@ -1,0 +1,25 @@
+{
+  "name": "MANTA",
+  "description": "The MANTA is the native currency for Manta Network.",
+  "tags": [
+    "vault",
+    "token:MANTA"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x594380c06552a4136e2601f89e50b3b9ad17bd4d"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://manta.network/"
+    },
+    {
+      "type": "docs",
+      "name": "$MANTA Tokenomics",
+      "url": "https://mantanetwork.medium.com/manta-tokenomics-b226f911c84c"
+    }
+  ]
+}

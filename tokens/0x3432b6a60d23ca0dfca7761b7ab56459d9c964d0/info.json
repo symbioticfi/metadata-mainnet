@@ -1,0 +1,26 @@
+{
+  "name": "FXS",
+  "description": "Frax Share (FXS) as base layer governance token – Frax Share (FXS) is the governance token of the entire Frax ecosystem of smart contracts which accrues fees, revenue, and excess collateral value.",
+  "tags": [
+    "vault",
+    "FXS"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://frax.finance/"
+    },
+    {
+      "type": "docs",
+      "name": "Frax Shares (FXS) Documentation",
+      "url": "https://docs.frax.finance/fxs-and-vefxs/seigniorage"
+    }
+  ],
+  "cmcId": "6953"
+}

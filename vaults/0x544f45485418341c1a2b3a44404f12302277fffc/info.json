@@ -1,0 +1,25 @@
+{
+  "name": "SWELL",
+  "description": "SWELL is the native governance token of Swell DAO, a decentralized community responsible for the development, growth, and maintenance of the Swell protocol. The protocol serves as a leading platform for liquid staking and restaking, offering users a decentralized and secure way to participate in Ethereum staking while maintaining liquidity.",
+  "tags": [
+    "vault",
+    "token:SWELL"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x544f45485418341c1a2b3a44404f12302277fffc"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.swellnetwork.io/"
+    },
+    {
+      "type": "docs",
+      "name": "Intro into Swell Governance",
+      "url": "https://docs.swellnetwork.io/swell-dao/overview"
+    }
+  ]
+}

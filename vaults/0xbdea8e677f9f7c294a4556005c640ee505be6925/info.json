@@ -1,0 +1,25 @@
+{
+  "name": "ETHx",
+  "description": "Stader is a non-custodial smart contract-based staking platform that helps you conveniently discover and access staking solutions. We are building key staking middleware infra for multiple PoS networks for retail crypto users, exchanges and custodians. Stader ETHx is a solution designed to keep Ethereum decentralised with a liquid staking solution that''s accessible, reliable and rewarding. Stader lets users earn ETH staking rewards without needing to maintain infrastructure, and enables users to participate in other Defi Strategies while accruing rewards.",
+  "tags": [
+    "vault",
+    "token:ETHx"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xbdea8e677f9f7c294a4556005c640ee505be6925"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.staderlabs.com/"
+    },
+    {
+      "type": "docs",
+      "name": "ETHx Documentation",
+      "url": "https://www.staderlabs.com/docs-v1/Ethereum/Introduction/"
+    }
+  ]
+}

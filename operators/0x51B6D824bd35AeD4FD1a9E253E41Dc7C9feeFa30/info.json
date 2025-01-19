@@ -1,0 +1,19 @@
+{
+	"name": "Pier Two",
+	"description": "Australian based enterprise grade infrastructure for institutional clients. Non custodial ETH Staking. Secure Node and Validation Services. Creating the light client Lantern (C Sharp).",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "http://piertwo.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/piertwo_com"
+		}
+	]
+}

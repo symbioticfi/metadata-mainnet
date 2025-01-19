@@ -1,0 +1,19 @@
+{
+	"name": "BlockPI",
+	"description": "Distributed multi-chain acceleration layer Solving the RPC requests congestion problem with infinite scalability. ",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://blockpi.io/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/RealBlockPI"
+		}
+	]
+}

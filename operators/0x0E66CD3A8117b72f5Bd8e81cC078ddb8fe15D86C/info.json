@@ -1,0 +1,39 @@
+{
+    "name": "P-OPS Team",
+    "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://pops.one"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://twitter.com/POpsTeam1"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/P-OPSTeam"
+        },
+        {
+            "type": "website",
+            "name": "Telegram",
+            "url": "https://t.me/POPS_Team_Validator"
+        },
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.com/invite/yatAvEW7jd"
+        },
+        {
+            "type": "website",
+            "name": "Medium",
+            "url": "https://medium.com/@popsteam"
+        }
+    ]
+}

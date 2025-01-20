@@ -1,0 +1,24 @@
+{
+	"name": "cp0x by STAKR.space",
+	"description": "cp0x is a community with its own node operator services, committed to enhancing the security, decentralization, and efficiency of blockchain networks. Alongside operating reliable nodes and participating in network governance, we are dedicated to educating and empowering our community about Web3 technologies.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "cp0x.com",
+			"url": "https://cp0x.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/cp0xdotcom"
+		},
+		{
+			"type": "website",
+			"name": "STAKR.space",
+			"url": "https://stakr.space/"
+		}
+	]
+}

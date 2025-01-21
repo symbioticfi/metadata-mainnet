@@ -1,0 +1,34 @@
+{
+	"name": "Stakin",
+	"description": "Leading institutional-grade web3 infrastructure and non-custodial staking service provider. ISO27001 Certified and Audited.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://stakin.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/StakinOfficial"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/StakinOfficial"
+		},
+		{
+                        "type": "website",
+                        "name": "Medium",
+                        "url": "https://medium.com/stakin"
+                },
+		{
+                        "type": "website",
+                        "name": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/stakin"
+                }
+	]
+}

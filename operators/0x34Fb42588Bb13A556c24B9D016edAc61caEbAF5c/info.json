@@ -1,0 +1,22 @@
+{
+	"name": "gumi",
+	"description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
+	"tags": ["Game Fi", "Crypto Fund", "Validator"],
+	"links": [
+		{
+			"type": "website",
+			"name": "website",
+			"url": "https://gu3.co.jp/en/blockchain/"
+		},
+		{
+			"type": "website",
+			"name": "OSHI3 Website",
+			"url": "https://project-oshi3.com/en.html"
+		},
+		{
+			"type": "docs",
+			"name": "docs of OSHI token",
+			"url": "https://bobg.gitbook.io/oshitoken-en"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hyve",
+  "description": "HyveDA is a modular data availability protocol designed for high-throughput performance, catering to the data-intense decentralized applications. It guarantees security through a fully decentralized Delegated Proof-of-Stake network powered by Symbiotic. By leveraging slashing mechanisms and cryptographic proofs, HyveDA guarantees data integrity and reliability. This makes it ideal for applications such as blockchain data availability and decentralized transient storage, all within a hyper-secure framework.",
+  "tags": ["data availability", "infrastructure", "hyve"],
+  "links": [
+    {
+      "type": "website",
+      "name": "hyve.xyz",
+      "url": "https://hyve.xyz"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.hyveda.xyz"
+    }
+  ]
+}

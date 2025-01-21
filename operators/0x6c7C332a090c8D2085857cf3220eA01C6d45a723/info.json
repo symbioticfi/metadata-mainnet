@@ -1,0 +1,19 @@
+{
+	"name": "Nansen",
+	"description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions. Disclaimer: delegating comes with slashing risks",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://nansen.ai"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/nansen_ai"
+		}
+	]
+}

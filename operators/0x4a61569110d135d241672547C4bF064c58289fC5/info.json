@@ -1,0 +1,19 @@
+{
+	"name": "RumaLabs",
+	"description": "Fac quod debes et quod futurum est",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://rumalabs.xyz/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/RumaLabs"
+		}
+	]
+}

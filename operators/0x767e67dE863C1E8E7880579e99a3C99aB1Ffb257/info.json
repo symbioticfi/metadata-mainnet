@@ -1,0 +1,19 @@
+{
+	"name": "Labatech.pro",
+	"description": "The future is inevitable, you just need to find your place in this WEB3 world",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://labatech.pro"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://twitter.com/labatechpro"
+		}
+	]
+}

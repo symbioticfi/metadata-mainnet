@@ -1,0 +1,24 @@
+{
+	"name": "BioticYields",
+	"description": "Sharing airdrops and providing bonus yields! We do not support a million blockchains, we solely focus on the restaking ecosystem - enabling us to provide the highest quality services to our delegators. With over $1.5b delegated assets, and higher performance metrics than other operators, it makes sense to delegate to us.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://bioticyields.xyz"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "http://x.com/EigenYields"
+		},
+		{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.gg/EigenYields"
+		}
+	]
+}

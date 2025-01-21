@@ -1,0 +1,17 @@
+{
+  "name": "Chorus One",
+  "description": "Chorus One is a leading infrastructure and staking service provider, supporting over 60 different networks. With a focus on decentralization, reliability, and cutting-edge innovation, we actively support different ecosystems by delivering high-performance validator operations and contributing to the growth of Web3. By delegating, you agree to the Terms and Conditions at: https://chorus.one/tos.",
+  "tags": ["operator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://chorus.one"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/ChorusOne"
+    }
+  ]
+}

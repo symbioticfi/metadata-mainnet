@@ -1,0 +1,44 @@
+{
+	"name": "Stakely",
+	"description": "Stakely is a top Staking-as-a-Service provider specialized in Proof-of-Stake blockchains. With over 40 supported networks, we offer reliable and secure services for the best staking experience.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://stakely.io/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/Stakely_io"
+		},
+		{
+			"type": "website",
+			"name": "Youtube",
+			"url": "https://www.youtube.com/@stakely/featured"
+		},
+		{
+			"type": "website",
+			"name": "Linkedin",
+			"url": "https://www.linkedin.com/company/stakely-io/"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/Stakely"
+		},
+		{
+			"type": "website",
+			"name": "hey",
+			"url": "https://hey.xyz/u/stakely_io"
+		},
+		{
+			"type": "website",
+			"name": "warpcast",
+			"url": "https://warpcast.com/stakely"
+		}
+	]
+}

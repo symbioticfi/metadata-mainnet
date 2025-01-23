@@ -1,0 +1,24 @@
+{
+	"name": "keynodes",
+	"description": "Providing secure and resilient infrastructure for blockchain networks. We prioritize reliability and growth to deliver high performance.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Keynodes",
+			"url": "https://keynodes.org/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/keynodes_org"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/keynodes"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "description": "Re7 has been providing liquidity in DeFi since 2019 deploying capital over across yield strategies and liquid venture investing. As DeFi-native managers, we have focused on providing early liquidity to various DeFi protocols to help grow the ecosystem. Re7 Labs is the innovation arm of digital asset investment firm Re7 Capital, taking the practical experience of DeFi risk management to our on-chain LRT vault.",
+    "links": [
+        {
+            "name": "Mellow.finance",
+            "type": "website",
+            "url": "https://app.mellow.finance/vaults/ethereum-re7lrt"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/lrt-contracts"
+        }
+    ],
+    "name": "Re7 Labs LRT Vault",
+    "tags": [
+        "mellow",
+        "re7 Labs"
+    ]
+}

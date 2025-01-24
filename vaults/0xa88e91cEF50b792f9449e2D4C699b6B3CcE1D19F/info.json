@@ -1,0 +1,20 @@
+{
+    "description": "The Restaking Vault, curated by Renzo, is designed to optimize restaking opportunities for its users.",
+    "links": [
+        {
+            "name": "Mellow.finance",
+            "type": "website",
+            "url": "https://app.mellow.finance/vaults/ethereum-pzeth"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/lrt-contracts"
+        }
+    ],
+    "name": "Renzo Restaked LST",
+    "tags": [
+        "mellow",
+        "renzo"
+    ]
+}

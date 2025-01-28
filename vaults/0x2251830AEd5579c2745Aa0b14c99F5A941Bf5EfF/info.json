@@ -1,0 +1,25 @@
+{
+	"name": "Staketab Operator Vault",
+	"description": "A professional staking provider offering reliable infrastructure solutions for the Web3 ecosystem. Our secure vault is designed to delegate assets to the Staketab operator, providing dependable staking and maximizing potential rewards.",
+	"tags": [
+		"vault",
+		"Staketab"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://staketab.com/"
+		},
+		{
+		  "type": "website",
+		  "name": "X",
+		  "url": "https://x.com/staketab"
+		},
+		{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.com/invite/UBQ85uSyAU"
+		}
+	]
+}

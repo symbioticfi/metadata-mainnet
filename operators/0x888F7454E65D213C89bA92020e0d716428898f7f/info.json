@@ -1,0 +1,19 @@
+{
+	"name": "Blockdaemon",
+	"description": " We Power the Blockchain Economy. The complete institutional blockchain operating system for seamless, secure, and efficient Web3 services. ",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://blockdaemon.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/BlockdaemonHQ"
+		}
+	]
+}

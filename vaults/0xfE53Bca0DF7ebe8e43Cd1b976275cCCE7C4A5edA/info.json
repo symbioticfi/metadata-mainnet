@@ -1,0 +1,18 @@
+{
+  "name": "Swell rSWELL",
+  "description": "This SWELL vault serves as the underlying to Swell's rSWELL LRT. rSWELL is a multi-strategy vault that optimally restakes SWELL into a mix of SWELL restaking protocols for maximum risk adjusted yields.",
+  "tags": ["vault", "SWELL", "rSWELL"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Swell rSWELL",
+      "url": "https://app.swellnetwork.io/stake/rswell"
+    },
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io//address/0x358d94b5b2F147D741088803d932Acb566acB7B6"
+    }
+  ],
+  "curatorName": "Gauntlet"
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Introducing Unified Restaked LST (urLRT)—the future of Layered Staked Assets in EVM DeFi. urLRT embodies a revolutionary, collaborative approach, ingeniously blending yield, security, and interoperability into a seamless ecosystem. This cutting-edge product not only pioneers a new generation of yield-bearing assets but also serves as a robust anchor for multiple partners across intent, automation, security, and interoperability domains. Embrace the synergy with urLST, where Defi finally unifies.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-urlrt"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xf890434A395e3978622Ac0ae1412934bEfeB09Ff"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Unified Restaked LST",
+    "tags": [
+        "mellow",
+        "Quasar"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Luganodes Restaked ETH will help secure and facilitate networks in the Symbiotic Ecosystem. Luganodes is a leading Swiss-operated Institutional-Grade blockchain infrastructure provider, managing over $3 Billion in staked assets across 45+ networks. We run ~7%(second largest) of the Natively Restaked Ethereum on bare metal infrastructure with 99.99% uptime.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.stage.mellow.finance/vaults/ethereum-lugaeth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x48bef6aB76E31737d94cF7b3B1dba52EDDEe1cAd"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Luganodes Restaked ETH",
+    "tags": [
+        "mellow",
+        "Luganodes"
+    ]
+}

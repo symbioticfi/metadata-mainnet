@@ -1,0 +1,30 @@
+{
+    "description": "Restaking Vault curated by InfraSingularity. InfraSingularity aims to radically transform the Web3 ecosystem by pioneering as an investor, and builder of institutional staking platform.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-iseth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xbA91473072EBD125C3cB8D251fd02bf21FDea8Df"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "InfraSingularity Restaked ETH",
+    "tags": [
+        "mellow",
+        "InfraSingularity"
+    ]
+}

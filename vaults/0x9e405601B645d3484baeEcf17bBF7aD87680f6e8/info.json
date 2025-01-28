@@ -1,0 +1,18 @@
+{
+    "name": "Swell swBTC",
+    "description": "This wBTC vault serves as the underlying to Swell's swBTC LRT. swBTC is a multi-strategy vault that optimally restakes wBTC into a mix of BTC restaking protocols for maximum risk adjusted yields.",
+    "tags": ["vault", "wBTC", "swBTC"],
+    "links": [
+      {
+        "type": "website",
+        "name": "Swell swBTC",
+        "url": "https://app.swellnetwork.io/stake/swbtc"
+      },
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x8db2350d78abc13f5673a411d4700bcf87864dde"
+      }
+    ],
+    "curatorName": "Gauntlet"
+  }

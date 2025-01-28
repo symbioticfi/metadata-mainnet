@@ -1,0 +1,22 @@
+{
+	"name": "zkLink",
+	"description": "zkLink Nova is the industry’s first aggregated Layer 3 zkEVM Rollup network built on top of Ethereum and Ethereum Layer 2 rollups (L2s). zkLink Nova is an EVM-compatible, open platform for simple and fast smart contract development of any kind. ",
+	"tags": ["ZK", "Rollup", "Layer 3", "Aggregated liquidity"],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://zk.link/"
+		},
+		{
+			"type": "explorer",
+			"name": "zkLink Explorer",
+			"url": "https://explorer.zklink.io/"
+		},
+		{
+			"type": "docs",
+			"name": "zkLink Documentation",
+			"url": "https://docs.zklink.io/"
+		}
+	]
+}

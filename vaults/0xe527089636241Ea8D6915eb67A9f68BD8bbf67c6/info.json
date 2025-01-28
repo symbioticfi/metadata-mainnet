@@ -1,0 +1,20 @@
+{
+  "name": "Block'n'Bones wBTC",
+  "description": "Led by an international team of blockchain researchers, pioneering crypto and AI since 2017.",
+  "tags": [
+    "vault",
+    "token:wBTC"
+  ],
+  "links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://blockandbones.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/BlockBones232"
+		}
+  ]
+}

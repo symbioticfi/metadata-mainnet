@@ -1,0 +1,29 @@
+{
+	"name": "Block Farms",
+	"description": "Block Farms is an institutional operator focused on delivering professional oracle, validator and staking, and RPC services for emerging and established blockchains. Our proven track record in Chainlink node infrastructure, robust RPC throughput for Infura DIN, and 99.9% SLA underscores our dedication to reliability and security.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://block-farms.io/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/BlockFarms_io"
+		},
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.gg/PgxRVrDUm7"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/Block-Farms"
+        }
+	]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Meria",
+    "description": "French Crypto Investment Provider.",
+    "tags": ["operator"],
+    "links": [
+        {
+			"type": "website",
+			"name": "Website",
+			"url": "https://meria.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/Meria_Finance"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/meria_finance"
+		}
+    ]
+  }

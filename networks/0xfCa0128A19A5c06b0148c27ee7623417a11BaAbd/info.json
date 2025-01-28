@@ -1,0 +1,27 @@
+{
+  "name": "Radius",
+  "description": "Radius provides a Secure Block Building (SBB) solution that enhances the stability of rollups by enabling multiple operators to participate in sequencing. It also ensures fair execution of transactions through cryptographic methods, making user transactions highly resistant to censorship and reordering. Radius supports Lighthouse(LH) which helps rollups capture MEV opportunities by coordinating with searchers to prioritize profitable MEV bundles.",
+  "tags": [
+    "Network",
+    "Block Building",
+    "MEV",
+    "Growth"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://theradius.xyz"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/radius_xyz"
+    },
+    {
+      "type": "docs",
+      "name": "Radius Documentation",
+      "url": "https://docs.theradius.xyz/"
+    }
+  ]
+}

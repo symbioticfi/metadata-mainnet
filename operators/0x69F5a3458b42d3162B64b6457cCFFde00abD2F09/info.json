@@ -1,0 +1,29 @@
+{
+	"name": "Encapsulate",
+	"description": "Others trust, we validate! Your stake is important to us. Help us secure networks while you earn rewards",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://encapsulate.xyz"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/encapsulate_xyz"
+		},
+		{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.com/invite/S5x4e2AHVV"
+		},
+		{
+			"type": "website",
+			"name": "Github",
+			"url": "https://github.com/encapsulate-xyz"
+		}
+	]
+}

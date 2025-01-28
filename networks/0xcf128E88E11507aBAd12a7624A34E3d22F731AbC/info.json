@@ -1,0 +1,22 @@
+{
+    "name": "Router Xtend Network",
+    "description": "Router Xtend Network, extends the Symbiotic's Security to Router Chains and other cosmos chains",
+    "tags": [
+        "Network",
+        "Cosmos",
+        "Security",
+        "Shared Security"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://routerprotocol.com/"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/routerprotocol"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cycle Network",
+  "description": "Cycle Network offers bridgeless chain abstraction through verifiable state aggregation, supporting all Bitcoin and EVM ecosystem networks.",
+  "tags": ["network", "interoperability","chain abstraction"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.cyclenetwork.io/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/cyclenetwork_GO"
+    },
+    {
+      "type": "docs",
+      "name": "Cycle Network Docs",
+      "url": "https://cycle-network.gitbook.io/cycle-network-docs"
+    }
+  ]
+}

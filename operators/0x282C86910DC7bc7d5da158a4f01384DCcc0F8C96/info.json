@@ -1,0 +1,24 @@
+{
+    "name": "Proviroll",
+    "description": "Building the future of blockchain with reliable RAAS and node operations, enabling secure, scalable ecosystems and supporting emerging networks.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.proviroll.io/"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/Proviroll"
+        },
+        {
+			"type": "explorer",
+			"name": "Etherscan",
+			"url": "https://etherscan.io/address/0x282C86910DC7bc7d5da158a4f01384DCcc0F8C96"
+		}
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ryabina WBTC",
+  "description": "Since 2019, ryabina.io has been a trusted validator and Web3 developer, contributing to Ethereum, Polkadot, The Graph and beyond. Our OG team runs web3alert.io and graphscan.io.",
+  "tags": [
+    "vault",
+    "token:WBTC"
+  ],
+  "links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://ryabina.io"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/Ryabinaio"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/RyabinaValidator"
+		}
+  ]
+}

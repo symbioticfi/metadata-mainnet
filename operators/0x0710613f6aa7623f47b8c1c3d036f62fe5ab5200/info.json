@@ -1,0 +1,24 @@
+{
+    "name": "Imperator.co",
+    "description": "Since 2021, Imperator is a leading PoS validator and blockchain service provider, managing infrastructure for over 50 PoS networks globally, including Ethereum, Sui, Cosmos, Avalanche, Babylon, Celestia, dYdX, Injective, and Axelar",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://imperator.co"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/imperator_co"
+        },
+        {
+            "type": "website",
+            "name": "Telegram",
+            "url": "https://t.me/+S_FdE09_XHQyMjU0"
+        }
+    ]
+}

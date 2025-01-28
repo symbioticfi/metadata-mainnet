@@ -1,0 +1,10 @@
+name: Get full info
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    uses: symbioticfi/metadata-validation-scripts/.github/workflows/full-info.yml@main

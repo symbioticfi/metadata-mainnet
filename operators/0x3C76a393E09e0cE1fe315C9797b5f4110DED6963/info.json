@@ -1,0 +1,14 @@
+{
+	"name": "Chainflow",
+	"description": "Crypto Infrastructure for a Brighter Future",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://chainflow.io"
+		}
+	]
+}

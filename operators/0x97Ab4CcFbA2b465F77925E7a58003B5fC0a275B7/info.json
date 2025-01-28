@@ -1,0 +1,24 @@
+{
+    "name": "Nodes.Guru",
+    "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://nodes.guru"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/NodesGuru"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/NodesGuru"
+        }
+    ]
+}

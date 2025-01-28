@@ -1,0 +1,24 @@
+{
+    "name": "Luganodes",
+    "description": "Luganodes, is a leading Swiss-operated Institutional-Grade blockchain infrastructure provider, managing over $3 Billion in staked assets across 45+ networks. We run ~7%(second largest) of the Natively Restaked Ethereum on bare metal infrastructure with 99.99% uptime.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://luganodes.com"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://twitter.com/luganodes"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/luganodes"
+        }
+    ]
+}

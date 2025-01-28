@@ -1,0 +1,19 @@
+{
+	"name": "zkLink DAO",
+	"description": "zkLink DAO is a decentralized collective to govern zkLink. It empowers people like you to make decisions that are in the best interest of the zkLink ecosystem.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://zk.link/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/zkLink_Official"
+		}
+	]
+}

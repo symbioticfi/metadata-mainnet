@@ -1,0 +1,39 @@
+{
+  "name": "NodeOps",
+  "description": "NodeOps is the leading Node-as-a-Service (NaaS) solution for Web3. NodeOp's multichain, easy-to-use platform enables Web3 protocols to achieve their node distribution needs. NodeOps' NaaS is so simple that anyone can run a node and earn. From a launchpad enabling protocols to incentivize users to become node runners, to no-code node deployment and AI-powered monitoring: NodeOps democratizes node access and simplifies node operations.",
+  "tags": [
+    "operator"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://nodeops.xyz"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/NodeOpsHQ/"
+    },
+    {
+      "type": "website",
+      "name": "Discord",
+      "url": "https://discord.gg/HftrtmSsyW"
+    },
+    {
+      "type": "website",
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/102023363"
+    },
+    {
+      "type": "website",
+      "name": "Github",
+      "url": "https://github.com/NodeOps-app/"
+    },
+    {
+      "type": "docs",
+      "name": "Docs",
+      "url": "https://docs.nodeops.xyz"
+    }
+  ]
+}

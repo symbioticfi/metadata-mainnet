@@ -1,0 +1,30 @@
+{
+    "description": "Restaking Vault curated by [RockX](https://www.rockx.com/) aims to maximize restaking opportunities for its users while managing slashing risk. RockX is the largest Asian-based institutional grade staking and RPC provider globally. [RockX](https://www.rockx.com/) runs validators for over 2 bil USD assets across 30 blockchains and nodes for more than 10k clients, including Lido, Matrixport, Amber, Bitkan and etc.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-roeth"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x575d6DD4EA8636E08952Bd7f8AF977081754B1B7"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Rockmelon ETH",
+    "tags": [
+        "mellow",
+        "RockX"
+    ]
+}

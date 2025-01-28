@@ -1,0 +1,24 @@
+{
+	"name": "RockX",
+	"description": "RockX, Asia's leading staking and RPC provider, manages $2B+ in assets across 30 blockchains. Trusted by 10,000+ clients, RockX offers secure non-custodial staking, Ethereum & Bitcoin restaking, and liquid restaking via Bedrock. With 24/7 monitoring, slashing protection, and high yields, RockX ensures efficient blockchain participation and rewards for institutions and individuals globally.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.rockx.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://twitter.com/rockx_official"
+		},
+    	{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.gg/aRz7tCnp"
+    	}
+	]
+}

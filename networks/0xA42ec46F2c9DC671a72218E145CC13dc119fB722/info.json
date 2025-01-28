@@ -1,0 +1,31 @@
+{
+    "name": "bolt",
+    "description": "bolt is a permissionless proposer commitments protocol bringing preconfirmations to Ethereum.",
+    "tags": [
+        "network",
+        "preconfirmations",
+        "commitments"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Bolt Protocol Website",
+            "url": "https://boltprotocol.xyz"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "http://x.com/boltprotocol_"
+        },
+        {
+            "type": "website",
+            "name": "Bolt Protocol Github",
+            "url": "https://github.com/chainbound/bolt"
+        },
+        {
+            "type": "docs",
+            "name": "Bolt Protocol Documentation",
+            "url": "https://docs.boltprotocol.xyz"
+        }
+    ]
+}

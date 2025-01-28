@@ -1,0 +1,12 @@
+{
+	"name": "Hinode Vault",
+	"description": "A secure vault to delegate asset to gumi operator",
+	"tags": ["vault", "gumi", "Hinode"],
+	"links": [
+		{
+			"type": "website",
+			"name": "website",
+			"url": "https://gu3.co.jp/en/blockchain/"
+		}
+	]
+}

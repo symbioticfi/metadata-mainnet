@@ -1,0 +1,19 @@
+{
+	"name": "Allnodes",
+	"description": "Industry-leading node hosting, staking, and infrastructure provider for all major networks",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.allnodes.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/allnodes"
+		}
+	]
+}

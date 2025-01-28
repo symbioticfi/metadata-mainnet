@@ -1,0 +1,15 @@
+{
+    "description": "Steakhouse Resteaking Vaults are intended to allocate to networks from a fundamental perspective, keeping in mind common sense principles and building on wstETH as the liquid asset underpinning our strategies. 2steak2lrt is a standalone Symbiotic vault with no inherent demand for secondary liquidity.",
+    "links": [
+        {
+            "name": "Steakhouse Financial",
+            "type": "website",
+            "url": "https://steakhouse.financial"
+        }
+    ],
+    "name": "2steak2lrt",
+    "tags": [
+        "beeflrt",
+        "steakhouse"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Ether.fi - wstETH",
+    "description": "stETH is a transferable rebasing utility token representing a share of the total ETH staked through the protocol, which consists of user deposits and staking rewards. Because stETH rebases daily, it communicates the position of the share daily.",
+    "tags": [
+        "vault",
+        "token:wstETH"
+    ],
+    "curatorName": "Ether.fi",
+    "links": [
+        {
+            "type": "externalLink",
+            "name": "deposit",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x450a90fdEa8B87a6448Ca1C87c88Ff65676aC45b"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "docs",
+            "name": "ETHFI Documentation",
+            "url": "https://etherfi.gitbook.io/"
+        }
+    ]
+}

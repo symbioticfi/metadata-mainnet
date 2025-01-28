@@ -1,0 +1,38 @@
+{
+  "name": "iBTC",
+  "description": "iBTC is a non-custodial representation of Bitcoin on Ethereum, enabling Bitcoin holders to participate in DeFi protocols while retaining full ownership of their assets.",
+  "tags": ["token", "wrapped", "bitcoin"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x20157DBAbb84e3BBFE68C349d0d44E48AE7B5AD2"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.ibtc.network/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/ibtcnetwork"
+    },
+    {
+      "type": "website",
+      "name": "Github",
+      "url": "https://github.com/DLC-link"
+    },
+    {
+      "type": "docs",
+      "name": "iBTC Docs",
+      "url": "https://docs.ibtc.network/"
+    },
+    {
+      "type": "docs",
+      "name": "Where to Get iBTC",
+      "url": "https://docs.ibtc.network/ibtc-documentation/getting-started/for-retail-traders#where-to-get-ibtc"
+    }
+  ],
+  "cmcId": "32716"
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Everstake",
+	"description": "Everstake is one of the world’s biggest validators, servicing 735,000+ users across 70+ blockchains. As an operator on Ethereum, we handle 2.5% of the staked ETH supply or ~900,000+ ETH from 20,000+ stakers.Everstake has validated Ethereum since PoS genesis, retaining a slashing-free operation. We boast ~99.9% uptime, battle-tested infrastructure, and a team of seasoned experts. In Symbiotic, Everstake’s mission is to secure the most promising networks and provide the best delegation services for stakers.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://everstake.one/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://twitter.com/everstake_pool"
+		},
+		{
+			"type": "website",
+			"name": "Telegram",
+			"url": "https://t.me/everstake_acc"
+		},
+		{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.gg/3GYvqvZ3rR"
+		}
+	]
+}

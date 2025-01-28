@@ -1,0 +1,39 @@
+{
+	"name": "01node",
+	"description": "01node is a professional node operator securing over $500M across 40+ networks. Operating from three advanced data centers—one fully owned—we deliver high-availability staking solutions enhanced by robust slash protection. Our commitment to rigorous risk management, technical expertise, and top-tier infrastructure ensures reliable performance and peace of mind for institutional and individual stakeholders alike.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://01node.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/01node"
+		},
+                {
+                        "type": "website",
+                        "name": "Telegram",
+                        "url": "https://t.me/node01"
+                },
+                {
+                        "type": "website",
+                        "name": "Medium",
+                        "url": "https://medium.com/01node"
+                },
+                {
+                        "type": "website",
+                        "name": "Linkedin",
+                        "url": "https://linkedin.com/company/01node"
+                },
+                {
+                        "type": "website",
+                        "name": "Github",
+                        "url": "https://github.com/01node"
+                }
+	]
+}

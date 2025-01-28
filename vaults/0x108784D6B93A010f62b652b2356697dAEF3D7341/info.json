@@ -1,0 +1,30 @@
+{
+    "description": "The Restaking Vault, curated by HashKey Cloud, is designed to optimize restaking opportunities for its users. HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-hceth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x108784D6B93A010f62b652b2356697dAEF3D7341"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "HashKey Cloud Restaked ETH",
+    "tags": [
+        "mellow",
+        "HashKey Cloud"
+    ]
+}

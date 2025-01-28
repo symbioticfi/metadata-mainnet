@@ -1,0 +1,44 @@
+{
+    "name": "Simply Staking",
+    "description": "At Simply Staking, we are a globally recognised leader in blockchain infrastructure provision and development, dedicated to the advancement and security of decentralised technologies.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://simplystaking.com/"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/SimplyStaking"
+        },
+        {
+            "type": "website",
+            "name": "Telegram",
+            "url": "https://t.me/SimplyVC"
+        },
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.com/invite/Kpzc58Gu9a"
+        },
+        {
+            "type": "website",
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/company/simplystaking/"
+        },
+        {
+            "type": "website",
+            "name": "Youtube",
+            "url": "https://www.youtube.com/@SimplyStaking"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/SimplyStaking"
+        }
+    ]
+}

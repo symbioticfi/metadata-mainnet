@@ -1,0 +1,30 @@
+{
+  "name": "lvlwaUSDT",
+  "description": "Level issues lvlUSD, a stablecoin backed by restaked dollar tokens like USDC and USDT. lvlwaUSDT wraps Aave USDT, a rebasing receipt token, that backs lvlUSD. lvlwaUSDT is based on OpenZeppelin's ERC20 Wrapper contract and ensures that restaking protocols and AVSs don't have to worry about integrating rebasing tokens as economic security.",
+  "tags": ["token", "lvlwausdt", "usdt", "level"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xb723377679b807370Ae8615ae3E76F6D1E75a5F2"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/levelusd"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://level.money/"
+    },
+    {
+      "type": "docs",
+      "name": "Docs",
+      "url": "https://level-money.gitbook.io/docs/level-usd/architecture/restaking"
+    }
+  ],
+  "cmcId": "825",
+  "permitName": "Level Wrapped USDT",
+  "permitVersion": "1"
+}

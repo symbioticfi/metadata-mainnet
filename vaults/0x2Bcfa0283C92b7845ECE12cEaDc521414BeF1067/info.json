@@ -1,0 +1,31 @@
+{
+    "name": "Ether.fi - ETHFI",
+    "description": "ETHFI is the governance token that drives the ether.fi protocol, enabling the DAO community members to manage critical aspects of the protocol and the protocol''s future growth.",
+    "tags": [
+        "vault",
+        "token:ETHFI"
+    ],
+    "curatorName": "Ether.fi",
+    "links": [
+        {
+            "type": "externalLink",
+            "name": "deposit",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x2Bcfa0283C92b7845ECE12cEaDc521414BeF1067"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "docs",
+            "name": "ETHFI Documentation",
+            "url": "https://etherfi.gitbook.io/etherfi/ethfi"
+        }
+    ]
+}

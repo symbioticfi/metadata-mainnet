@@ -1,0 +1,31 @@
+{
+    "name": "Ether.fi - LBTC",
+    "description": "Lombard unlocks Bitcoins potential as a dynamic financial tool by connecting it to DeFi. Its flagship product is LBTC, the Universal Liquid Bitcoin Standard. LBTC is yield-bearing, natively cross-chain, and backed 1:1 by BTC. With LBTC, BTC holders can earn a Babylon staking yield, points from multiple ecosystems and also participate in DeFi to trade, borrow/lend, yield farm, and more.",
+    "tags": [
+        "vault",
+        "token:LBTC"
+    ],
+    "curatorName": "Ether.fi",
+    "links": [
+        {
+            "type": "externalLink",
+            "name": "deposit",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xd4E20ECA1f996Dab35883dC0AD5E3428AF888D45"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://etherfi.gitbook.io/"
+        }
+    ]
+}

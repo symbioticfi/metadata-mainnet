@@ -1,0 +1,30 @@
+{
+    "description": "Amphor Restaked ETH [amphrETH] secures, facilitates & monitors Restaked Networks curation on Symbiotic ecosystem. amprETH LRT aims at minimizing:\n  -operator authority bias\n  -unintended slashing\n  -trust/security assumptions\nwhile keeping a competitive risk-adjusted yield for ETH restakers.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-amphreth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x446970400e1787814CA050A4b45AE9d21B3f7EA7"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Amphor Restaked ETH",
+    "tags": [
+        "mellow",
+        "mev-capital"
+    ]
+}

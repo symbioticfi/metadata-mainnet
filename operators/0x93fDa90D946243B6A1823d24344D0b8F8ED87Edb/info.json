@@ -1,0 +1,25 @@
+{
+    "name": "A41",
+    "description": "A41 is an institutional-grade validator located in APAC supporting over 18+ chains. Currently managing over 3+ billion staked assets, we ensure a thorough evaluation of each Network and manage all potential risks before enabling slashing.",
+    "website": "https://www.a41.io",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.a41.io"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/a41_allforone"
+        },
+        {
+            "type": "website",
+            "name": "Telegram",
+            "url": "https://t.me/A41_EN"
+        }
+    ]
+}

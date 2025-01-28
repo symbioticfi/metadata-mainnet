@@ -1,0 +1,19 @@
+{
+  "name": "Spectrum Staking",
+  "description": "Reliable blockchain validation services managed by highly experienced SRE professionals",
+  "tags": [
+    "operator"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "SpectrumStaking",
+      "url": "https://spectrumstaking.net"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/SpectrumStaking"
+    }
+  ]
+}

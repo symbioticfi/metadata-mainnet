@@ -1,0 +1,31 @@
+{
+    "description": "Restaking Vault curated by re7 Labs aims to maximize restaking opportunities for its users. P2P.org is a global staking & restaking leader with $8B and over 100k delegators across 50+ networks. Depositing this Vault you accept [disclaimer](https://cdn.p2p.org/legal/restaking-vault.pdf)",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/partners/p2p/vaults/ethereum-rsteth"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x7b276aAD6D2ebfD7e270C5a2697ac79182D9550E"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Restaking Vault ETH [all Networks]",
+    "tags": [
+        "mellow",
+        "P2P.org",
+        "re7 Labs"
+    ]
+}

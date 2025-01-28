@@ -1,0 +1,16 @@
+{
+	"name": "Everstake Operator Vault",
+	"description": "A secure institutional-grade and retail vault designed to delegate assets to the Everstake operator, ensuring reliable staking and optimal returns",
+	"tags": [
+		"vault",
+		"Institutional",
+		"Everstake"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://everstake.one/"
+		}
+	]
+}

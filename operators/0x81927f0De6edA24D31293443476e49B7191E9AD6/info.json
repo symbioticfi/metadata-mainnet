@@ -1,0 +1,24 @@
+{
+	"name": "KukisGlobal",
+	"description": "Kukis Global is one of the top Web3 infrastructure providers securing over $900M and a Lido node operator. We are validating around 1% of the entire Ethereum network with a perfect track record.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.kukis-global.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/KukisGlobal"
+		},
+                {
+                        "type": "website",
+                        "name": "Github",
+                        "url": "https://github.com/kukis-global/"
+                }
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Staketab",
+	"description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem. Our experience in developing Web3 services since 2017 enables us to create best-in-class, data-rich products for each customer.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://staketab.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/staketab"
+		},
+		{
+			"type": "website",
+			"name": "Discord",
+			"url": "https://discord.com/invite/UBQ85uSyAU"
+		}
+	]
+}

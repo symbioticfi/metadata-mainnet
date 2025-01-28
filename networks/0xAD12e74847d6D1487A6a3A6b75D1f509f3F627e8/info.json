@@ -1,0 +1,24 @@
+{
+    "name": "Capx Cloud",
+    "description": "Capx Cloud is a decentralized infrastructure network, designed to support the deployment and scaling of tokenized AI applications. Leveraging Symbiotic's robust operator framework, Capx Cloud provides scalable, cost-effective, and secure compute solutions for AI workloads while ensuring crypto-economic security through operator staking and decentralized governance.",
+    "tags": [
+        "network"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Capx Website",
+            "url": "https://capx.ai"
+        },
+        {
+            "type": "website",
+            "name": "Capx Twitter",
+            "url": "https://x.com/0xcapx"
+        },
+        {
+            "type": "explorer",
+            "name": "Capx Scan",
+            "url": "https://capxscan.com"
+        }
+    ]
+}

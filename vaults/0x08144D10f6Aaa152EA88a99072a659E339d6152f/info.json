@@ -1,0 +1,30 @@
+{
+    "description": "The Restaking Vault, curated by InfStones, is designed to optimize restaking opportunities for its users. InfStones is a leading Web3 infrastructure platform, managing over 20,000 nodes spanning over 80 protocols; Trusted by Binance, OKX, Lido, Puffer, Swell, StakeStone, and numerous others",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-ifseth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x08144D10f6Aaa152EA88a99072a659E339d6152f"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "InfStones Restaked ETH",
+    "tags": [
+        "mellow",
+        "InfStones"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Steakhouse Resteaking Vaults are intended to allocate to networks from a fundamental perspective, keeping in mind common sense principles and building on wstETH as the liquid asset underpinning our strategies.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-steaklrt"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xf7Ce770AbdD1895f2CB0989D7cf2A26705FF37a7"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Steakhouse Resteaking Vault",
+    "tags": [
+        "mellow",
+        "steakhouse"
+    ]
+}

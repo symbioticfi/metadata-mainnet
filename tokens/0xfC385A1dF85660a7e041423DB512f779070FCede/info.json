@@ -1,0 +1,26 @@
+{
+  "name": "ZKLink",
+  "description": "The zkLink token empowers community ownership and fosters active stewardship of the Protocol. ZKL holders oversee the Protocol through the governance process.",
+  "tags": [
+    "token",
+    "ZKLink"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xfC385A1dF85660a7e041423DB512f779070FCede"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://zklink.io/"
+    },
+    {
+      "type": "docs",
+      "name": "Intro into ZKLink Governance",
+      "url": "https://zk.link/governance"
+    }
+  ],
+  "cmcId": "13039"
+}

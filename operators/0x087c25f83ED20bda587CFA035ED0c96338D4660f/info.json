@@ -1,0 +1,34 @@
+{
+	"name": "P2P.org",
+	"description": "P2P.org is a blockchain infrastructure service that provides secure, non-custodial staking services for professional investors. We allow token holders to participate in staking without the heavy lifting of running a node.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://p2p.org/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/P2Pvalidator"
+		},
+                {
+                        "type": "website",
+                        "name": "Telegram",
+                        "url": "https://t.me/P2P_staking_support_bot"
+                },
+                {
+                        "type": "website",
+                        "name": "Linkedin",
+                        "url": "https://www.linkedin.com/company/p2p-org/"
+                },
+                {
+                        "type": "website",
+                        "name": "YouTube",
+                        "url": "https://www.youtube.com/channel/UC9pRzyJx5YrUNfmg1vLZ-bQ/featured"
+                }
+	]
+}

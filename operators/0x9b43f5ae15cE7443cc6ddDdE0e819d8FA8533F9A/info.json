@@ -1,0 +1,19 @@
+{
+	"name": "CertiK",
+	"description": "CertiK is the world’s leading auditor for Web3 projects. We provide full-cycle security solutions for enterprises, including auditing, security rating, Compliance&AML, validator node services, investment and other security-related services, elevating the entire Web3 journey of our clients.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.certik.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/CertiK"
+		}
+	]
+}

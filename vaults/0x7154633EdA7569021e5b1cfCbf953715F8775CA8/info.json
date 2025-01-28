@@ -1,0 +1,30 @@
+{
+    "description": "Curated by Chorus One, the ETH Restaking Pro vault aims to provide users high-yield opportunities through strategic restaking. Chorus One is a research-focused institutional (re)staking leader with $3B across 50+ networks.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-coeth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x7154633EdA7569021e5b1cfCbf953715F8775CA8"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "ETH Restaking Pro",
+    "tags": [
+        "mellow",
+        "Chorus One"
+    ]
+}

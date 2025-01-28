@@ -1,0 +1,12 @@
+{
+  "name": "zkLink Vault",
+  "description": "A secure vault to delegate asset to zkLink operator",
+  "tags": ["vault", "zkLink"],
+  "links": [
+    {
+      "type": "website",
+      "name": "website",
+      "url": "https://zklink.io/"
+    }
+  ]
+}

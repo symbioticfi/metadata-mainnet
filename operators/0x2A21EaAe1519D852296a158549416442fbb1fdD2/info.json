@@ -1,0 +1,19 @@
+{
+	"name": "Finoa Consensus Services",
+	"description": "Finoa Consensus Services (FCS) is a German-incorporated staking provider spun out of Finoa, the largest European crypto custodian. With a solid foundation in regulatory compliance and operational excellence, FCS is uniquely positioned to deliver market-leading, institutional-grade infrastructure.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.finoa.io/staking-delegation"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/FinoaConsensus"
+		}
+	]
+}

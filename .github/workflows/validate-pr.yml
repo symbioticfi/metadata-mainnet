@@ -1,0 +1,40 @@
+name: Validate Pull Request
+
+on:
+  pull_request_target:
+    branches:
+      - main
+
+jobs:
+  validate-pr:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+
+    permissions:
+      pull-requests: write
+
+    steps:
+
+      - name: Detect changed files
+        uses: yumemi-inc/changed-files@v3
+        id: changes
+        with:
+          exclude-statuses: 'removed'
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+
+      - name: Validate
+        if: steps.changes.outputs.exists == 'true'
+        uses: symbioticfi/metadata-validation-scripts@main
+        with:
+          files: ${{ steps.changes.outputs.files }}
+          issue: ${{ github.event.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          chain-id: 1
+          network-registry: "0xc773b1011461e7314cf05f97d95aa8e92c1fd8aa"
+          operator-registry: "0xad817a6bc954f678451a71363f04150fdd81af9f"
+          vault-registry: "0xaeb6bdd95c502390db8f52c8909f703e9af6a346"

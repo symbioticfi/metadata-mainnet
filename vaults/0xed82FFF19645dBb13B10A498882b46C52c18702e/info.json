@@ -1,0 +1,41 @@
+{
+    "description": "Restaked POND [rsPOND] secures networks and protocols in the Marlin ecosystem via Symbiotic. Marlin is a distributed compute network that leverages Trusted Execution Environments (TEEs) to bring verifiability and data confidentiality to AI agents, DeFi, and DeSci. rsPOND initially will be utilized to power ZK proof generation in Kalypso.",
+    "links": [
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://cp0x.com/"
+        },
+        {
+            "name": "POND Website",
+            "type": "website",
+            "url": "https://www.marlin.org/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-rsPOND"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xbfc544a9ad1be9B311303d9dA189b8A82BBEC7eC"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Marlin POND LRT",
+    "tags": [
+        "mellow",
+        "marlin",
+        "cp0x"
+    ]
+}

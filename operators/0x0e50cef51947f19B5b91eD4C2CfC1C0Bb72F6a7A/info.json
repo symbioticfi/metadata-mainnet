@@ -1,0 +1,19 @@
+{
+	"name": "OpsLayer",
+	"description": "OpsLayer powers innovative Web3 networks with expert infrastructure management, software development, and finance operation services.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://opslayer.com"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://twitter.com/opslayerco"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "K3",
+  "description": "A simple, template driven approach to building Web3 workflows that read and write between on and off-chain data sources, and instantly trigger processes or alerts.",
+  "tags": [
+    "Network",
+    "Automation"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.k3-labs.com/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/k3_labs"
+    },
+    {
+      "type": "docs",
+      "name": "K3 Documentation",
+      "url": "https://docs.k3-labs.com/introduction"
+    }
+  ]
+}

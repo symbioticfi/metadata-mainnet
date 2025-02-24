@@ -1,0 +1,47 @@
+{
+    "description": "Ethena Restaked ENA [rsENA] secures, facilitates and monitors restaked network curation on the Ethena ecosystem via Symbiotic. rsENA initially will be utilized to secure cross-chain messaging of USDe via LayerZero DVNs, and later multiple layers of the Ethena Chain and Dapps built on this network.",
+    "links": [
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://mevcapital.com/"
+        },
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://re7.capital/"
+        },
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://k3.capital/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-rsena"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xcC4DE7C3AF8a4eCc2D96bc821bbA3A2D94e3298b"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Ethena LRT Vault sUSDe",
+    "tags": [
+        "mellow",
+        "k3",
+        "mev",
+        "re7"
+    ]
+}

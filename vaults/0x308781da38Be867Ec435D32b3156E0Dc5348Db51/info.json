@@ -1,5 +1,5 @@
 {
-    "description": "This Lido v3 pre-deposit vault accepts ETH deposits that MEV Capital will curate and restake to Symbiotic until Lido v3's release. Kiln serves as the partner node operator for Symbiotic, helping restakers secure +13 networks.Upon Lido v3 release, the ETH will be staked with Kiln.fi, combining Kiln's staking infrastructure excellence with MEV Capital's curation expertise.",
+    "description": "This Lido v3 pre-deposit vault accepts ETH deposits that MEV Capital will curate and restake to Symbiotic until Lido v3's release. Kiln serves as the partner node operator for Symbiotic, helping restakers secure +13 networks.Upon Lido v3 release, the ETH will be staked with Kiln.fi, combining Kiln's staking infrastructure excellence with MEV Capital's curation expertise.",
     "links": [
         {
             "name": "Curator website",
@@ -19,7 +19,7 @@
         {
             "name": "Etherscan",
             "type": "explorer",
-            "url": "https://etherscan.io/address/0x0F37f1ff51Fc2f8a9907eF3e226A12fDC47de4aD"
+            "url": "https://etherscan.io/address/0x308781da38Be867Ec435D32b3156E0Dc5348Db51"
         },
         {
             "name": "Documentation",

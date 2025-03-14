@@ -1,0 +1,35 @@
+{
+    "description": "Proviroll’s Curated Restaking Vault (prvETH) enables secure and efficient restaking across multiple networks. Backed by wstETH, it aggregates liquidity and optimizes staking rewards. prvETH enhances capital efficiency while maintaining flexibility and security.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.proviroll.io/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-provivault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xac7817e893EfB8401C5Cf6c625125725e139c326"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "ProviVault",
+    "tags": [
+        "mellow",
+        "Proviroll"
+    ]
+}

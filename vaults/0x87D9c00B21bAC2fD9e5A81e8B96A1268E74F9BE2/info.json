@@ -1,0 +1,36 @@
+{
+    "description": "Pier Two is an Australian based enterprise grade staking company. Established in 2018, Pier Two manages 24/7 staking infrastructure for its global institutional clients.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.steakhouse.financial/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-pier-two-all-networks"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x87D9c00B21bAC2fD9e5A81e8B96A1268E74F9BE2"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Pier Two All Networks",
+    "tags": [
+        "mellow",
+        "Pier Two",
+        "SteakHouse"
+    ]
+}

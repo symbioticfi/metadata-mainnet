@@ -1,0 +1,35 @@
+{
+    "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.dsrvlabs.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-dsrv-vault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x287bed263ec8973994719efB8d17E653Ac4a3E1b"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "DSRV Vault",
+    "tags": [
+        "Mellow",
+        "DSRV"
+    ]
+}

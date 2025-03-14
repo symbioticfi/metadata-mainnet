@@ -1,0 +1,36 @@
+{
+    "description": "Simply Staking is an Enterprise-Grade Blockchain Infrastructure Provider based out of Malta. Operating since 2018 with over $1BN in assets staked across the 50 protocols it secures. Curated by Steakhouse Financial and powered by Simply Staking, this vault aims to generate staking rewards for its users by leveraging the expertise of both entities.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.steakhouse.financial/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-simply-staking-lidov3-pre-deposit-vault-steakhouse"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x1a33f761ae602BFa3D2891972F25f2E677cfCEcd"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Simply Staking Lido v3 Pre-Deposit Vault x Steakhouse",
+    "tags": [
+        "mellow",
+        "Simply Staking",
+        "Steakhouse"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "description": "Re7 has been providing liquidity in DeFi since 2019 deploying capital over across yield strategies and liquid venture investing. As DeFi-native managers, we have focused on providing early liquidity to various DeFi protocols to help grow the ecosystem. Re7 Labs is the innovation arm of digital asset investment firm Re7 Labs, taking the practical experience of DeFi risk management to our on-chain vaults. Blockscape is a Swiss-based blockchain infrastructure provider specializing in secure and efficient staking solutions since 2018. We focus on decentralization, self-custody, and supporting the broader blockchain ecosystem. With years of expertise, we ensure reliability and high-performance infrastructure for validators and institutional clients.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://re7.capital/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-re7-lidov3-blockscape"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x7FD837Fc6E6b1405E3D3Aca89EEf5D8438A2ad44"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Re7 LidoV3 x Blockscape",
+    "tags": [
+        "mellow",
+        "Blockscape",
+        "Re7 Labs"
+    ]
+}

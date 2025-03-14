@@ -1,0 +1,36 @@
+{
+    "description": "Pre-deposit vault for Lido v3 in collaboration with Steakhouse Financial",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.steakhouse.financial/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-luganodes-lido-v3-pre-deposit-vault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x4DCd1Da51C10D97c0FEaC12b47f4D19E3d56cd2B"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Luganodes Lido v3 Pre-Deposit Vault",
+    "tags": [
+        "mellow",
+        "Luganodes",
+        "SteakHouse"
+    ]
+}

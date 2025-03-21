@@ -1,0 +1,35 @@
+{
+    "description": "The Lido v3 pre-deposit vault, curated by HashKey Cloud, is designed to optimize restaking opportunities for its users. HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.hashkey.cloud/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-hashkey-cloud-lidov3-pre-deposit-vault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xb225dC68Ab754DD5F84C9941766da1613B14A0C6"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "HashKey Cloud Lido v3 Pre-Deposit Vault",
+    "tags": [
+        "Mellow",
+        "HashKey"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "description": "USR is a stablecoin fully backed by ETH collateral. Wrapped staked USR (wstUSR) is a yield-bearing version of USR",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://resolv.xyz/"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055"
+        },
+        {
+            "name": "Resolv Documentation",
+            "type": "docs",
+            "url": "https://docs.resolv.xyz/"
+        }
+    ],
+    "name": "wstUSR",
+    "tags": [
+        "stablecoin",
+        "resolv"
+    ]
+}

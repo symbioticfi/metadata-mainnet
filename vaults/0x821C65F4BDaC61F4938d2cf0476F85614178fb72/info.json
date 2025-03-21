@@ -1,0 +1,35 @@
+{
+    "description": "Resolv is a protocol that maintains USR, a stablecoin fully backed by ETH and pegged to the US Dollar. The stablecoin’s delta-neutral design ensures price stability. Restaked USR (rstUSR) will be used as shared security across networks powered by Symbiotic security system.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://re7.capital/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-re7-resolv-restaked-wstusr"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x821C65F4BDaC61F4938d2cf0476F85614178fb72"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Re7 Resolv Restaked wstUSR",
+    "tags": [
+        "mellow",
+        "Re7 Labs" 
+    ]
+}

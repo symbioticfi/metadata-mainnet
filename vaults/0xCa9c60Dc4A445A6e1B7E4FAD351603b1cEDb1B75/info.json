@@ -1,0 +1,36 @@
+{
+    "description": "The Boosted ETH Vault accepts ETH deposits, managed via Mellow smart contracts. Curated by Gauntlet, the vault restakes wstETH on Symbiotic and employs advanced risk-management strategies to optimize rewards while maintaining security. Until Lido v3, ETH is staked on Lido v2. Upon Lido v3 launch, ETH staking will transition to DVT using Stakin’s infrastructure.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.gauntlet.xyz/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-stakin-boosted-eth-vault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xCa9c60Dc4A445A6e1B7E4FAD351603b1cEDb1B75"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Stakin Boosted ETH Vault",
+    "tags": [
+        "mellow",
+        "Stakin",
+        "Gauntlet"
+    ]
+}

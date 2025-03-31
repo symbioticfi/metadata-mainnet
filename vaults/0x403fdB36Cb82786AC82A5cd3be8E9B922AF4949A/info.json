@@ -1,0 +1,17 @@
+{
+  "name": "stakefish Vault",
+  "description": "stakefish vault is Operator Specific. stakefish has been operating validators from 2018. We are one of the largest and most trusted validators in the crypto ecosystem. We support 20+ protocols and help stake over  billion worth of assets for both institutions and retail investors.",
+  "tags": ["vault", "wstETH", "stakefish"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x403fdB36Cb82786AC82A5cd3be8E9B922AF4949A"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://stake.fish/"
+    }
+  ]
+}

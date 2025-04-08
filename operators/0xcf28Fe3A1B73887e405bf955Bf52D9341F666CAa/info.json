@@ -1,49 +1,44 @@
 {
-	"name": "BwareLabs",
-	"description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
-	"tags": [
-		"operator"
-	],
-	"links": [
-		{
-			"type": "website",
-			"name": "Website",
-			"url": "https://bwarelabs.com/"
-		},
-		{
-			"type": "website",
-			"name": "X",
-			"url": "https://x.com/BwareLabs"
-		},
-                {
-                        "type": "website",
-                        "name": "Telegram",
-                        "url": "https://t.me/bwareLabs"
-                },
-                {
-                        "type": "website",
-                        "name": "Discord",
-                        "url": "https://discord.com/invite/bwarelabs"
-                },
-                {
-                        "type": "website",
-                        "name": "Medium",
-                        "url": "https://medium.com/bware-labs"
-                },
-                {
-                        "type": "website",
-                        "name": "Linkedin",
-                        "url": "https://ro.linkedin.com/company/bwarelabs"
-                },
-                {
-                        "type": "website",
-                        "name": "Facebook",
-                        "url": "https://www.facebook.com/BwareLabs/"
-                },
-                {
-                        "type": "website",
-                        "name": "Github",
-                        "url": "https://github.com/bwarelabs"
-                }
-	]
+    "name": "Alchemy Validators",
+    "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.alchemy.com/"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/AlchemyPlatform"
+        },
+        {
+            "type": "website",
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/company/alchemyinc"
+        },
+        {
+            "type": "website",
+            "name": "Youtube",
+            "url": "https://www.youtube.com/c/alchemyplatform"
+        },
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.com/invite/alchemyplatform"
+        },
+        {
+            "type": "website",
+            "name": "Substack",
+            "url": "https://substack.com/@alchemysupercharged"
+        },
+        {
+            "type": "website",
+            "name": "Warpcast",
+            "url": "https://warpcast.com/alchemyplatform"
+        }
+    ]
 }

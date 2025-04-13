@@ -1,0 +1,19 @@
+{
+  "name": "NodesRun",
+  "description": "Active Node Validator",
+  "tags": [
+      "operator"
+  ],
+  "links": [
+      {
+          "type": "website",
+          "name": "NodesRun.Com",
+          "url": "https://nodesrun.com"
+      },
+      {
+          "type": "website",
+          "name": "X",
+          "url": "https://x.com/nodesruns"
+      }
+  ]
+}

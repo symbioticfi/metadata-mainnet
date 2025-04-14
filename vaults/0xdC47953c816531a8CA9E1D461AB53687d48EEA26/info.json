@@ -1,6 +1,6 @@
 {
 	"name": "MEV Capital LBTC Vault",
-	"description": "A secure vault curated by MEV Capital",
+	"description": "MEV Capital Restaked LBTC vaults secures, facilitates & monitors Networks curation and Node delegation on Symbiotic ecosystem. The Restaked Lombard BTC Vault aims at minimizing: operator authority bias, unintended slashing, trust/security assumptions - while keeping a competitive risk-adjusted yield for LBTC restakers.",
 	"tags": ["vault", "MEV Capital", "LBTC"],
 	"links": [
 		{

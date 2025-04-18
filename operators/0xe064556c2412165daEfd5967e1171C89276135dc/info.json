@@ -1,0 +1,12 @@
+{
+  "name": "Mutalism",
+  "description": "Mutalism on Holesky testnet",
+  "tags": ["operator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Web",
+      "url": "https://nesha.net"
+    }
+  ]
+}

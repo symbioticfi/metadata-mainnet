@@ -1,0 +1,23 @@
+{
+  "name": "WOETH",
+  "description": "Origin Ether (OETH) is a liquid ETH staking token designed to offer enhanced security, higher yield, and a tighter peg to ETH when compared to other LSTs. This is accomplished through rigorous audits, decentralized validator technology (DVT), and a permissionless redemption mechanism paired with deep exit liquidity.",
+  "tags": ["token", "WOETH"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/token/0xDcEe70654261AF21C44c093C300eD3Bb97b78192"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.originprotocol.com/"
+    },
+    {
+      "type": "docs",
+      "name": "OETH",
+      "url": "https://docs.originprotocol.com/protocol/oeth"
+    }
+  ],
+  "cmcId": "24278"
+}

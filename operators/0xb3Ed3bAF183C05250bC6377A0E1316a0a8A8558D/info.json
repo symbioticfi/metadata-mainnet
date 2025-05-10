@@ -1,0 +1,24 @@
+{
+    "name": "BlockSync",
+    "description": "High Quality PoS Institutional Blockchain Validation Infrastructure",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "BlockSync",
+            "url": "https://blocksync.me"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/tiendat247"
+        },
+        {
+            "type": "website",
+            "name": "Github",
+            "url": "https://github.com/0xblocksync/"
+        }
+    ]
+}

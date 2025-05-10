@@ -1,0 +1,19 @@
+{
+	"name": "Decentrio",
+	"description": "Decentrio provide software solutions and infrastructure services, as well as an active contributor for the Cosmos blockchain ecosystem.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://decentrio.ventures/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/decentriolabs"
+		}
+	]
+}

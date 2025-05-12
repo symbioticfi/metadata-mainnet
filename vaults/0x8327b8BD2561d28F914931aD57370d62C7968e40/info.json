@@ -1,0 +1,33 @@
+{
+    "name": "Nansen x Gauntlet Lido v3 stVault",
+    "description": "The Nansen x Gauntlet Lido v3 stVault represents a strategic partnership between industry leaders Nansen and Gauntlet, focused on optimizing Lido v3 Vaults",
+    "tags": ["vault", "wstETH", "Nansen", "Gauntlet"],
+    "links": [
+      {
+        "type": "website",
+        "name": "Nansen x Gauntlet Lido v3 stVault",
+        "url": "https://app.mellow.finance/vaults/ethereum-nansen-gauntlet-lidov3-stvault"
+      },
+      {
+        "name": "Curator website",
+        "type": "website",
+        "url": "https://www.gauntlet.xyz/"
+    },
+    {
+        "name": "Website",
+        "type": "website",
+        "url": "https://mellow.finance/"
+    },
+    {
+        "name": "Deposit",
+        "type": "externalLink",
+        "url": "https://app.mellow.finance/vaults/ethereum-nansen-gauntlet-lidov3-stvault"
+    },
+    {
+        "name": "Etherscan",
+        "type": "explorer",
+        "url": "https://etherscan.io/address/0x8327b8bd2561d28f914931ad57370d62c7968e40"
+    }
+    ],
+    "curatorName": "Gauntlet"
+  }

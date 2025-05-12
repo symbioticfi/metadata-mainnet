@@ -1,0 +1,21 @@
+{
+    "name": "Nethermind - wstETH",
+    "description": "The Restaking Vault, curated by Nethermind.",
+    "tags": [
+        "vault",
+        "token:wstETH"
+    ],
+    "curatorName": "Nethermind",
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x2C07B584be483e25f360786d790544a6ecFb85A0"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.nethermind.io/"
+        }
+    ]
+}

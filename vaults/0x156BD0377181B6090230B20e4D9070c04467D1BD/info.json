@@ -1,0 +1,47 @@
+{
+    "description": "Ethena Restaked sUSDe [rsUSDe] secures, facilitates and monitors restaked network curation on the Ethena ecosystem via Symbiotic. rsUSDe initially will be utilized to secure cross-chain messaging of USDe via LayerZero DVNs, and later multiple layers of the Ethena Chain and Dapps built on this network.",
+    "links": [
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://mevcapital.com/"
+        },
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://re7.capital/"
+        },
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://k3.capital/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-rsusde"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x156BD0377181B6090230B20e4D9070c04467D1BD"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Ethena LRT Vault sUSDe",
+    "tags": [
+        "mellow",
+        "k3",
+        "mev",
+        "re7"
+    ]
+}

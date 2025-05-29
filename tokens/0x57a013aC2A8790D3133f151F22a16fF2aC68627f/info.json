@@ -1,0 +1,26 @@
+{
+  "name": "Lisk rsmBTC Vault OFT",
+  "description": "Re7 has been providing liquidity in DeFi since 2019 deploying capital over across yield strategies and liquid venture investing. As DeFi-native managers, we have focused on providing early liquidity to various DeFi protocols to help grow the ecosystem. Re7 Labs is the innovation arm of digital asset investment firm Re7 Capital, taking the practical experience of DeFi risk management to our on-chain LRT vault.",
+  "tags": [
+    "token",
+    "Lisk rsmBTC Vault OFT"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x57a013aC2A8790D3133f151F22a16fF2aC68627f"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://mellow.finance/"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/interoperable-vaults"
+    }
+  ],
+  "cmcId": "34686"
+}

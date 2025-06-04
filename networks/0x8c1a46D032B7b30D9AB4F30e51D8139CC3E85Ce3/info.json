@@ -20,7 +20,7 @@
       "url": "https://www.tanssi.network/"
     },
     {
-      "type": "twitter",
+      "type": "website",
       "name": "X (Twitter)",
       "url": "https://x.com/TanssiNetwork"
     },
@@ -30,7 +30,7 @@
       "url": "https://docs.tanssi.network/"
     },
     {
-      "type": "discord",
+      "type": "website",
       "name": "Discord",
       "url": "https://discord.gg/tanssi"
     }

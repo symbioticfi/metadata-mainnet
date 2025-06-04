@@ -1,0 +1,38 @@
+{
+  "name": "Tanssi Network",
+  "description": "Tanssi empowers developers to deploy sovereign, customizable appchains anchored by Ethereum-grade security, eliminating traditional infrastructure complexities. Purpose-built for demanding applications like Real-World Assets (RWAs), stablecoins, and advanced coordination protocols, Tanssi delivers a complete, production-ready environment through decentralized, automated orchestration. This includes everything from validator management and rotating sequencers to integrated RPCs, indexers, and explorers—all provisioned out-of-the-box.",
+  "tags": [
+    "Appchains",
+    "Ethereum-backed Security",
+    "Decentralized Infrastructure",
+    "Sovereign Blockchains",
+    "Appchain Orchestration",
+    "Customizable Appchains",
+    "RWA Infrastructure",
+    "EVM Compatible Appchains",
+    "Decentralized Sequencers",
+    "Infrastructure Automation"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.tanssi.network/"
+    },
+    {
+      "type": "twitter",
+      "name": "X (Twitter)",
+      "url": "https://x.com/TanssiNetwork"
+    },
+    {
+      "type": "docs",
+      "name": "Docs Site",
+      "url": "https://docs.tanssi.network/"
+    },
+    {
+      "type": "discord",
+      "name": "Discord",
+      "url": "https://discord.gg/tanssi"
+    }
+  ]
+}

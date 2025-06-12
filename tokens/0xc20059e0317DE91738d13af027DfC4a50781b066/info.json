@@ -1,0 +1,26 @@
+{
+  "name": "SPK",
+  "description": "SPK is the governance token for Spark",
+  "tags": [
+    "token",
+    "SPK"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://spark.fi/"
+    },
+    {
+      "type": "docs",
+      "name": "Analytics",
+      "url": "https://data.spark.fi/spk"
+    },
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/token/0xc20059e0317DE91738d13af027DfC4a50781b066"
+    }
+  ],
+  "cmcId": "36569"
+}

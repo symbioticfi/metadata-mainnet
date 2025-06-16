@@ -1,0 +1,26 @@
+{
+    "name": "Spark SPK Staking Vault",
+    "description": "The Spark Staking Vault enables users to their SPK tokens and earn rewards.",
+    "tags": [
+        "vault",
+        "SPK"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://spark.fi/"
+          },
+        {
+            "type": "docs",
+            "name": "Spark Staking Docs",
+            "url": "https://docs.spark.fi/staking"
+        },
+        {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0x0542206DAD09b1b58f29155b4317F9Bf92CD2701"
+        }
+    ],
+    "curatorName": "Spark"
+}

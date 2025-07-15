@@ -1,0 +1,36 @@
+{
+    "description": "The XHash Dual-Yield Restake Vault converts deposits to wstETH, dynamically reallocates across vetted Symbiotic AVSs, and streams both native staking yield and cross-network restaking rewards—plus Mellow + Symbiotic points—under on-chain risk controls.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.xhash.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Mellow.finance",
+            "type": "website",
+            "url": "https://app.mellow.finance/vaults/ethereum-xhash-dual-yield-restake-vault"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/multi-deployments#xhash-dual-yield-restake-vault-xsteth"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xD6A7933D2Ac0BAf297944d254Eb62A48dEa6E19b"
+        }
+    ],
+    "name": "XHash Dual-Yield Restake Vault",
+    "tags": [
+        "mellow",
+        "xhash",
+        "cp0x"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "description": "Established in 2004, Flow Traders is a leading multi-asset market maker that has been publicly listed on the Amsterdam Stock Exchange since 2015. The firm expanded into digital assets trading in 2017, focusing on centralized exchanges before expanding its operations to include over-the-counter trading, options trading and decentralized finance. Additionally, Flow Traders strategically invests in builders and teams driving the convergence of centralized and decentralized finance.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.flowtraders.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-flow-traders-restaking-vault"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xA57f8127b500D937D3bddC8c1D9d6e4A5D20AdA3"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/multivault/architecture"
+        }
+    ],
+    "name": "Flow Traders Restaking Vault",
+    "tags": [
+        "mellow",
+        "Flow Traders"
+    ]
+}

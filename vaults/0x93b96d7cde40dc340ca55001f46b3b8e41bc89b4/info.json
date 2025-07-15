@@ -1,6 +1,6 @@
 {
   "name": "Ryabina wstETH",
-  "description": "Since 2019, ryabina.io has been a trusted validator and Web3 developer, contributing to Ethereum, Polkadot, The Graph and beyond. Our OG team runs web3alert.io and graphscan.io.",
+  "description": "Since 2019, ryabina.io has been a trusted validator and Web3 developer, contributing to Ethereum, Polkadot, The Graph and beyond. Our OG team runs web3alert.io and graphscan.io. By depositing into this Vault you accept the [disclaimer](https://ryabina.io/symbiotic-vaults-disclaimer).",
   "tags": [
     "vault",
     "token:wstETH"
@@ -20,6 +20,11 @@
 			"type": "website",
 			"name": "Telegram",
 			"url": "https://t.me/RyabinaValidator"
+		},
+		{
+			"type": "website",
+			"name": "Disclaimer",
+			"url": "https://ryabina.io/symbiotic-vaults-disclaimer"
 		}
   ]
 }

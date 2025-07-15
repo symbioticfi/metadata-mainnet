@@ -1,0 +1,17 @@
+{
+	"name": "MEV Capital cbETH Vault",
+	"description": "A secure vault curated by MEV Capital",
+	"tags": ["vault", "MEV Capital", "cbETH"],
+	"links": [
+		{
+			"type": "website",
+			"name": "website",
+			"url": "https://mevcapital.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/MEVCapital"
+		}
+	]
+}

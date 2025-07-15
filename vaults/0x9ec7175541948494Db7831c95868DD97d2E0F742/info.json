@@ -1,0 +1,20 @@
+{
+    "description": "Curated by the StakeWise development team, the Restaking Vault aims to maximize restaking opportunities for its users.",
+    "links": [
+        {
+            "name": "StakeWise osETH",
+            "type": "externalLink",
+            "url": "https://app.stakewise.io/"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x9ec7175541948494db7831c95868dd97d2e0f742"
+        }
+    ],
+    "name": "StakeWise osETH",
+    "tags": [
+        "osETH",
+        "stakewise"
+    ]
+}

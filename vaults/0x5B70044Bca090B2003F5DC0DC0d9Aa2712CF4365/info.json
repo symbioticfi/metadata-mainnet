@@ -1,0 +1,35 @@
+{
+  "name": "BlockHunters wstETH",
+  "description": "Curated by BlockHunters team, operating blockchain infrastructure at the highest level since 2020.",
+  "tags": [
+    "vault",
+    "DeFi"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://blockhunters.org/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/blockhuntersOrg"
+    },
+    {
+      "type": "website",
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/blockhuntersvalidators"
+    },
+    {
+      "type": "website",
+      "name": "Youtube",
+      "url": "https://www.youtube.com/c/blockhuntersofficial4068"
+    },
+    {
+      "type": "docs",
+      "name": "Vault Documentation",
+      "url": "https://blockhunters.dev/mainnet/symbiotic"
+    }
+  ]
+}

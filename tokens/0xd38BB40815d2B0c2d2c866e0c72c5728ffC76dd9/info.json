@@ -1,0 +1,26 @@
+{
+  "name": "SIS",
+  "description": "SIS is the governance token of Symbiosis which is used for DAO votings, staking in relayers network, reduced fees for veSIS holders and more.",
+  "tags": [
+    "token",
+    "SIS"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/token/0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://symbiosis.finance"
+    },
+    {
+      "type": "docs",
+      "name": "SIS Token Documentation",
+      "url": "https://docs.symbiosis.finance/main-concepts/symbiosis-sis-token"
+    }
+  ],
+  "cmcId": "15084"
+}

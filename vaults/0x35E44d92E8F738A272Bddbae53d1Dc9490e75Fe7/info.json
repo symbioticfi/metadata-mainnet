@@ -1,0 +1,21 @@
+{
+    "description": "Re7 has been providing liquidity in DeFi since 2019 deploying capital over across yield strategies and liquid venture investing. As DeFi-native managers, we have focused on providing early liquidity to various DeFi protocols to help grow the ecosystem. Re7 Labs is the innovation arm of digital asset investment firm Re7 Capital, taking the practical experience of DeFi risk management to our on-chain vaults.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.re7labs.xyz/"
+        },
+        {
+            "name": "X",
+            "type": "website",
+            "url": "https://x.com/Re7Labs"
+        }
+    ],
+    "name": "Restaking Vault wBTC [all networks]",
+    "tags": [
+        "WBTC",
+        "re7 Labs",
+        "vault"
+    ]
+}

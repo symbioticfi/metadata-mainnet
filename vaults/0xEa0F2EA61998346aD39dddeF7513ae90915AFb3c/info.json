@@ -1,0 +1,33 @@
+{
+	"name": "Restaked LsETH Vault",
+	"description": "Restaked LsETH vault secures, facilitates & monitors Networks curation on Symbiotic ecosystem. rLsETH aims at minimizing: -operator authority bias -unintended slashing -trust/security assumptions while keeping a competitive risk-adjusted yield for LsETH restakers.",
+	"tags": [
+		"vault",
+		"liquidcollective",
+		"MEV Capital",
+		"LsETH",
+		"rLsETH"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "website",
+			"url": "https://liquidcollective.io/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/liquid_col"
+		},
+		{
+			"type": "website",
+			"name": "curator's website",
+			"url": "https://mevcapital.com/"
+		},
+		{
+			"type": "website",
+			"name": "curator's X",
+			"url": "https://x.com/MEVCapital"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "MEV Capital mETH Vault",
+	"description": "A secure vault curated by MEV Capital",
+	"tags": ["vault", "MEV Capital", "mETH"],
+	"links": [
+		{
+			"type": "website",
+			"name": "website",
+			"url": "https://mevcapital.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/mevcapital"
+		}
+	]
+}

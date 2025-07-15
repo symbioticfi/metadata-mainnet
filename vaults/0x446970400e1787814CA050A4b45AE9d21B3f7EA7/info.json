@@ -1,5 +1,5 @@
 {
-    "description": "Amphor Restaked ETH [amphrETH] secures, facilitates & monitors Restaked Networks curation on Symbiotic ecosystem. amprETH LRT aims at minimizing:\n  -operator authority bias\n  -unintended slashing\n  -trust/security assumptions\nwhile keeping a competitive risk-adjusted yield for ETH restakers.",
+    "description": "MEV Capital restaked ETH [amphrETH] secures, facilitates & monitors Restaked Networks curation on Symbiotic ecosystem. amprETH LRT aims at minimizing:\n  -operator authority bias\n  -unintended slashing\n  -trust/security assumptions\nwhile keeping a competitive risk-adjusted yield for ETH restakers.",
     "links": [
         {
             "name": "Website",
@@ -22,7 +22,7 @@
             "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
         }
     ],
-    "name": "Amphor Restaked ETH",
+    "name": "MEV Capital restaked ETH",
     "tags": [
         "mellow",
         "mev-capital"

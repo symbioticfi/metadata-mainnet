@@ -1,0 +1,26 @@
+{
+    "cmcId": "7497",
+    "description": "POND is the utility token of the Marlin protocol which can be used to stake to receive blocks/transactions from Marlin nodes while MPond is used to operate Marlin nodes to join the Marlin network.",
+    "links": [
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x57b946008913b82e4df85f501cbaed910e58d26c"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.marlin.org/"
+        },
+        {
+            "name": "Intro into Marlin",
+            "type": "docs",
+            "url": "https://docs.marlin.org/oyster/introduction-to-marlin/"
+        }
+    ],
+    "name": "POND",
+    "tags": [
+        "token",
+        "POND"
+    ]
+}

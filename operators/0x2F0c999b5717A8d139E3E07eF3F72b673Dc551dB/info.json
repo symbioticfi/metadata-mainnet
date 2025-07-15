@@ -1,0 +1,19 @@
+{
+	"name": "Galaxy",
+	"description": "Galaxy is a digital asset and blockchain leader helping institutions, startups, and qualified individuals shape a changing economy. We provide platform solutions custom-made for a digitally native ecosystem.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://galaxy.com/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/galaxyhq"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "cmETH Restaked mETH Vault",
+    "description": "This vault serves as the restaked $mETH vault for Mantle’s $cmETH, curated by Gauntlet. $cmETH provides holders with rewards generated through whitelisted restaking strategies, while promoting adoption across a wide range of applications. The vault is designed to maximize non-slashable returns for $cmETH holders.",
+    "tags": [
+      "vault",
+      "token:mETH",
+      "mETH",
+      "cmETH",
+      "Mantle",
+      "Gauntlet"
+    ],
+    "links": [
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/token/0xe6829d9a7ee3040e1276fa75293bde931859e8fa"
+      },
+      {
+        "type": "website",
+        "name": "Deposit",
+        "url": "https://www.methprotocol.xyz/"
+      },
+      {
+        "type": "docs",
+        "name": "mETH Docs",
+        "url": "https://docs.mantle.xyz/meth"
+      },
+      {
+        "type": "website",
+        "name": "Gauntlet",
+        "url": "https://www.gauntlet.xyz/"
+      }
+    ]
+  }

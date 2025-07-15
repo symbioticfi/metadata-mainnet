@@ -1,0 +1,24 @@
+{
+  "name": "Tessellated",
+  "description": "Tessellated provides validation and infrastructure across 30+ networks. We are a small and independent operator who helps to decentralize ecosystems",
+  "tags": [
+    "operator"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://tessellated.io/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/tessellated_io"
+    },
+    {
+      "type": "website",
+      "name": "Github",
+      "url": "https://github.com/tesellated-io"
+    }
+  ]
+}

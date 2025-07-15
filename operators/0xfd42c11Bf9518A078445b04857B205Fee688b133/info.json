@@ -1,6 +1,6 @@
 {
     "name": "blockscape",
-    "description": "Blockscape Finance AG is a Swiss company that provides enterprise-grade node operations for blockchains. We are running world-class infrastructure in multiple data centers across the globe.",
+    "description": "Blockscape Finance AG is a Swiss-based blockchain infrastructure provider offering enterprise-grade validator and node services. We operate secure, non-custodial staking infrastructure across global data centers, ensuring high-performance validation, institutional reliability, and seamless blockchain participation.",
     "tags": [
 		"operator"
 	],
@@ -9,6 +9,21 @@
             "type": "website",
             "name": "Website",
             "url": "https://blockscape.network"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/BlockscapeLab"
+        },
+        {
+            "type": "website",
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/blockscapefinance"
+        },
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.gg/mkqWb9kWFV"
         }
     ]
 }

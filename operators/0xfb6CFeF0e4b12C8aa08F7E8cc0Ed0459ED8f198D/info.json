@@ -1,0 +1,14 @@
+{
+	"name": "vido.info",
+	"description": "professional infrastructure provider for web3",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.vido.info/"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+    "description": "cp0x LRT Conservative Vault is designed to provide secure and reliable restaking opportunities while adhering to a conservative, for degens like us, strategy. cp0x is a Web3 community of Brodsky enthusiasts and a trusted node operator, actively participating in decentralization and governance across leading blockchain networks with a longstanding ‘cpok’. With a focus on user education and transparency, cp0x ensures sustainable growth and mutual benefits for all participants.",
+    "links": [
+        {
+            "name": "Curator Website",
+            "type": "website",
+            "url": "https://cp0x.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-cp0xlrt"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x82c304aa105fbbE2aA368A83D7F8945d41f6cA54"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "cp0x LRT Conservative Vault",
+    "tags": [
+        "mellow",
+        "cp0x"
+    ]
+}

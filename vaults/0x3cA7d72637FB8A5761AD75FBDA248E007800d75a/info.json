@@ -1,0 +1,26 @@
+{
+    "description": "A secure vault curated by MEV Capital",
+    "links": [
+		{
+			"type": "website",
+			"name": "MEV",
+			"url": "https://mevcapital.com/"
+		},
+		{
+			"type": "website",
+			"name": "ethena",
+			"url": "https://ethena.fi/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/mevcapital"
+		}
+    ],
+    "name": "MEV Capital restaked sUSDe",
+    "tags": [
+        "sUSDe",
+        "mev-capital",
+		"ethena"
+    ]
+}

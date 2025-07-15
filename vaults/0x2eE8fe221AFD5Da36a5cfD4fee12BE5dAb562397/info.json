@@ -1,0 +1,30 @@
+{
+    "name": "Symbiosis Vault - SIS",
+    "description": "Symbiosis is a cross-chain AMM DEX that pools together liquidity from different networks: L1s and L2s, EVM and non-EVM. With Symbiosis, you can easily swap any token and move your assets across different networks.",
+    "tags": [
+        "vault",
+        "token:SIS"
+    ],
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/token/0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9"
+        },
+        {
+            "type": "website",
+            "name": "Symbiosis App",
+            "url": "https://app.symbiosis.finance/swap"
+        },
+        {
+            "type": "docs",
+            "name": "Symbiosis Documentation",
+            "url": "https://docs.symbiosis.finance"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/symbiosis_fi"
+        }
+    ]
+}

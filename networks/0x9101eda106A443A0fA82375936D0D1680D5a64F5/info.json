@@ -1,19 +1,34 @@
 {
 	"name": "Mev-commit",
-	"description": "Mev-commit is a credible commitment network that enhances validator yield, offering preconfirmations to make Ethereum fast. Mev-commit is a p2p networking platform that facilitates end-to-end encrypted real-time interactions and coordination between mev actors and execution providers, settling on a high throughput blockchain.",
+	"description": "Primev's mev-commit makes Ethereum FAST by enabling preconfirmations and new types of mev using an encrypted mempool, enhancing yield for opted-in validators.",
 	"tags": [
 		"network"
 	],
 	"links": [
 		{
 			"type": "website",
-			"name": "X Account",
-			"url": "https://x.com/primev_xyz"
+			"name": "Website",
+			"url": "https://primev.xyz/"
 		},
 		{
 			"type": "docs",
-			"name": "Mev-commit Docs",
+			"name": "Docs",
 			"url": "https://docs.primev.xyz/"
+		},
+		{
+			"type": "externalLink",
+			"name": "Validator Dashboard",
+			"url": "https://validators.mev-commit.xyz/"
+		},
+		{
+			"type": "externalLink",
+			"name": "Github Repository",
+			"url": "https://github.com/primev/mev-commit"
+		},
+		{
+			"type": "externalLink",
+			"name": "X Account",
+			"url": "https://x.com/primev_xyz"
 		}
 	]
 }

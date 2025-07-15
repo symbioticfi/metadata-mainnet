@@ -1,0 +1,19 @@
+{
+	"name": "ZKV",
+	"description": "Zero Knowledge Validator: Stake & Support ZKP Research & Privacy Tech",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://zkv.xyz/"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/zkv_xyz"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "MEV Capital-K3 LBTC Vault",
+	"description": "MEV Capital-K3 Restaked LBTC vaults secures, facilitates & monitors Networks curation and Node delegation on Symbiotic ecosystem. The Restaked Lombard BTC Vault aims at minimizing: operator authority bias, unintended slashing, trust/security assumptions - while keeping a competitive risk-adjusted yield for LBTC restakers.",
+	"tags": ["vault", "MEV Capital", "LBTC", "K3 Capital"],
+	"links": [
+		{
+			"type": "website",
+			"name": "MEV Capital's website",
+			"url": "https://mevcapital.com/"
+		},
+		{
+			"type": "website",
+			"name": "MEV Capital's X",
+			"url": "https://x.com/mevcapital"
+		},
+		{
+			"type": "website",
+			"name": "K3 Capital's X",
+			"url": "https://x.com/mevcapital"
+		},
+		{
+			"type": "website",
+			"name": "K3 Capital's website",
+			"url": "https://k3.capital/"
+		}
+	]
+}

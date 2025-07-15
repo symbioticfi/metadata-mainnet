@@ -1,0 +1,19 @@
+{
+	"name": "Symbiosis",
+    "description": "Symbiosis is a cross-chain AMM DEX that pools together liquidity from different networks: L1s and L2s, EVM and non-EVM. With Symbiosis, you can easily swap any token and move your assets across different networks.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://symbiosis.finance"
+		},
+        {
+          "type": "docs",
+          "name": "Symbiosis Documentation",
+          "url": "https://docs.symbiosis.finance/"
+        }
+	]
+}

@@ -1,0 +1,37 @@
+{
+    "description": "Bedrock, powered by RockX, is the first multi-asset liquid restaking protocol. Leading the charge is Bedrock’s uniBTC, a Bitcoin liquid staking token that allows holders to earn Babylon rewards on their BTC while maintaining liquidity.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.rockx.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-rsunibtc"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Bedrock Restaked uniBTC",
+    "tags": [
+        "mellow",
+        "RockX",
+        "Bedrock"
+    ],
+    "cmcId": "36175"
+}

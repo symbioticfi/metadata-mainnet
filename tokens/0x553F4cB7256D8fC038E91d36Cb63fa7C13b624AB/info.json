@@ -1,0 +1,32 @@
+{
+  "name": "Tanssi Network",
+  "description": "$TANSSI is the native utility token powering the Tanssi Network, a decentralized, permissionless infrastructure protocol designed for launching Ethereum-secured appchains in minutes. $TANSSI underpins critical network functions, including Ethereum-backed security, decentralized sequencing, data availability, and seamless cross-chain messaging.",
+  "tags": ["token", "TANSSI"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.tanssi.network/"
+    },
+    {
+      "type": "website",
+      "name": "X (Twitter)",
+      "url": "https://x.com/TanssiNetwork"
+    },
+    {
+      "type": "docs",
+      "name": "Docs Site",
+      "url": "https://docs.tanssi.network/"
+    },
+    {
+      "type": "website",
+      "name": "Discord",
+      "url": "https://discord.gg/tanssi"
+    },
+    {
+      "type": "website",
+      "name": "Tanssi Foundation",
+      "url": "https://www.tanssi.foundation/"
+    }
+  ]
+}

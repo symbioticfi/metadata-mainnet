@@ -1,0 +1,35 @@
+{
+  "description": "Restaked BTC [rtBTC] secures, facilitates & monitors Restaked Networks curation on the Symbiotic ecosystem. rtBTC LRT aims at minimizing:\n- operator authority bias\n- unintended slashing\n- trust/security assumptions while keeping a competitive risk-adjusted yield for tBTC restakers.",
+  "links": [
+    {
+      "name": "Curator website",
+      "type": "website",
+      "url": "https://mevcapital.com/"
+    },
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://mellow.finance/"
+    },
+    {
+      "name": "Deposit",
+      "type": "externalLink",
+      "url": "https://app.mellow.finance/vaults/ethereum-restaked-tBTC"
+    },
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xa5C47FE5C30d2547ddc1ccEfac5a515902178dE6"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.mellow.finance/multivault/architecture"
+    }
+  ],
+  "name": "restaked tBTC",
+  "tags": [
+    "mellow",
+    "MEV"
+  ]
+}

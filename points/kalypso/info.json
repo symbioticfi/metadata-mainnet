@@ -1,0 +1,27 @@
+{
+	"name": "Kalypso",
+	"description": "Kalypso is a circuit-agnostic ZK proof marketplace enabling users to outsource generation of ZK proofs to sophisticated hardware providers. It leverages TEEs to support circuits with private inputs. The orderbook-based matching engine allows users to tailor their proof requests by prioritizing either response time or cost efficiency, offering flexibility to meet diverse needs.",
+	"tags": [
+		"TEEs",
+		"ZK",
+		"GPUs",
+		"Marketplace"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://kalypso.org/"
+		},
+		{
+			"type": "docs",
+			"name": "Kalypso Documentation",
+			"url": "https://docs.kalypso.org/"
+		},
+		{
+			"type": "example",
+			"name": "Join Kalypso",
+			"url": "https://docs.kalypso.org/tutorials/nitro-attestation-verification-risc0/"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Mev-commit",
+	"description": "Primev's mev-commit makes Ethereum FAST by enabling preconfirmations and new types of mev using an encrypted mempool, enhancing yield for opted-in validators.",
+	"tags": [
+		"network"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://primev.xyz/"
+		},
+		{
+			"type": "docs",
+			"name": "Docs",
+			"url": "https://docs.primev.xyz/"
+		},
+		{
+			"type": "externalLink",
+			"name": "Validator Dashboard",
+			"url": "https://validators.mev-commit.xyz/"
+		},
+		{
+			"type": "externalLink",
+			"name": "Github Repository",
+			"url": "https://github.com/primev/mev-commit"
+		},
+		{
+			"type": "externalLink",
+			"name": "X Account",
+			"url": "https://x.com/primev_xyz"
+		}
+	]
+}

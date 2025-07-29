@@ -29,6 +29,11 @@
 			"type": "externalLink",
 			"name": "X Account",
 			"url": "https://x.com/primev_xyz"
+		},
+		{
+			"type": "externalLink",
+			"name": "Explorer",
+			"url": "https://www.mev-commit.xyz/"
 		}
 	]
 }

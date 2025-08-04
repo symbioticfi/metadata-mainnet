@@ -1,0 +1,22 @@
+{
+  "name": "FRAX Vault OFT",
+  "description": "The FRAX token (Prev. FXS) is the non-stable, utility token in the protocol. It is meant to be volatile and hold rights to governance and all utility of the system. Parameters that are up for governance through FRAX include adjusting various fees, allocating protocol assets, and enabling new lending pairs for Fraxlend",
+  "tags": ["token", "FRAX Vault OFT"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xf85932AcE734E3CF04b5c2a6Cb7B10f44014eCb9"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://mellow.finance/"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/interoperable-vaults"
+    }
+  ]
+}

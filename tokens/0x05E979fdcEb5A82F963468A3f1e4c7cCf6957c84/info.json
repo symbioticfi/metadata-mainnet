@@ -1,0 +1,22 @@
+{
+  "name": "CycleNetwork Vault OFT",
+  "description": "Cycle Network is a bridgeless all-chain settlement layer with 400M TVL, 2.7M+ mainnet Txs, and 680K+ fans. Backed by Vertex Ventures and Incubated by YZi Labs, it powers 100+ use cases via Cycle SDK, Piggy Bank, and Golden Goose.",
+  "tags": ["token", "CycleNetwork Vault OFT"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x05E979fdcEb5A82F963468A3f1e4c7cCf6957c84"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://mellow.finance/"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/interoperable-vaults"
+    }
+  ]
+}

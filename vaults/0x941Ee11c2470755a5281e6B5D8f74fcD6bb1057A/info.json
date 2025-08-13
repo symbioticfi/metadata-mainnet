@@ -1,0 +1,36 @@
+{
+    "description": "Cycle Network is a bridgeless all-chain settlement layer with 400M TVL, 2.7M+ mainnet Txs, and 680K+ fans. Backed by Vertex Ventures and Incubated by YZi Labs, it powers 100+ use cases via Cycle SDK, Piggy Bank, and Golden Goose.",
+    "links": [
+        {
+            "name": "Cycle Network",
+            "type": "website",
+            "url": "https://www.cyclenetwork.io/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Blockscout",
+            "type": "explorer",
+            "url": "https://eth.blockscout.com/address/0x941Ee11c2470755a5281e6B5D8f74fcD6bb1057A"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/bsc-cyclenetwork-vault"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/interoperable-vaults/interop-deployments"
+        }
+    ],
+    "name": "CycleNetwork Vault",
+    "tags": [
+        "mellow",
+        "cycle",
+        "interoperability"
+    ]
+}

@@ -1,6 +1,6 @@
 {
-  "name": "Tanssi Vault",
-  "description": "Tanssi empowers developers to deploy sovereign, customizable appchains anchored by Ethereum-grade security, eliminating traditional infrastructure complexities. Purpose-built for demanding applications like Real-World Assets (RWAs), stablecoins, and advanced coordination protocols, Tanssi delivers a complete, production-ready environment through decentralized, automated orchestration. This includes everything from validator management and rotating sequencers to integrated RPCs, indexers, and explorers—all provisioned out-of-the-box.",
+  "name": "TANSSI Vault (ERC-20)",
+  "description": "The Tanssi Vault allows anyone to stake their TANSSI tokens (ERC-20) and earn incentives for securing the network's growth and reliability. Stakers help provide Ethereum-grade economic security to Tanssi's sovereign appchains, ensuring they remain decentralized, performant, and ready for high-value use cases from day one. Tanssi empowers developers to deploy customizable appchains anchored by Ethereum-backed security, eliminating infrastructure complexities. Purpose-built for demanding applications like Real-World Assets (RWAs), stablecoins, and advanced coordination protocols, Tanssi delivers a complete, production-ready environment through decentralized, automated orchestration—including validator management, rotating sequencers, integrated RPCs, indexers, and explorers provisioned out-of-the-box.",
   "tags": [
     "Appchains",
     "Ethereum-backed Security",
@@ -11,7 +11,9 @@
     "RWA Infrastructure",
     "EVM Compatible Appchains",
     "Decentralized Sequencers",
-    "Infrastructure Automation"
+    "Infrastructure Automation",
+    "TANSSI Staking",
+    "Network Incentives"
   ],
   "links": [
     {

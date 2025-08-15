@@ -1,0 +1,23 @@
+{
+  "name": "HYPER",
+  "description": "HYPER is the Hyperlane protocol's token.",
+  "tags": ["modular", "permissionless", "cross-chain", "interoperability"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://hyperlane.xyz/"
+    },
+    {
+      "type": "explorer",
+      "name": "Message Explorer",
+      "url": "https://explorer.hyperlane.xyz"
+    },
+    {
+      "type": "docs",
+      "name": "Hyperlane Documentation",
+      "url": "https://docs.hyperlane.xyz/"
+    }
+  ],
+  "cmcId": "36281"
+}

@@ -36,5 +36,11 @@
       "name": "Discord",
       "url": "https://discord.gg/tanssi"
     }
+  ],
+  "rewards": [
+    {
+      "type": "defaultStakingRewardsV2Epoched",
+      "address": "0x19F26797fDE27a906E0670BB5f340D785478C228"
+    }
   ]
 }

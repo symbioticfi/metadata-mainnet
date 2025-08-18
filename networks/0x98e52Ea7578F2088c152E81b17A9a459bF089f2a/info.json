@@ -1,0 +1,21 @@
+{
+    "name": "Cap",
+    "description": "Stablecoin protocol with credible financial guarantees",
+    "tags": [
+        "network",
+        "DeFi",
+        "Stablecoin"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://cap.app"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.cap.app"
+        }
+    ]
+}

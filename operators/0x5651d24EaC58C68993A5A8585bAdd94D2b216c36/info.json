@@ -1,0 +1,45 @@
+{
+  "name": "Tanssi Foundation",
+  "description": "The Tanssi Foundation is the steward of the Tanssi network. Its role is to guide the long-term growth, stability, and decentralization of the ecosystem. The foundation focuses on governance, research, community initiatives, and ecosystem support to ensure the network continues to evolve in a secure and sustainable way.",
+  "tags": [
+    "Appchains",
+    "Ethereum-backed Security",
+    "Decentralized Infrastructure",
+    "Sovereign Blockchains",
+    "Appchain Orchestration",
+    "Customizable Appchains",
+    "RWA Infrastructure",
+    "EVM Compatible Appchains",
+    "Decentralized Sequencers",
+    "Infrastructure Automation",
+    "TANSSI Staking",
+    "Network Incentives"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Foundation Website",
+      "url": "https://www.tanssi.foundation/"
+    },
+    {
+      "type": "website",
+      "name": "Tanssi Website",
+      "url": "https://tanssi.network/"
+    },
+    {
+      "type": "website",
+      "name": "X (Twitter)",
+      "url": "https://x.com/TanssiNetwork"
+    },
+    {
+      "type": "docs",
+      "name": "Docs Site",
+      "url": "https://docs.tanssi.network/"
+    },
+    {
+      "type": "website",
+      "name": "Discord",
+      "url": "https://discord.gg/tanssi"
+    }
+  ]
+}

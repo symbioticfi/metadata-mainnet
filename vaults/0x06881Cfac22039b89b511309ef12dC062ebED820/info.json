@@ -1,0 +1,20 @@
+{
+    "description": "The Concrete Vault delegating WBTC to the Concrete operator for Cap. The WBTC Vault enables users to earn BTC-denominated yield, where deposits are allocated across protocols ezBTC, Aave loops, delta-neutral Hyperliquid trades and CAP structured yield flows.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.concrete.xyz/"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.concrete.xyz/Overview/welcome"
+        }
+    ],
+    "name": "Concrete ",
+    "tags": [
+        "Concrete",
+        "Cap"
+    ]
+}

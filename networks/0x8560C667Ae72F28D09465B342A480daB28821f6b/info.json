@@ -1,7 +1,6 @@
 {
     "name": "Ditto Network",
-    "description": "Ditto Network is a decentralized automation protocol designed to run on-chain intents. By leveraging shared security, Ditto ensures trustless, reliable execution of workflows across EVM-compatible chains. Developers can use Ditto to automate complex processes, such as liquidation protection, yield-optimization, portfolio rebalancing, unlocking new possibilities for decentralized applications and AI-driven agents.",    "tags": [
-        "network",
+        "description": "Ditto Network is a decentralized automation protocol designed to run on-chain intents. By leveraging shared security, Ditto ensures trustless, reliable execution of workflows across EVM-compatible chains. Developers can use Ditto to automate complex processes, such as liquidation protection, yield-optimization, portfolio rebalancing, unlocking new possibilities for decentralized applications and AI-driven agents.",        "network",
         "execution layer",
         "keeper network",
         "automation",

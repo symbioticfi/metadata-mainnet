@@ -1,0 +1,24 @@
+{
+    "name": "Eclipse",
+    "description": "ECLIPSE IS SOLANA ON ETHEREUM. Ethereum’s First SVM L2.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.eclipse.xyz"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/EclipseFND"
+        },
+        {
+            "type": "website",
+            "name": "Discord",
+            "url": "https://discord.com/invite/eclipse-fnd"
+        }
+    ]
+}

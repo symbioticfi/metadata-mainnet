@@ -1,0 +1,21 @@
+{
+    "description": "This Renzo pzETH sub-vault delegates wstETH to the Concrete operator for Cap.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.renzoprotocol.com/"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.concrete.xyz/Overview/welcome"
+        }
+    ],
+    "name": "Renzo-Concrete",
+    "tags": [
+        "Concrete",
+        "Cap",
+        "Renzo"
+    ]
+}

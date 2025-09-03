@@ -14,15 +14,14 @@ jobs:
       pull-requests: write
 
     steps:
-
       - name: Detect changed files
-        uses: yumemi-inc/changed-files@v3
+        uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c  # pin@v3.2.0
         id: changes
         with:
           exclude-statuses: 'removed'
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8  # pin@v5.0.0
         with:
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}

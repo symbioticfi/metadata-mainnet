@@ -1,6 +1,6 @@
 # **Symbiotic entities metadata repository**
 
-This repository is designed to manage metadata and related resources for decentralized entities, such as vaults, networks, operators, and tokens.
+This repository is designed to manage metadata and related resources for decentralized entities, such as vaults, networks, operators, tokens, points, and curators.
 It provides a standardized structure for organizing and accessing information about these entities.
 By contributing to this repository, you help create a reliable, decentralized knowledge base. After being merged, this
 data will be used in [app.symbiotic.fi]() to provide users with accurate and up-to-date information about various entities in the DeFi ecosystem.
@@ -20,11 +20,28 @@ repository/
 │   │   ├── info.json
 │   │   └── logo.png (optional)
 ├── networks/
+│   ├── 0x<address>/
+│   │   ├── info.json
+│   │   └── logo.png (optional)
 ├── operators/
+│   ├── 0x<address>/
+│   │   ├── info.json
+│   │   └── logo.png (optional)
 ├── tokens/
+│   ├── 0x<address>/
+│   │   ├── info.json
+│   │   └── logo.png (optional)
+├── points/
+│   ├── <points_distributor_id>/
+│   │   ├── info.json
+│   │   └── logo.png (optional)
+├── curators/
+│   ├── <curator_id>/
+│   │   ├── info.json
+│   │   └── logo.png (optional)
 ```
 
-Each entity is identified by its Ethereum address (`0x...`), and its data is stored in a folder named after the address. Inside this folder, there must be a file `info.json` containing metadata, and optionally, an icon file `logo.png`.
+Each entity is identified by its Ethereum address (`0x...`), Points distributor ID (for points) or Curator ID (for curators), and its data is stored in a folder named after the address or ID. Inside this folder, there must be a file `info.json` containing metadata, and optionally, an icon file `logo.png`.
 
 ---
 
@@ -33,13 +50,13 @@ Each entity is identified by its Ethereum address (`0x...`), and its data is sto
 **Note: After your PR is submitted, email your PR link to verify@symbiotic.fi from your official business email (domain must match that of your entity website) to allow us to confirm your identity ahead of merging your PR.**
 
 1. **Determine the entity type**:
-    - Decide whether the entity belongs to `vaults`, `networks`, `operators`, or `tokens`.
-    - If the entity is a `vault`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
+    - Decide whether the entity belongs to `vaults`, `networks`, `operators`, `tokens`, `points`, or `curators`.
+    - If the entity is a `vault` or `points`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
 2. **Register the entity in the registry**:
     - Before adding metadata for vaults, networks, or operators, ensure that they are registered in their respective registries. You can find the current registry contract addresses in the [Symbiotic documentation](https://docs.symbiotic.fi/deployments/current). Unregistered entities will not be accepted.
 4. **Create a new folder**:
     - Navigate to the appropriate directory for the entity type.
-    - Create a folder named after the Ethereum address (e.g., `0x1234567890abcdef1234567890abcdef12345678`).
+    - Create a folder named after the Ethereum address (e.g., `0x1234567890abcdef1234567890abcdef12345678`) or point ID (e.g., `kalypso`).
 5. **Add the `info.json` file**:
     - Include metadata in the specified format (see below).
 6. **(Optional) Add an icon file**:
@@ -65,7 +82,11 @@ The `info.json` file must follow this structure:
 - `permitVersion` (string): The `version` field for EIP-2612 support.
 
 #### **Optional Fields for Vaults**
-- `curatorName` (string): The `name` of the curator of the vault.
+- `curatorId` (string): The ID of the curator of the vault.
+
+#### **Optional Fields for Points**
+- `type` (string): The type of the point (e.g., "network").
+- `decimals` (number): The number of decimal places for the point.
 
 #### **Supported `links` Types**
 Each link should include:
@@ -143,6 +164,7 @@ If you want to include an icon for the entity, follow these guidelines:
 - **File Name**: `logo.png`
 - **Dimensions**: 256x256 pixels
 - **Format**: PNG
+- **File Size**: up to 200KB
 
 Place the `logo.png` file in the same folder as the `info.json` file.
 
@@ -155,15 +177,22 @@ Before submitting your PR, ensure the following:
     - It must start with `0x` and be exactly 42 characters long.
 2. The `info.json` file is valid:
     - Use a JSON validator, such as [https://jsonlint.com/](https://jsonlint.com/).
-3. The `logo.png` file (if included) meets the size requirement of **256x256 pixels**.
+3. The `logo.png` file (if included) meets the requirements:
+    - Dimensions: 256x256 pixels
+    - Maximum file size: 200KB
+4. Points Distributor ID and Curator ID should be in slug format:
+    - Lowercase letters, numbers, and hyphens only
+    - No spaces or special characters
+    - Example: `my-points-program` or `my-curator-name`
+
 
 ---
 
 ### **Submitting the Pull Request**
 
 Once your files are added to the repository, create a Pull Request with the following details:
-1. **Entity Type**: Specify the type (vault, network, operator, token).
-2. **Ethereum Address**: Provide the address of the entity.
+1. **Entity Type**: Specify the type (vault, network, operator, token, point, curator).
+2. **Ethereum Address** or **ID**: Provide the address or ID of the entity.
 3. **Description**: Summarize the entity’s purpose and data.
 
 #### **Example PR Description**

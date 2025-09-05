@@ -1,5 +1,5 @@
 {
-    "description": "The Concrete Operator receiving WBTC from the Concrete Vault for Cap. The Concrete Operator allocates across protocols such as ezBTC, Aave loops, delta-neutral Hyperliquid trades and CAP structured yield flows.",
+    "description": "The Concrete Operator receiving wstETH from the Renzo pzETH sub-vault.",
     "links": [
         {
             "name": "Website",
@@ -12,7 +12,7 @@
             "url": "https://docs.concrete.xyz/Overview/welcome"
         }
     ],
-    "name": "Concrete-Concrete",
+    "name": "Concrete-Renzo",
     "tags": [
         "Concrete",
         "Cap"

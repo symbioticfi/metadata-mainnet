@@ -1,0 +1,17 @@
+{
+  "name": "Block'n'Bones cbBTC",
+  "description": "Led by an international team of blockchain researchers, pioneering crypto and AI since 2017.",
+  "tags": ["vault", "token:cbBTC"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://blockandbones.com"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/BlockBones232"
+    }
+  ]
+}

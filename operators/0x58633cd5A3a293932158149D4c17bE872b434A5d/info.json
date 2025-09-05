@@ -1,0 +1,20 @@
+{
+    "description": "The Concrete Operator receiving WBTC from the Concrete Vault for Cap. The Concrete Operator allocates across protocols such as ezBTC, Aave loops, delta-neutral Hyperliquid trades and CAP structured yield flows.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.concrete.xyz/"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.concrete.xyz/Overview/welcome"
+        }
+    ],
+    "name": "Concrete-Concrete",
+    "tags": [
+        "Concrete",
+        "Cap"
+    ]
+}

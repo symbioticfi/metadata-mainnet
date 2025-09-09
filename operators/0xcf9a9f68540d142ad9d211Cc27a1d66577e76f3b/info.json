@@ -1,0 +1,20 @@
+{
+    "description": "The Concrete Operator receiving wstETH from the Renzo pzETH sub-vault.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.concrete.xyz/"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.concrete.xyz/Overview/welcome"
+        }
+    ],
+    "name": "Concrete-Renzo",
+    "tags": [
+        "Concrete",
+        "Cap"
+    ]
+}

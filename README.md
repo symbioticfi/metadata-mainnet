@@ -83,6 +83,10 @@ The `info.json` file must follow this structure:
 
 #### **Optional Fields for Vaults**
 - `curatorId` (string): The ID of the curator of the vault.
+- `vaultType` (string): The type of the vault. Can be one of:
+    - `eth-restaking`: Vaults with ETH-flavored collateral restaked across multiple networks
+    - `btc-restaking`: Vaults with BTC-flavored collateral restaked across multiple networks  
+    - `network-exclusive`: Vaults exclusive to a single network
 
 #### **Optional Fields for Points**
 - `type` (string): The type of the point (e.g., "network").

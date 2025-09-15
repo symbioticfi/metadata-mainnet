@@ -1,0 +1,23 @@
+{
+  "name": "LINK",
+  "description": "",
+  "tags": ["token", "LINK"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x514910771af9ca656af840dff83e8264ecf986ca"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://chain.link/"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.chain.link/"
+    }
+  ],
+  "cmcId": "1975"
+}

@@ -9,8 +9,13 @@
       "url": "https://www.lombard.finance/"
     },
     {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://www.lombard.finance/blog/lombard-chainlink-and-symbiotic-launch-first-of-its-kind-cryptoeconomic-guarantee-layer-for-cross-chain-lbtc-transfers/"
+    },
+    {
       "type": "externalLink",
-      "name": "X Account",
+      "name": "X",
       "url": "https://x.com/Lombard_Finance"
     }
   ]

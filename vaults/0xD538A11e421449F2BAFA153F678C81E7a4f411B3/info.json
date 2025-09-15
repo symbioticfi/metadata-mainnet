@@ -1,0 +1,23 @@
+{
+  "name": "LINK Symbiotic Vault",
+  "description": "LINK is the native token of the Chainlink Network, used to pay for services, enhance network security, and earn rewards. This vault enables token issuers to incorporate additional guarantees to cross-chain transfers of their token by combining CCIP’s modular security with Symbiotic universal staking.",
+  "tags": ["vault", "token:LINK"],
+  "curatorName": "Chainlink",
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://chain.link/"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.chain.link/"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/chainlink"
+    }
+  ]
+}

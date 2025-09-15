@@ -1,0 +1,17 @@
+{
+  "name": "Lombard CCIP Network",
+  "description": "Lombard is leveraging Symbiotic to add cryptoeconomic security from BARD and LINK tokens to their Chainlink cross-chain CCIP integration for LBTC.",
+  "tags": ["network"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.lombard.finance/"
+    },
+    {
+      "type": "externalLink",
+      "name": "X Account",
+      "url": "https://x.com/Lombard_Finance"
+    }
+  ]
+}

@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "renzo"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

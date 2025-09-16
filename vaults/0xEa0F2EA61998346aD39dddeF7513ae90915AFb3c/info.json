@@ -29,5 +29,6 @@
 			"name": "curator's X",
 			"url": "https://x.com/MEVCapital"
 		}
-	]
+	],
+	"vaultType": "eth-restaking"
 }

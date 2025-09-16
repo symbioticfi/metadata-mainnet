@@ -31,5 +31,6 @@
     "tags": [
         "mellow",
         "iBTC"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

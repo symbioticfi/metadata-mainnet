@@ -31,5 +31,6 @@
     "tags": [
         "mellow",
         "cp0x"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

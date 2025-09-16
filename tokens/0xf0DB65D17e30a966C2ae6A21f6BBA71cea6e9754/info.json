@@ -1,0 +1,22 @@
+{
+  "name": "BARD",
+  "description": "Lombard is building onchain Bitcoin capital markets to unlock the full potential of the defining asset of this generation. Founded in 2024, the company pioneered Bitcoin’s integration into DeFi with LBTC — the leading yield-bearing Bitcoin, secured by a decentralized consortium of 14 digital asset institutions — which today stands as the largest Bitcoin LST. Lombard is developing full-stack infrastructure to accelerate onchain BTC adoption for holders, protocols, and platforms, spanning BTC assets, a Staking SDK, and supporting services. The company is built and backed by digital asset leaders, including top DeFi protocols, institutions, and exchanges.",
+  "tags": ["token", "bard", "lombard"],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.lombard.finance/"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.lombard.finance/"
+    }
+  ]
+}

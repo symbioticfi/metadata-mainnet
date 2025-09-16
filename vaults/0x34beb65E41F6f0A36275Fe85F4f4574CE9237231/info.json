@@ -1,0 +1,31 @@
+{
+    "description": "Every $BARD staked reinforces the robustness of LBTC, aligning incentives and strengthening the integrity of Lombard’s interoperability stack, which is powered by Chainlink’s Cross-Chain Interoperability Protocol (CCIP).",
+    "links": [
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-staked-bard"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/multi-deployments"
+        },
+        {
+            "name": "Lombard Website",
+            "type": "docs",
+            "url": "https://docs.lombard.finance/"
+        },
+        {
+            "name": "Blockscout",
+            "type": "explorer",
+            "url": "https://eth.blockscout.com/address/0x34beb65E41F6f0A36275Fe85F4f4574CE9237231"
+        }
+    ],
+    "name": "Staked BARD",
+    "tags": [
+        "mellow",
+        "lombard",
+        "bard"
+    ]
+}

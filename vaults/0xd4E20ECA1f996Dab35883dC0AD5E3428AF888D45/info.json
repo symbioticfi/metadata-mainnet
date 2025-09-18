@@ -27,5 +27,6 @@
             "name": "Documentation",
             "url": "https://etherfi.gitbook.io/"
         }
-    ]
+    ],
+    "vaultType": "btc-restaking"
 }

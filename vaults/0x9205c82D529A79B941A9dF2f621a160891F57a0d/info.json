@@ -13,5 +13,6 @@
 			"name": "X",
 			"url": "https://x.com/MEVCapital"
 		}
-	]
+	],
+	"vaultType": "eth-restaking"
 }

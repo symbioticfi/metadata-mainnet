@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "mev-capital"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

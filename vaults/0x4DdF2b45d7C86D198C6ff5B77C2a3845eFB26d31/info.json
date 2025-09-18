@@ -8,5 +8,6 @@
       "name": "website",
       "url": "https://zklink.io/"
     }
-  ]
+  ],
+  "vaultType": "network-exclusive"
 }

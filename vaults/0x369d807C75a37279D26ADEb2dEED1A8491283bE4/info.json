@@ -41,5 +41,6 @@
                         "name": "Warpcast",
                         "url": "https://warpcast.com/alchemyplatform"
                 }
-	]
+	],
+	"vaultType": "eth-restaking"
 }

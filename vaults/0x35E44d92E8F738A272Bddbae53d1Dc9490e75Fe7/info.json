@@ -17,5 +17,6 @@
         "WBTC",
         "re7 Labs",
         "vault"
-    ]
+    ],
+    "vaultType": "btc-restaking"
 }

@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "InfraSingularity"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

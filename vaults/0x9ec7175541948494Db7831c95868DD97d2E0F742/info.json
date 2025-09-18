@@ -16,5 +16,6 @@
     "tags": [
         "osETH",
         "stakewise"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

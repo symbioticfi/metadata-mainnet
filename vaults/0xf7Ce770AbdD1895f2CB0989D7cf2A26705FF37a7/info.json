@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "steakhouse"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

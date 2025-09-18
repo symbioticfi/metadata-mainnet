@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "HashKey Cloud"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

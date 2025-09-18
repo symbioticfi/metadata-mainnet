@@ -32,5 +32,6 @@
         "mellow",
         "RockX",
         "Bedrock"
-    ]
+    ],
+    "vaultType": "btc-restaking"
 }

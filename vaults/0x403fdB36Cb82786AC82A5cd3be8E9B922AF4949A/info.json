@@ -13,5 +13,6 @@
       "name": "Website",
       "url": "https://stake.fish/"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

@@ -1,0 +1,14 @@
+{
+    "name": "validatorsg",
+    "description": "Trusted node validator",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.validatorsg.net"
+        }
+    ]
+}

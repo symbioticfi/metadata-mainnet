@@ -1,0 +1,19 @@
+{
+  "name": "zardozmonopoly",
+  "description": "Blockchain Infrastructure & Node Operations",
+  "tags": [
+    "operator"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://example.com"
+    },
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/zardozmonopoly"
+    }
+  ]
+}

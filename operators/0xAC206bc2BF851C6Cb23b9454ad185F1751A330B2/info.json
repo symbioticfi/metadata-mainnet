@@ -1,0 +1,21 @@
+{
+    "description": "Hyperithm Operator receiving LBTC from the Hyperithm Vault for Cap",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.hyperithm.com/"
+        },
+        {
+            "name": "Twitter",
+            "type": "website",
+            "url": "https://x.com/hyperithm"
+        }
+    ],
+    "name": "Hyperithm-Hyperithm-LBTC",
+    "tags": [
+        "Hyperithm",
+        "Cap",
+        "LBTC"
+    ]
+}

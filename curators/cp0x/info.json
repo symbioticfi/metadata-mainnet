@@ -1,0 +1,16 @@
+{
+    "name": "cp0x",
+    "description": "We know the math — and how to use it across different risk profiles. For us, risk management is no longer about chasing higher returns, but about protecting against losses.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://cp0x.com/"
+        },
+        {
+            "type": "docs",
+            "name": "cp0x Documentation",
+            "url": "https://cp0x.com/docs/what_is_cp0x/"
+        }
+    ]
+}

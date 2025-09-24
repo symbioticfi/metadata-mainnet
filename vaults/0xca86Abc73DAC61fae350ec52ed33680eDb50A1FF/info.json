@@ -37,5 +37,6 @@
         "mellow",
         "marlin",
         "cp0x"
-    ]
+    ],
+    "curatorId": "cp0x"
 }

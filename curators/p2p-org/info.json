@@ -1,0 +1,11 @@
+{
+    "name": "P2P.org",
+    "description": "P2P.org is a blockchain infrastructure service that provides secure, non-custodial staking services for professional investors. We allow token holders to participate in staking without the heavy lifting of running a node.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://p2p.org/"
+        }
+    ]
+}

@@ -1,7 +1,12 @@
 {
 	"name": "MEV Capital USBD Vault",
 	"description": "MEV Capital Restaked USBD Stablecoin vault secures, facilitates & monitors Networks curation and Node delegation on Symbiotic ecosystem. The Restaked Bima USDB Vault aims at minimizing: operator authority bias, unintended slashing, trust/security assumptions - while keeping a competitive risk-adjusted yield for USBD restakers.",
-	"tags": ["vault", "MEV Capital", "USBD", "bima"],
+	"tags": [
+		"vault",
+		"MEV Capital",
+		"USBD",
+		"bima"
+	],
 	"links": [
 		{
 			"type": "website",
@@ -23,5 +28,6 @@
 			"name": "curator's X",
 			"url": "https://x.com/mevcapital"
 		}
-	]
+	],
+	"curatorId": "mev-capital"
 }

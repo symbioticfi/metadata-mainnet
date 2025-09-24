@@ -25,9 +25,10 @@
         }
     ],
     "rewards": [
-    {
-      "address": "0x84852EB9acbE1869372f83ED853B185F6c2848Dc",
-      "type": "defaultStakingRewardsV2"
-    }
-  ]
+        {
+            "address": "0x84852EB9acbE1869372f83ED853B185F6c2848Dc",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
+    "vaultType": "network-exclusive"
 }

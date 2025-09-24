@@ -1,12 +1,17 @@
 {
 	"name": "MEV Capital sfrxETH Vault",
 	"description": "A secure vault curated by MEV Capital",
-	"tags": ["vault", "MEV Capital", "sfrxETH"],
+	"tags": [
+		"vault",
+		"MEV Capital",
+		"sfrxETH"
+	],
 	"links": [
 		{
 			"type": "website",
 			"name": "website",
 			"url": "https://mevcapital.com/"
 		}
-	]
+	],
+	"vaultType": "eth-restaking"
 }

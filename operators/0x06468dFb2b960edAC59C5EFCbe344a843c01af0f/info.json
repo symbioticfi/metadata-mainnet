@@ -1,0 +1,21 @@
+{
+    "description": "Pareto Operator receiving wstETH from MEV Capital's Vault for Cap",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://pareto.credit"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.pareto.credit/"
+        }
+    ],
+    "name": "Pareto-MEV-wstETH",
+    "tags": [
+        "Pareto",
+        "Cap",
+        "MEV Capital"
+    ]
+}

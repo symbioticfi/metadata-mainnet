@@ -168,7 +168,7 @@ If you want to include an icon for the entity, follow these guidelines:
 - **File Name**: `logo.png`
 - **Dimensions**: 256x256 pixels
 - **Format**: PNG
-- **File Size**: up to 200KB
+- **File Size**: up to 100KB
 
 Place the `logo.png` file in the same folder as the `info.json` file.
 
@@ -183,7 +183,7 @@ Before submitting your PR, ensure the following:
     - Use a JSON validator, such as [https://jsonlint.com/](https://jsonlint.com/).
 3. The `logo.png` file (if included) meets the requirements:
     - Dimensions: 256x256 pixels
-    - Maximum file size: 200KB
+    - Maximum file size: 100KB
 4. Points Distributor ID and Curator ID should be in slug format:
     - Lowercase letters, numbers, and hyphens only
     - No spaces or special characters

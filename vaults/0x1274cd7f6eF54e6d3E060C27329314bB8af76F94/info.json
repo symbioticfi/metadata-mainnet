@@ -1,0 +1,21 @@
+{
+    "description": "MEV Capital Vault delegating wstETH to the Pareto Operator for Cap",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.mevcapital.com/"
+        },
+        {
+            "name": "Twitter",
+            "type": "webstie",
+            "url": "https://x.com/mevcapital"
+        }
+    ],
+    "name": "MEV-Pareto-wstETH",
+    "tags": [
+        "MEV Capital",
+        "Cap",
+        "Pareto"
+    ]
+}

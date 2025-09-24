@@ -27,5 +27,6 @@
       "name": "Guides Overview",
       "url": "https://docs.rocketpool.net/guides/"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

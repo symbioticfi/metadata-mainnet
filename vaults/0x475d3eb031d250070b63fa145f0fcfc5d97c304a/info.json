@@ -22,5 +22,6 @@
       "name": "mETH Protocol Documentation",
       "url": "https://docs.mantle.xyz/meth"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

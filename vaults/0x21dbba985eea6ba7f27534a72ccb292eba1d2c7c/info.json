@@ -32,5 +32,6 @@
       "name": "How to bridge ETHFI",
       "url": "https://etherfi.gitbook.io/etherfi/ethfi/how-to-bridge-ethfi"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

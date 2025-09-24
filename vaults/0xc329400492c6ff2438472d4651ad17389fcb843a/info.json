@@ -27,5 +27,6 @@
       "name": "wstETH rollup bridging guide",
       "url": "https://docs.lido.fi/token-guides/wsteth-bridging-guide"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

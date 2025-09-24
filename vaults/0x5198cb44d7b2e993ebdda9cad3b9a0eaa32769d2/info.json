@@ -22,5 +22,6 @@
       "name": "frxETH and sfrxETH",
       "url": "https://docs.frax.finance/frax-ether/frxeth-and-sfrxeth"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

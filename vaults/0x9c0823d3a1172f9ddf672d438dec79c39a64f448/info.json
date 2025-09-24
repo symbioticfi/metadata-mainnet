@@ -22,5 +22,6 @@
       "name": "Introduction to LBTC",
       "url": "https://docs.lombard.finance/lbtc-liquid-bitcoin/introduction-to-lbtc"
     }
-  ]
+  ],
+  "vaultType": "btc-restaking"
 }

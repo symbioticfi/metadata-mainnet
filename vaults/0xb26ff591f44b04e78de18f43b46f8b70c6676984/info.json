@@ -22,5 +22,6 @@
       "name": "Coinbase Wrapped Staked ETH Price",
       "url": "https://www.coinbase.com/price/coinbase-wrapped-staked-eth"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

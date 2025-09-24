@@ -22,6 +22,5 @@
             "url": "https://etherscan.io/token/0xc6132FAF04627c8d05d6E759FAbB331Ef2D8F8fD"
         }
     ],
-    "curatorName": "Spark",
-    "vaultType": "network-exclusive"
+    "curatorName": "Spark"
 }

@@ -27,5 +27,6 @@
       "name": "osToken",
       "url": "https://docs.stakewise.io/protocol-overview-in-depth/ostoken"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

@@ -1,0 +1,16 @@
+{
+    "name": "Renzo",
+    "description": "Renzo is a restaking protocol that abstracts the complexities associated with and manages restaking strategies, making Ethereum and Solana restaking simple and accessible to everyone.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://app.renzoprotocol.com/pzeth/"
+        },
+        {
+            "type": "docs",
+            "name": "pzETH Documentation",
+            "url": "https://docs.renzoprotocol.com/docs/products/restaking/pzeth/"
+        }
+    ]
+}

@@ -31,5 +31,6 @@
       "name": "Vault Documentation",
       "url": "https://blockhunters.dev/mainnet/symbiotic"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

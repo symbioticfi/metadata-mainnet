@@ -12,5 +12,6 @@
 			"name": "Website",
 			"url": "https://everstake.one/"
 		}
-	]
+	],
+	"vaultType": "network-exclusive"
 }

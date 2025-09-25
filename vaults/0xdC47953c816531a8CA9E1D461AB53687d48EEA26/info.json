@@ -23,5 +23,6 @@
 			"name": "K3 Capital's website",
 			"url": "https://k3.capital/"
 		}
-	]
+	],
+	"vaultType": "btc-restaking"
 }

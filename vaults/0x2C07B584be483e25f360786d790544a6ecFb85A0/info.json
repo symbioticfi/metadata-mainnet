@@ -16,5 +16,6 @@
             "name": "Website",
             "url": "https://www.nethermind.io/"
         }
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

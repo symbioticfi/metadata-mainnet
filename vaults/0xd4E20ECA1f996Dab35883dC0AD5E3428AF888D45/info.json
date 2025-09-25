@@ -27,5 +27,6 @@
             "url": "https://etherfi.gitbook.io/"
         }
     ],
-    "curatorId": "etherfi"
+    "curatorId": "etherfi",
+    "vaultType": "btc-restaking"
 }

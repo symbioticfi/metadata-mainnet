@@ -18,5 +18,6 @@
         "Cap",
         "Renzo"
     ],
-    "curatorId": "renzo"
+    "curatorId": "renzo",
+    "vaultType": "network-exclusive"
 }

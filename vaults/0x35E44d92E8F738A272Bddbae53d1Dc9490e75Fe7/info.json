@@ -18,5 +18,6 @@
         "re7 Labs",
         "vault"
     ],
-    "curatorId": "re7-labs"
+    "curatorId": "re7-labs",
+    "vaultType": "btc-restaking"
 }

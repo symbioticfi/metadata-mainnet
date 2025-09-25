@@ -36,5 +36,6 @@
       "name": "Discord",
       "url": "https://discord.gg/tanssi"
     }
-  ]
+  ],
+  "vaultType": "network-exclusive"
 }

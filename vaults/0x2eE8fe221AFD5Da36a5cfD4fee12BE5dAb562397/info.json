@@ -26,5 +26,6 @@
             "name": "X",
             "url": "https://x.com/symbiosis_fi"
         }
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

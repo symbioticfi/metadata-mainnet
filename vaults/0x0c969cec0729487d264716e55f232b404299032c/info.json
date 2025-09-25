@@ -22,6 +22,5 @@
       "name": "https://github.com/keep-network/tbtc-v2/blob/main/docs/README.adoc",
       "url": "tBTC detailed system architecture"
     }
-  ],
-  "vaultType": "btc-restaking"
+  ]
 }

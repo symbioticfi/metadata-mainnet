@@ -33,5 +33,6 @@
         "xhash",
         "cp0x"
     ],
+    "curatorId": "cp0x",
     "vaultType": "eth-restaking"
 }

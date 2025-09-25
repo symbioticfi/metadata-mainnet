@@ -1,24 +1,25 @@
 {
-    "name": "Gauntlet Restaked sfrxETH",
-    "description": "Gauntlet’s Restaked sfrxETH vault brings risk-adjusted restaking yields to sfrxETH depositors on Symbiotic. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. Gauntlet's expertise builds on more than a year as one of the most well-researched teams in restaking and risk-adjusted allocation strategies. Learn more about our Symbiotic Vault Strategy or Allocation Methodology in the links below.",
-    "tags": ["vault", "sfrxETH"],
-    "links": [
-      {
-        "type": "website",
-        "name": "Gauntlet",
-        "url": "https://www.gauntlet.xyz/"
-      },
-      {
-        "type": "docs",
-        "name": "Gauntlet Symbiotic Vault Strategy",
-        "url": "https://www.gauntlet.xyz/resources/introducing-restaking-vaults-on-symbiotic-isolated-strategies-curated-by-gauntlet"
-      },
-      {
-        "type": "docs",
-        "name": "Network Allocation Methodology",
-        "url": "https://www.gauntlet.xyz/resources/a-deep-dive-into-our-symbiotic-restaking-vault-strategy"
-      }
-    ],
-    "curatorName": "Gauntlet"
-  }
-  
+  "name": "Gauntlet Restaked sfrxETH",
+  "description": "Gauntlet’s Restaked sfrxETH vault brings risk-adjusted restaking yields to sfrxETH depositors on Symbiotic. This vault seeks to allocate to as many networks as possible while applying a max-loss slash minimization approach. Gauntlet's expertise builds on more than a year as one of the most well-researched teams in restaking and risk-adjusted allocation strategies. Learn more about our Symbiotic Vault Strategy or Allocation Methodology in the links below.",
+  "tags": [
+    "vault",
+    "sfrxETH"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Gauntlet",
+      "url": "https://www.gauntlet.xyz/"
+    },
+    {
+      "type": "docs",
+      "name": "Gauntlet Symbiotic Vault Strategy",
+      "url": "https://www.gauntlet.xyz/resources/introducing-restaking-vaults-on-symbiotic-isolated-strategies-curated-by-gauntlet"
+    },
+    {
+      "type": "docs",
+      "name": "Network Allocation Methodology",
+      "url": "https://www.gauntlet.xyz/resources/a-deep-dive-into-our-symbiotic-restaking-vault-strategy"
+    }
+  ]
+}

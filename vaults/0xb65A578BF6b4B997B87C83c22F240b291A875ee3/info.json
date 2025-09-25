@@ -28,6 +28,11 @@
     }
   ],
   "name": "Lisk WSTETH Vault",
-  "tags": ["mellow", "Lisk", "Re7 Labs"],
+  "tags": [
+    "mellow",
+    "Lisk",
+    "Re7 Labs"
+  ],
+  "curatorId": "re7-labs",
   "vaultType": "eth-restaking"
 }

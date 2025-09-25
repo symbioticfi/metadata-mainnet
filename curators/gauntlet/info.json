@@ -1,0 +1,16 @@
+{
+    "name": "Gauntlet",
+    "description": "Gauntlet creates institutional-grade yield strategies for DeFi. Our risk management systems protect over $1.4 billion in vault total value locked (TVL) and are trusted by $42 billion in TVL across DeFi's most impactful protocols. All built by the most vigilant quantitative minds in crypto.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.gauntlet.xyz/"
+        },
+        {
+            "type": "docs",
+            "name": "Gauntlet VaultBook Introduction",
+            "url": "https://vaultbook.gauntlet.xyz/"
+        }
+    ]
+}

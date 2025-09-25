@@ -1,0 +1,16 @@
+{
+    "name": "Credio (by Untangled)",
+    "description": "Credio is a risk curator and credit oracle provider. With our proprietary, automated risk and optimization engines we provide curation services focusing on RWAs, stablecoins and other on-chain finance networks. Beside Symbiotic, our partners include Fasanara Capital, Moody’s, Ethena, Silo, Euler, TermMax and Origin.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://credio.network/"
+        },
+        {
+            "type": "docs",
+            "name": "Credio Risk Curation",
+            "url": "https://docs.untangled.finance/docs/credio/introduction/"
+        }
+    ]
+}

@@ -27,5 +27,6 @@
         "mellow",
         "renzo"
     ],
+    "curatorId": "renzo",
     "vaultType": "eth-restaking"
 }

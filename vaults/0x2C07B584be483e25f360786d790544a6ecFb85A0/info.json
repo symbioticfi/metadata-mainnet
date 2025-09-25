@@ -5,7 +5,6 @@
         "vault",
         "token:wstETH"
     ],
-    "curatorName": "Nethermind",
     "links": [
         {
             "type": "explorer",

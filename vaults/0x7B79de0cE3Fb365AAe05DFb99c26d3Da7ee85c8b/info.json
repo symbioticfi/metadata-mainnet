@@ -17,5 +17,6 @@
       "url": "https://credio.network/posts/Symbiotic-restaking-vault-strategy"
     }
   ],
+  "curatorId": "credio",
   "vaultType": "eth-restaking"
 }

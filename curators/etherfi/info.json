@@ -1,0 +1,11 @@
+{
+    "name": "Etherfi",
+    "description": "Etherfi is a decentralized and non-custodial Ethereum staking protocol",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.ether.fi/"
+        }
+    ]
+}

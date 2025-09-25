@@ -16,5 +16,6 @@
     "tags": [
         "Concrete",
         "Cap"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

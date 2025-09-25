@@ -10,16 +10,16 @@
             "type": "website",
             "name": "Website",
             "url": "https://spark.fi/"
-          },
+        },
         {
             "type": "docs",
             "name": "Spark Staking Docs",
             "url": "https://docs.spark.fi/staking"
         },
         {
-        "type": "explorer",
-        "name": "Etherscan",
-        "url": "https://etherscan.io/token/0xc6132FAF04627c8d05d6E759FAbB331Ef2D8F8fD"
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/token/0xc6132FAF04627c8d05d6E759FAbB331Ef2D8F8fD"
         }
     ],
     "curatorName": "Spark"

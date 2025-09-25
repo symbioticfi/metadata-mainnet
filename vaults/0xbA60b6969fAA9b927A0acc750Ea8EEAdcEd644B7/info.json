@@ -30,5 +30,6 @@
         "name": "Gauntlet",
         "url": "https://www.gauntlet.xyz/"
       }
-    ]
+    ],
+    "vaultType": "eth-restaking"
   }

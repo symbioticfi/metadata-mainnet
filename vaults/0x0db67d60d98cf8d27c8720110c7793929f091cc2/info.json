@@ -26,5 +26,6 @@
 			"name": "Disclaimer",
 			"url": "https://ryabina.io/symbiotic-vaults-disclaimer"
 		}
-  ]
+  ],
+  "vaultType": "btc-restaking"
 }

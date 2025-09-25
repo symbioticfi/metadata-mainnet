@@ -27,5 +27,6 @@
         "mellow",
         "P2P.org",
         "re7 Labs"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

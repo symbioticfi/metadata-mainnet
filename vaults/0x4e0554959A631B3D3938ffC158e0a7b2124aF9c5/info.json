@@ -1,7 +1,11 @@
 {
 	"name": "MEV Capital wstETH Vault",
 	"description": "A secure vault curated by MEV Capital",
-	"tags": ["vault", "MEV Capital", "wstETH"],
+	"tags": [
+		"vault",
+		"MEV Capital",
+		"wstETH"
+	],
 	"links": [
 		{
 			"type": "website",
@@ -9,5 +13,6 @@
 			"url": "https://mevcapital.com/"
 		}
 	],
-	"vaultType": "eth-restaking"
+	"vaultType": "eth-restaking",
+	"curatorId": "mev-capital"
 }

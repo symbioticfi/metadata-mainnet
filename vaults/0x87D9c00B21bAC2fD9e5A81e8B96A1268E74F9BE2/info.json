@@ -32,5 +32,6 @@
         "mellow",
         "Pier Two",
         "SteakHouse"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

@@ -33,5 +33,6 @@
       "type": "explorer",
       "url": "https://etherscan.io/address/0x8327b8bd2561d28f914931ad57370d62c7968e40"
     }
-  ]
+  ],
+  "vaultType": "eth-restaking"
 }

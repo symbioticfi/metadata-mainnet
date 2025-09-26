@@ -32,5 +32,7 @@
         "mellow",
         "P-OPS Team",
         "Re7 Labs"
-    ]
+    ],
+    "vaultType": "eth-restaking",
+    "curatorId": "re7-labs"
 }

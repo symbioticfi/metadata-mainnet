@@ -13,5 +13,6 @@
 			"url": "https://mevcapital.com/"
 		}
 	],
-	"vaultType": "eth-restaking"
+	"vaultType": "eth-restaking",
+	"curatorId": "mev-capital"
 }

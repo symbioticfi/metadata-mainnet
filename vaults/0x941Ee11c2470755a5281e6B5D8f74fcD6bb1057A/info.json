@@ -32,5 +32,6 @@
         "mellow",
         "cycle",
         "interoperability"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

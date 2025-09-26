@@ -27,5 +27,6 @@
         "mellow",
         "lombard",
         "bard"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

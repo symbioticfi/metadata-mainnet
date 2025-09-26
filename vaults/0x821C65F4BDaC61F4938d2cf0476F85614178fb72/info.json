@@ -30,6 +30,8 @@
     "name": "Re7 Resolv Restaked wstUSR",
     "tags": [
         "mellow",
-        "Re7 Labs" 
-    ]
+        "Re7 Labs"
+    ],
+    "vaultType": "eth-restaking",
+    "curatorId": "re7-labs"
 }

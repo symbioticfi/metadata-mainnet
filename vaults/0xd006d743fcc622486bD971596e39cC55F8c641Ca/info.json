@@ -1,7 +1,11 @@
 {
 	"name": "OpsLayer wstETH Vault",
 	"description": "OpsLayer powers innovative Web3 networks with expert infrastructure management, software development, and finance operation services.",
-	"tags": ["vault", "OpsLayer", "wstETH"],
+	"tags": [
+		"vault",
+		"OpsLayer",
+		"wstETH"
+	],
 	"links": [
 		{
 			"type": "website",
@@ -14,5 +18,5 @@
 			"url": "https://twitter.com/opslayerco"
 		}
 	],
-	"vaultType": "network-exclusive"
+	"vaultType": "eth-restaking"
 }

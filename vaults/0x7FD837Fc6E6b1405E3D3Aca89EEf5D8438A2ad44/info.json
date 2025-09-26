@@ -33,5 +33,6 @@
         "Blockscape",
         "Re7 Labs"
     ],
-    "curatorId": "re7-labs"
+    "curatorId": "re7-labs",
+    "vaultType": "eth-restaking"
 }

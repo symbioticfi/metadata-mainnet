@@ -32,5 +32,7 @@
         "mellow",
         "Stakin",
         "re7"
-    ]
+    ],
+    "vaultType": "eth-restaking",
+    "curatorId": "re7-labs"
 }

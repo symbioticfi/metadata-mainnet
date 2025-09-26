@@ -1,0 +1,14 @@
+{
+    "name": "BlockSync",
+    "description": "BlockSync - Node Operator & Validator Provider",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "BlockSync - Node Operator & Validator Provider",
+            "url": "https://blocksync.me"
+        }
+    ]
+}

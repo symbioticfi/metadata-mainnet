@@ -27,5 +27,6 @@
         "mellow",
         "mev-capital"
     ],
-    "vaultType": "eth-restaking"
+    "vaultType": "eth-restaking",
+    "curatorId": "mev-capital"
 }

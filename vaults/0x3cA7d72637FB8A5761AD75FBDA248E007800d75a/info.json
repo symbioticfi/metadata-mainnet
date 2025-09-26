@@ -1,6 +1,6 @@
 {
-    "description": "A secure vault curated by MEV Capital",
-    "links": [
+	"description": "A secure vault curated by MEV Capital",
+	"links": [
 		{
 			"type": "website",
 			"name": "MEV",
@@ -16,11 +16,12 @@
 			"name": "X",
 			"url": "https://x.com/mevcapital"
 		}
-    ],
-    "name": "MEV Capital restaked sUSDe",
-    "tags": [
-        "sUSDe",
-        "mev-capital",
+	],
+	"name": "MEV Capital restaked sUSDe",
+	"tags": [
+		"sUSDe",
+		"mev-capital",
 		"ethena"
-    ]
+	],
+	"curatorId": "mev-capital"
 }

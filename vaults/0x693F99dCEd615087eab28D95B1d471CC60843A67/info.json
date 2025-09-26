@@ -33,5 +33,6 @@
         "Stakin",
         "re7"
     ],
-    "vaultType": "eth-restaking"
+    "vaultType": "eth-restaking",
+    "curatorId": "re7-labs"
 }

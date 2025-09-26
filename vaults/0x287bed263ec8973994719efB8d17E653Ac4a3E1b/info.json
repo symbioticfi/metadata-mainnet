@@ -31,5 +31,6 @@
     "tags": [
         "Mellow",
         "DSRV"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

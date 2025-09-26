@@ -33,5 +33,6 @@
         "Stakin",
         "Gauntlet"
     ],
-    "curatorId": "gauntlet"
+    "curatorId": "gauntlet",
+    "vaultType": "eth-restaking"
 }

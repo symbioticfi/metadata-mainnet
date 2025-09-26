@@ -32,5 +32,6 @@
         "mellow",
         "Stakin",
         "re7"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

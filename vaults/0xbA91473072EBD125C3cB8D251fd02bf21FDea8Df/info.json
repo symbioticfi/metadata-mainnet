@@ -27,5 +27,5 @@
         "mellow",
         "InfraSingularity"
     ],
-    "vaultType": "network-exclusive"
+    "vaultType": "eth-restaking"
 }

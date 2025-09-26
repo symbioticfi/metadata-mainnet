@@ -26,5 +26,6 @@
     "tags": [
         "mellow",
         "Quasar"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

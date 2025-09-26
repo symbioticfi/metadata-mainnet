@@ -31,5 +31,6 @@
   "tags": [
     "mellow",
     "MEV"
-  ]
+  ],
+  "vaultType": "btc-restaking"
 }

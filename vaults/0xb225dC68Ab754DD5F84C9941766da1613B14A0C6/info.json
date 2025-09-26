@@ -31,5 +31,6 @@
     "tags": [
         "Mellow",
         "HashKey"
-    ]
+    ],
+    "vaultType": "eth-restaking"
 }

@@ -1,0 +1,20 @@
+{
+    "description": "Cap Test Operator receiving wstETH from the Cap Test Vault for Cap. For testing purposes only, do not use this vault for real money.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://cap.app"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.cap.app"
+        }
+    ],
+    "name": "Cap-Cap-wstETH",
+    "tags": [
+        "Cap",
+        "wstETH"
+    ]
+}

@@ -18,5 +18,6 @@
         "Cap",
         "Pareto"
     ],
-    "curatorId": "mev-capital"
+    "curatorId": "mev-capital",
+    "vaultType": "network-exclusive"
 }

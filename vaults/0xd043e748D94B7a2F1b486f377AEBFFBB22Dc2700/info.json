@@ -17,5 +17,6 @@
         "Hyperithm",
         "Cap",
         "wstETH"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

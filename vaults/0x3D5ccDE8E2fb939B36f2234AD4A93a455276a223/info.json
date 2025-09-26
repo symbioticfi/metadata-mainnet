@@ -17,5 +17,6 @@
         "Hyperithm",
         "Cap",
         "LBTC"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

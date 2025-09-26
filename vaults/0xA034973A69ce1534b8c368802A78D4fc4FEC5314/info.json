@@ -16,5 +16,6 @@
     "tags": [
         "Cap",
         "wstETH"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

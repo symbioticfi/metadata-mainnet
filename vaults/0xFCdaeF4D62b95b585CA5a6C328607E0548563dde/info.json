@@ -17,5 +17,6 @@
         "Hyperithm",
         "Cap",
         "WBTC"
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

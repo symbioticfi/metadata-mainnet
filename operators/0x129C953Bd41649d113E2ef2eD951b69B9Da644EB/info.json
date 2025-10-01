@@ -1,0 +1,19 @@
+{
+  "name": "salomonval",
+  "description": "Expert Node Operator",
+  "tags": [
+      "operator"
+  ],
+  "links": [
+      {
+          "type": "website",
+          "name": "Website",
+          "url": "https://github.com/salihayer/"
+      },
+      {
+          "type": "website",
+          "name": "X",
+          "url": "https://x.com/salomonval75"
+      }
+  ]
+}

@@ -1,21 +1,24 @@
 {
-    "description": "Cap Test Vault delegating wstETH to the Cap Test Operator for Cap. For testing purposes only, do not use this vault for real money.",
-    "links": [
-        {
-            "name": "Website",
-            "type": "website",
-            "url": "https://cap.app"
-        },
-        {
-            "name": "Documentation",
-            "type": "docs",
-            "url": "https://docs.cap.app"
-        }
-    ],
-    "name": "Cap-Cap-wstETH",
-    "tags": [
-        "Cap",
-        "wstETH"
-    ],
-    "vaultType": "network-exclusive"
+  "description": "Cap Test Vault delegating wstETH to the Cap Test Operator for Cap. For testing purposes only, do not use this vault for real money.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://cap.app"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.cap.app"
+    }
+  ],
+  "name": "Cap-Cap-wstETH",
+  "tags": ["Cap", "wstETH"],
+  "vaultType": "network-exclusive",
+  "rewards": [
+    {
+      "address": "0x2A3E7F5F113dC3BF6623ACf5095F816CEA48a698",
+      "type": "defaultStakingRewardsV2"
+    }
+  ]
 }

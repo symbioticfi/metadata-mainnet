@@ -1,0 +1,28 @@
+{
+  "name": "USDC",
+  "description": "USDC is a digital dollar issued by Circle, also known as a stablecoin, running on many of the world's leading blockchains. Designed to represent US dollars on the internet, USDC is backed 100% by highly liquid cash and cash-equivalent assets so that it's always redeemable 1:1 for USD.",
+  "tags": [
+    "token",
+    "USDC"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.circle.com/usdc"
+    },
+    {
+      "type": "docs",
+      "name": "What Is USDC?",
+      "url": "https://developers.circle.com/stablecoins/what-is-usdc"
+    }
+  ],
+  "cmcId": "3408",
+  "permitName": "USDC",
+  "permitVersion": "1"
+}

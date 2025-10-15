@@ -1,0 +1,19 @@
+{
+    "name": "Iceberg Nodes",
+    "description": "Iceberg Nodes provides secure non-custodial staking services on almost 35 different networks. The team members are highly involved in community activities (offline and online events organization, speakers at events, managing communities), governance on-chain, and technical support to project teams during various phases of their roadmap.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.icebergnodes.com"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/IcebergNodes"
+        }
+    ]
+}

@@ -18,6 +18,12 @@
         "Cap",
         "Renzo"
     ],
+    "rewards": [
+        {
+            "address": "0x5Ba9aC31D8CDC0a80340D6a3a838738922AF6455",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "curatorId": "renzo",
     "vaultType": "network-exclusive"
 }

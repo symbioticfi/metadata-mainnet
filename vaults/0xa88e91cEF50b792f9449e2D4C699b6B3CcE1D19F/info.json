@@ -27,6 +27,12 @@
         "mellow",
         "renzo"
     ],
+    "rewards": [
+		{
+			"address": "0xf6f65c9AAA62EC5F294843621878673B3668e75E",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "curatorId": "renzo",
     "vaultType": "eth-restaking"
 }

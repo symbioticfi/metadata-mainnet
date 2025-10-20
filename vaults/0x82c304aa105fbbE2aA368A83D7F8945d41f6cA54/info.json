@@ -32,6 +32,12 @@
         "mellow",
         "cp0x"
     ],
+    "rewards": [
+		{
+			"address": "0xca89B022820f0b21db88F38A3b75e4ECBAb277c0",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "curatorId": "cp0x",
     "vaultType": "eth-restaking"
 }

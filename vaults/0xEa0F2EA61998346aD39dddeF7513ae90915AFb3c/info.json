@@ -30,5 +30,11 @@
 			"url": "https://x.com/MEVCapital"
 		}
 	],
+	"rewards": [
+		{
+			"address": "0x19CA20beDd3424937e908db526266c45e8384473",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
 	"vaultType": "eth-restaking"
 }

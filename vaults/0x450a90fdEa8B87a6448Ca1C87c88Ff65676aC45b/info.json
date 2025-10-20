@@ -27,6 +27,12 @@
             "url": "https://etherfi.gitbook.io/"
         }
     ],
+    "rewards": [
+		{
+			"address": "0xF6B65566f6EE16De15E0C128878e477370765Fa9",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "curatorId": "etherfi",
     "vaultType": "eth-restaking"
 }

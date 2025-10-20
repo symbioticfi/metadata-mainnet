@@ -18,5 +18,11 @@
 			"url": "https://twitter.com/opslayerco"
 		}
 	],
+	"rewards": [
+		{
+			"address": "0xCD4eFf52E84a335C3A565598b2a647E2E51d8a38",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
 	"vaultType": "eth-restaking"
 }

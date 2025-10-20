@@ -1,0 +1,20 @@
+{
+    "name": "Stakestone-Stakestone-wstETH",
+    "description": "Stakestone Operator receiving wstETH from the Stakestone Vault for Cap.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://stakestone.io/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.stakestone.io/stakestone"
+        }
+    ],
+    "tags": [
+        "Stakestone",
+        "Cap"
+    ]
+}

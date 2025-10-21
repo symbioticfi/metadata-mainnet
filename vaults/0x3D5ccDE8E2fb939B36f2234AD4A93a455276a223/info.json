@@ -18,5 +18,11 @@
         "Cap",
         "LBTC"
     ],
+    "rewards": [
+        {
+            "address": "0x1a01e88eF3CBBa0270BA9b1d0fa17F37f9f69E9c",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "vaultType": "network-exclusive"
 }

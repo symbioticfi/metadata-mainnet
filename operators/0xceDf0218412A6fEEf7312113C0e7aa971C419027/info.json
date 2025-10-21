@@ -1,0 +1,20 @@
+{
+    "name": "TEST-Stakestone-Stakestone-wstETH",
+    "description": "Stakestone Test Operator receiving wstETH from the Stakestone Test Vault for Cap. For testing purposes only, do not use this vault for real money.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://stakestone.io/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.stakestone.io/stakestone"
+        }
+    ],
+    "tags": [
+        "Stakestone",
+        "Cap"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "TEST-Stakestone-Stakestone-wstETH",
+    "description": "Stakestone Test Vault delegating wstETH to the Stakestone Test Operator for Cap. For testing purposes only, do not use this vault for real money.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://stakestone.io/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.stakestone.io/stakestone"
+        }
+    ],
+    "tags": [
+        "Stakestone",
+        "Cap"
+    ],
+    "rewards": [
+        {
+            "address": "0x3262839147aAfB6B913F0bc77B6fEb310a0BECd1",
+            "type": "defaultStakingRewardsV2"
+        }
+    ]
+}

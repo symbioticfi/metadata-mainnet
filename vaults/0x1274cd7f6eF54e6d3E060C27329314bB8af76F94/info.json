@@ -18,6 +18,12 @@
         "Cap",
         "Pareto"
     ],
+    "rewards": [
+        {
+            "address": "0x59E9B797d54f02AC1cf9e750d3B76c5B019d5Afa",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "curatorId": "mev-capital",
     "vaultType": "network-exclusive"
 }

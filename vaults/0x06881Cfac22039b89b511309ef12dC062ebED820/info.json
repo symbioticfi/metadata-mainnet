@@ -17,5 +17,11 @@
         "Concrete",
         "Cap"
     ],
+    "rewards": [
+        {
+            "address": "0x1E69528f8788AeDebDbc495CB20126dB7f9B1279",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "vaultType": "network-exclusive"
 }

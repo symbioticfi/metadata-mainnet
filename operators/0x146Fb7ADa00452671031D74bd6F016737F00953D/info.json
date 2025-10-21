@@ -1,0 +1,16 @@
+{
+    "name": "Re7Capital-Re7Labs-wstETH",
+    "description": "Re7 Capital Operator receiving wstETH from the Re7 Labs Vault for Cap.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://re7.capital/"
+        }
+    ],
+    "tags": [
+        "Re7 Labs",
+        "Re7 Capital",
+        "Cap"
+    ]
+}

@@ -13,6 +13,12 @@
 			"url": "https://mevcapital.com/"
 		}
 	],
+	"rewards": [
+		{
+			"address": "0xa47b15F1cE1240c3b7b9AD2A1dE9C84BF4270715",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
 	"vaultType": "eth-restaking",
 	"curatorId": "mev-capital"
 }

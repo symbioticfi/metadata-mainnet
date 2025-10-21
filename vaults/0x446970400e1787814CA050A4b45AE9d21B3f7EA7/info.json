@@ -27,6 +27,12 @@
         "mellow",
         "mev-capital"
     ],
+    "rewards": [
+		{
+			"address": "0x36D627d6aB064C5Eb295CB23Ce9d11cb0EfB4377",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "vaultType": "eth-restaking",
     "curatorId": "mev-capital"
 }

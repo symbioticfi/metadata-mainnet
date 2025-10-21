@@ -33,6 +33,12 @@
         "xhash",
         "cp0x"
     ],
+    "rewards": [
+		{
+			"address": "0xDCfCe0a6199208678413F0Ef7663A0aFFF273eEB",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "curatorId": "cp0x",
     "vaultType": "eth-restaking"
 }

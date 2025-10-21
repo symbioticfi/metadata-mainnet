@@ -22,6 +22,12 @@
             "url": "https://www.gauntlet.xyz/resources/a-deep-dive-into-our-symbiotic-restaking-vault-strategy"
         }
     ],
+    "rewards": [
+		{
+			"address": "0x825F3a31e5988247D40C246FBD483c05B0C0c536",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "curatorId": "gauntlet",
     "vaultType": "eth-restaking"
 }

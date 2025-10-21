@@ -27,5 +27,11 @@
         "mellow",
         "HashKey Cloud"
     ],
+    "rewards": [
+		{
+			"address": "0xcb68A5DE5a91FB32563277881d8C2fBC3cEb8bf9",
+			"type": "defaultStakingRewardsV2Epoched"
+		}
+	],
     "vaultType": "eth-restaking"
 }

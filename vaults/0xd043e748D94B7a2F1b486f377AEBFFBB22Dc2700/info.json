@@ -18,5 +18,11 @@
         "Cap",
         "wstETH"
     ],
+    "rewards": [
+        {
+            "address": "0xa2bA124Bc54070af4E674d8A3242A9Cb70A3a484",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "vaultType": "network-exclusive"
 }

@@ -1,0 +1,26 @@
+{
+    "name": "Stakestone-Stakestone-wstETH",
+    "description": "Stakestone Vault delegating wstETH to the Stakestone Operator for Cap.",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://stakestone.io/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.stakestone.io/stakestone"
+        }
+    ],
+    "tags": [
+        "Stakestone",
+        "Cap"
+    ],
+    "rewards": [
+        {
+            "address": "0x5d33B7F9F47802A458EfC7d374D88c620ABB4B74",
+            "type": "defaultStakingRewardsV2"
+        }
+    ]
+}

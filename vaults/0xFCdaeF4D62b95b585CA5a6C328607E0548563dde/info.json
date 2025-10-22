@@ -18,5 +18,11 @@
         "Cap",
         "WBTC"
     ],
+    "rewards": [
+        {
+            "address": "0x83fa2Df437D1ACF9D906d420a7c87Cf5B7CD9E85",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
     "vaultType": "network-exclusive"
 }

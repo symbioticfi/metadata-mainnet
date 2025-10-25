@@ -20,18 +20,8 @@
 		},
         {
             "name": "website",
-            "type": "Documentation",
+            "type": "docs",
             "url": "https://docs.manta.network/"
-        },
-        {
-            "type": "website",
-            "name": "Telegram",
-            "url": "https://t.me/mantanetworkofficial"
-        },
-        {
-            "type": "website",
-            "name": "Github",
-            "url": "https://github.com/manta-network"
         }
 	]
 }

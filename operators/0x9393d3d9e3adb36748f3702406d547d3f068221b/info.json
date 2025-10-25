@@ -1,0 +1,22 @@
+{
+	"name": "Ironwood Validators",
+	"description": "Stake with Ironwood Validators and grow your crypto like a resilient forest.",
+	"tags": [
+		"operator",
+        "validator",
+        "Ethereum",
+        "Staking"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://www.ironwoodvalidators.com/"
+		},
+        {
+			"type": "explorer",
+			"name": "Etherscan",
+			"url": "https://etherscan.io/address/0x9393d3d9e3adb36748f3702406d547d3f068221b"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Nebula Node",
+    "description": "Nebula Node is a validator built for explorers of the decentralized universe. We help delegators securely navigate multiple blockchains while earning rewards in a seamless, transparent way.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.nebulanode.net"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x93f057102c782584735703371ff931349150dd27"
+        }
+    ]
+}

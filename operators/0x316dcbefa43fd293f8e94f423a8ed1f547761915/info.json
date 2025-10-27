@@ -1,0 +1,19 @@
+{
+    "name": "Aurora Stake",
+    "description": "Earn rewards with AuroraStake — secure, transparent, and built for the future of blockchain.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.aurorastake.com"
+        },
+        {
+			"type": "explorer",
+			"name": "Etherscan",
+			"url": "https://etherscan.io/address/0x316dcbefa43fd293f8e94f423a8ed1f547761915"
+		}
+    ]
+}

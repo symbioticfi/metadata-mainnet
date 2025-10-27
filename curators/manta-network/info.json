@@ -1,0 +1,21 @@
+{
+    "name": "Manta Network",
+    "description": "The Largest Modular L2",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://manta.network"
+        },
+        {
+            "type": "twitter",
+            "name": "X",
+            "url": "https://x.com/MantaNetwork"
+        },
+        {
+          "type": "explorer",
+          "name": "Explorer",
+          "url": "https://pacific-explorer.manta.network/"
+        }
+    ]
+}

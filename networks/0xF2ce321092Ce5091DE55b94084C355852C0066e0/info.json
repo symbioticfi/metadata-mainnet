@@ -1,0 +1,27 @@
+{
+	"name": "Manta Network",
+	"description": "The Largest Modular L2.",
+	"tags": [
+		"operator",
+        "Rollup",
+        "Privacy",
+        "L2"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://manta.network"
+		},
+		{
+			"type": "website",
+			"name": "X",
+			"url": "https://x.com/MantaNetwork"
+		},
+        {
+            "name": "website",
+            "type": "docs",
+            "url": "https://docs.manta.network/"
+        }
+	]
+}

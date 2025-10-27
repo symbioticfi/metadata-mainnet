@@ -1,0 +1,27 @@
+{
+    "name": "SentinelNode Manta Vault",
+    "description": "Staking $MANTA in SentinelNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "tags": [
+      "vault",
+      "fast finality",
+      "manta"
+    ],
+    "links": [
+      {
+        "type": "website",
+        "name": "Website",
+        "url": "https://www.sentinelnode.net"
+      },
+      {
+        "type": "externalLink",
+        "name": "Official Staking Portal",
+        "url": "https://staking.manta.network"
+      },
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io//address/0x4b7d63af4f78b12e86183e14b867b0c211b5b67e"
+      }
+    ],
+    "curatorId": "manta-network"
+  }

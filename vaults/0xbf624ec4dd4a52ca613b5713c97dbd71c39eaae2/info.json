@@ -1,0 +1,28 @@
+{
+    "name": "NebulaNode Manta Vault",
+    "description": "Staking $MANTA in NebulaNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "tags": [
+      "vault",
+      "fast finality",
+      "manta"
+    ],
+    "links": [
+      {
+        "type": "website",
+        "name": "Website",
+        "url": "https://www.nebulanode.net"
+      },
+      {
+        "type": "externalLink",
+        "name": "Official Staking Portal",
+        "url": "https://staking.manta.network"
+      },
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io//address/0xbf624ec4dd4a52ca613b5713c97dbd71c39eaae2"
+      }
+    ],
+    "curatorId": "manta-network"
+  }
+  

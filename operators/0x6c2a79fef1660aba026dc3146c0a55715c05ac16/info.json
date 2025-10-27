@@ -1,0 +1,19 @@
+{
+    "name": "Sentinel Node",
+    "description": "Sentinel Node is a premier blockchain infrastructure provider specializing in institutional-grade node operations and staking services.",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.sentinelnode.net"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x6c2a79fef1660aba026dc3146c0a55715c05ac16"
+        }
+    ]
+}

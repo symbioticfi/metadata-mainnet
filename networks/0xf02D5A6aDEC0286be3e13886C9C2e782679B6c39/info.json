@@ -1,0 +1,17 @@
+{
+  "name": "Solv CCIP Network",
+  "description": "Solv is leveraging Symbiotic to add cryptoeconomic security from SOLV and LINK tokens to their Chainlink cross-chain CCIP integration for SolvBTC.",
+  "tags": ["network"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://solv.finance/"
+    },
+    {
+      "type": "externalLink",
+      "name": "X",
+      "url": "https://x.com/SolvProtocol"
+    }
+  ]
+}

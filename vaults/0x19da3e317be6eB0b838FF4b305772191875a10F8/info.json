@@ -18,5 +18,6 @@
             "address": "0xA980Abbc8E3318b5a05e5141690a5EBa2F651E91",
             "type": "defaultStakingRewardsV2"
         }
-    ]
+    ],
+    "vaultType": "network-exclusive"
 }

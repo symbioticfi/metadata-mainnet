@@ -23,6 +23,7 @@
         "url": "https://etherscan.io//address/0x56fbf789e8d434f0cc8178b254dac337a24c2b2f"
       }
     ],
-    "curatorId": "manta-network"
+    "curatorId": "manta-network",
+    "vaultType": "network-exclusive"
   }
   

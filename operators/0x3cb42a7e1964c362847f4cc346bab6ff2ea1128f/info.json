@@ -1,0 +1,21 @@
+{
+    "name": "Chains Pulse",
+    "description": "ChainsPulse is a globally trusted operator providing institutional-grade staking and blockchain infrastructure services. We deliver secure, reliable, and high-performance solutions to empower your digital asset strategy.",
+    "tags": [
+        "operator",
+        "infrastructure",
+        "staking"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.chainspulse.com"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x3cb42a7e1964c362847f4cc346bab6ff2ea1128f"
+        }
+    ]
+}

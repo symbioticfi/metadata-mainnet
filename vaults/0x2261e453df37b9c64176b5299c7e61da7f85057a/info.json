@@ -1,0 +1,28 @@
+{
+    "name": "IronwoodValidators Manta Vault",
+    "description": "Staking $MANTA in an IronwoodValidators vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "tags": [
+      "vault",
+      "fast finality",
+      "manta"
+    ],
+    "links": [
+      {
+        "type": "website",
+        "name": "Website",
+        "url": "https://www.ironwoodvalidators.com"
+      },
+      {
+        "type": "externalLink",
+        "name": "Official Staking Portal",
+        "url": "https://staking.manta.network"
+      },
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io//address/0x2261e453df37b9c64176b5299c7e61da7f85057a"
+      }
+    ],
+    "curatorId": "manta-network"
+  }
+  

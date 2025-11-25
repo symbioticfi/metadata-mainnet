@@ -1,6 +1,6 @@
 {
-    "name": "BlockForge Manta Vault",
-    "description": "Staking $MANTA in BlockForge vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "name": "BlockForge Manta Vault (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/vault/0xd45771fdc8dc42cdd764b6187fe23191673ccbc4) Staking $MANTA in BlockForge vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
     "tags": [
       "vault",
       "fast finality",
@@ -20,7 +20,7 @@
       {
         "type": "explorer",
         "name": "Etherscan",
-        "url": "https://etherscan.io//address/0xeb70dd367b3ce1221d4d325cb1cf71cec9d5de26"
+        "url": "https://etherscan.io/address/0xeb70dd367b3ce1221d4d325cb1cf71cec9d5de26"
       }
     ],
     "curatorId": "manta-network"

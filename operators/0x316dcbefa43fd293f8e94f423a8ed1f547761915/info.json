@@ -1,8 +1,9 @@
 {
-    "name": "Aurora Stake",
-    "description": "Earn rewards with AuroraStake — secure, transparent, and built for the future of blockchain.",
+    "name": "Aurora Stake (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/operator/0xe08fe646684b8573c78ffdc7a039598a53d7b46c) Earn rewards with AuroraStake — secure, transparent, and built for the future of blockchain.",
     "tags": [
-        "operator"
+        "operator",
+        "migrated"
     ],
     "links": [
         {

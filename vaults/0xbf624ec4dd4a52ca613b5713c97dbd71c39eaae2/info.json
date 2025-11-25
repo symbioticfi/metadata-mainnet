@@ -1,6 +1,6 @@
 {
-    "name": "NebulaNode Manta Vault",
-    "description": "Staking $MANTA in NebulaNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "name": "NebulaNode Manta Vault (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/vault/0xcbb704c163257008582f3eed2c9466f34893ce58) Staking $MANTA in NebulaNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
     "tags": [
       "vault",
       "fast finality",

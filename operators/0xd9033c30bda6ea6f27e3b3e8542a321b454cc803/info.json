@@ -1,8 +1,9 @@
 {
-    "name": "Block Forge",
-    "description": "BlockForge leads the charge in building cutting-edge decentralized ecosystems, offering unparalleled validator services and network optimization for the Web3 era.",
+    "name": "Block Forge (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/operator/0x2d9eb882effe444200da1a6378c25666cc7b7463) BlockForge leads the charge in building cutting-edge decentralized ecosystems, offering unparalleled validator services and network optimization for the Web3 era.",
     "tags": [
-        "operator"
+        "operator",
+        "migrated"
     ],
     "links": [
         {

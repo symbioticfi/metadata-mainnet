@@ -1,8 +1,9 @@
 {
-    "name": "Nebula Node",
-    "description": "Nebula Node is a validator built for explorers of the decentralized universe. We help delegators securely navigate multiple blockchains while earning rewards in a seamless, transparent way.",
+    "name": "Nebula Node (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/operator/0x169500d97f33a6f24a0debcb33b89265dae3a0f7) Nebula Node is a validator built for explorers of the decentralized universe. We help delegators securely navigate multiple blockchains while earning rewards in a seamless, transparent way.",
     "tags": [
-        "operator"
+        "operator",
+        "migrated"
     ],
     "links": [
         {

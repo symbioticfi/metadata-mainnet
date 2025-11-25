@@ -1,8 +1,9 @@
 {
-    "name": "Sentinel Node",
-    "description": "Sentinel Node is a premier blockchain infrastructure provider specializing in institutional-grade node operations and staking services.",
+    "name": "Sentinel Node (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/operator/0x0da2f7c688b5a24148441d4d76bcebcb5d51eb56) Sentinel Node is a premier blockchain infrastructure provider specializing in institutional-grade node operations and staking services.",
     "tags": [
-        "operator"
+        "operator",
+        "migrated"
     ],
     "links": [
         {

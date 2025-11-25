@@ -1,10 +1,11 @@
 {
-    "name": "SentinelNode Manta Vault",
-    "description": "Staking $MANTA in SentinelNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "name": "SentinelNode Manta Vault (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/vault/0xdc9e761de67a419f4898ec0c449ac6e246f364ea) Staking $MANTA in SentinelNode vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
     "tags": [
       "vault",
       "fast finality",
-      "manta"
+      "manta",
+      "migrated"
     ],
     "links": [
       {

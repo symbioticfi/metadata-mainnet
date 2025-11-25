@@ -1,11 +1,12 @@
 {
-	"name": "Ironwood Validators",
-	"description": "Stake with Ironwood Validators and grow your crypto like a resilient forest.",
+	"name": "Ironwood Validators (Migrated)",
+	"description": "(Migrated to https://app.symbiotic.fi/operator/0x77dff5478a47910752bc5dd7216a6a96d1d82bf2) Stake with Ironwood Validators and grow your crypto like a resilient forest.",
 	"tags": [
 		"operator",
         "validator",
         "Ethereum",
-        "Staking"
+        "Staking",
+        "migrated"
 	],
 	"links": [
 		{

@@ -1,10 +1,11 @@
 {
-    "name": "IronwoodValidators Manta Vault",
-    "description": "Staking $MANTA in an IronwoodValidators vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
+    "name": "IronwoodValidators Manta Vault (Migrated)",
+    "description": "(Migrated to https://app.symbiotic.fi/vault/0x2261e453df37b9c64176b5299c7e61da7f85057a) Staking $MANTA in an IronwoodValidators vault allows you to participate in the Manta Fast Finality network, which minimizes finality time while preserving security and decentralization guarantees.",
     "tags": [
       "vault",
       "fast finality",
-      "manta"
+      "manta",
+      "migrated"
     ],
     "links": [
       {

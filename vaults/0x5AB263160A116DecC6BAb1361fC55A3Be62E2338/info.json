@@ -1,0 +1,31 @@
+{
+    "name": "Bedrock for Cap Network Restaked uniBTC",
+    "tags": [
+        "Cap network",
+        "Bedrock"
+    ],
+    "vaultType": "btc-restaking"
+    "description": "Bedrock, powered by RockX, is the first multi-asset liquid restaking protocol. Leading the charge is Bedrock’s uniBTC, a Bitcoin liquid staking token that allows holders to earn Babylon rewards on their BTC while maintaining liquidity.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://www.rockx.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.bedrock.technology/"
+        },
+        {
+            "name": "Cap explorer",
+            "type": "externalLink",
+            "url": "https://cap.app/delegators/bedrock"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0x5AB263160A116DecC6BAb1361fC55A3Be62E2338"
+        },
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "TRN",
+  "description": "The TRN token is the native token of t3rn, a multi-chain interoperability protocol enabling cross-chain order execution, attestation, and bridging. This vault allows TRN holders to stake their tokens and participate in securing the t3rn network through Symbiotic's restaking mechanism. Stakers earn rewards while providing economic security to t3rn's cross-chain infrastructure.",
+  "tags": [
+    "vault",
+    "token:TRN",
+    "restaking",
+    "interoperability"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0xD5565249CfD47c7fDe8D81c86aA8f958Ee9eD49C"
+    },
+    {
+      "type": "website",
+      "name": "t3rn Website",
+      "url": "https://t3rn.io"
+    },
+    {
+      "type": "docs",
+      "name": "t3rn Documentation",
+      "url": "https://docs.t3rn.io"
+    },
+    {
+      "type": "externalLink",
+      "name": "GitHub",
+      "url": "https://github.com/t3rn"
+    }
+  ],
+  "curatorId": "t3rn"
+}

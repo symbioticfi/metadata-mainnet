@@ -1,0 +1,31 @@
+{
+  "description": "The Theoriq StakingPool lets users stake THQ to earn rewards and support network security. Stakers receive sTHQ, a yield-bearing token representing their share of the pool. sTHQ accrues THQ emissions and will serve additional purposes in future protocol upgrade.",
+  "links": [
+    {
+      "name": "Blockscout",
+      "type": "explorer",
+      "url": "https://eth.blockscout.com/address/0xA9402c888102fc725902caf5B243300bE24B77EF"
+    },
+    {
+      "name": "Mellow.finance",
+      "type": "website",
+      "url": "https://app.mellow.finance/vaults/theoriq-staking-pool"
+    },
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://mellow.finance/"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/interoperable-vaults"
+    }
+  ],
+  "name": "BaseTHQInternal",
+  "tags": [
+    "mellow",
+    "theoriq",
+    "interoperability"
+  ]
+}

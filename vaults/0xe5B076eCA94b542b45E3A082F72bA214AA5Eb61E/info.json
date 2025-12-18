@@ -1,0 +1,31 @@
+{
+    "description": "stSolv represents SOLV staked to support a Symbiotic-powered guarantee layer that secures Chainlink CCIP for cross-chain SolvBTC transfers. stSOLV rewards accrue with extra incentives via $SOLV and partner points programs. Unstaking requires a 21-day exit period.",
+    "links": [
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/bsc-staked-solv"
+        },
+        {
+            "name": "Vault Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/multi-deployments"
+        },
+        {
+            "name": "Solv Website",
+            "type": "docs",
+            "url": "https://docs.solv.finance/"
+        },
+        {
+            "name": "Bscscan",
+            "type": "explorer",
+            "url": "https://eth.blockscout.com/address/0xe5B076eCA94b542b45E3A082F72bA214AA5Eb61E"
+        }
+    ],
+    "name": "Staked SOLV",
+    "tags": [
+        "mellow",
+        "solv",
+        "stSOLV"
+    ]
+}

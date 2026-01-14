@@ -1,0 +1,22 @@
+{
+	"name": "AFI Proof Of Reserve Network",
+	"description": "AFI builds Proof-of-Reserve infrastructure for Real-World Assets unlocking institutional-grade yield that's fully composable in DeFi.",
+	"tags": ["RWA", "ZK"],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://afiprotocol.xyz/"
+		},
+		{
+			"type": "externalLink",
+			"name": "AFI App",
+			"url": "https://yield.afiprotocol.xyz"
+		},
+		{
+			"type": "docs",
+			"name": "AFI Documentation",
+			"url": "https://docs.afiprotocol.xyz/"
+		}
+	]
+}

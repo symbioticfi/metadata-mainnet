@@ -1,0 +1,27 @@
+{
+    "description": "The Concrete Vault delegating sfrxUSD to the Concrete operator for Cap. The sfrxUSD Vault enables users to earn sfrxUSD-denominated yield, where deposits are allocated across protocols Aave loops, delta-neutral Hyperliquid trades and CAP structured yield flows.",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://www.concrete.xyz/"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.concrete.xyz/Overview/welcome"
+        }
+    ],
+    "name": "Concrete-Concrete-sfrxUSD",
+    "tags": [
+        "Concrete",
+        "Cap"
+    ],
+    "rewards": [
+        {
+            "address": "0xA0DF17160308Ea626eCcd6CaB81eFE805c2ee97F",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
+    "vaultType": "network-exclusive"
+}

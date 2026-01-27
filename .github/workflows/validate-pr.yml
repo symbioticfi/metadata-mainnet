@@ -41,7 +41,7 @@ jobs:
           issue: ${{ github.event.number }}
           token: ${{ secrets.GITHUB_TOKEN }}
           chain-id: 1
-          rpc-url: https://ethereum-rpc.publicnode.com
+          rpc-url: https://rpc.ankr.com/eth/${{ secrets.RPC_URL_TOKEN }}
           upstream-checkout-path: upstream
           network-registry: "0xc773b1011461e7314cf05f97d95aa8e92c1fd8aa"
           operator-registry: "0xad817a6bc954f678451a71363f04150fdd81af9f"

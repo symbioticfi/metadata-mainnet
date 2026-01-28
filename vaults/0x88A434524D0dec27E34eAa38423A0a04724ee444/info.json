@@ -1,0 +1,24 @@
+{
+    "name": "Vesper-wstETH",
+    "description": "Vesper Finance Vault delegating wstETH to the Odyssey Finance. The result is higher capital efficiency where Vesper users earn better APY on their deposits",
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://vesper.finance/"
+        }
+    ],
+    "tags": [
+        "Vesper Finance",
+        "Odyssey Finance",
+        "wstETH",
+        "Cap"
+    ],
+    "rewards": [
+        {
+            "address": "0x99726AF8FE046306A9CE32437acd31092D67B1f2",
+            "type": "defaultStakingRewardsV2"
+        }
+    ],
+    "vaultType": "network-exclusive"
+}

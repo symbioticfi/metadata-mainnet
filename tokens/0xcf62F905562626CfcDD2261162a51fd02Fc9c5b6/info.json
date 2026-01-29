@@ -1,0 +1,28 @@
+{
+    "name": "sfrxUSD",
+    "description": "sfrxUSD is Frax's yielding stablecoin implemented as an ERC4626 token. When you stake your frxUSD, you receive sfrxUSD tokens that automatically accrue yield over time. sfrxUSD is fully redeemable for frxUSD at an increasing rate proportional to the yield mechanism, with no unstaking fees or price impact.",
+    "tags": [
+        "token",
+        "sfrxUSD"
+    ],
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://frax.com/"
+        },
+        {
+            "type": "docs",
+            "name": "What Is sfrxUSD?",
+            "url": "https://docs.frax.com/"
+        }
+    ],
+    "cmcId": "36038",
+    "permitName": "SFRXUSD",
+    "permitVersion": "1"
+}

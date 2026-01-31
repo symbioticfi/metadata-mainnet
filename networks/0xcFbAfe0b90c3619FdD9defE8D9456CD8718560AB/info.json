@@ -1,0 +1,11 @@
+{
+  "name": "Yodl",
+  "description": "Yodl is a protocol-level coordination network for rule-based execution and settlement using delegated execution credit. Participants authorize bounded execution without custody or pooled capital, while operators execute under protocol-enforced constraints. Yodl enforces authorization limits at execution time and deterministically restores system state after execution. Yodl does not run strategies, select venues, or embed economic guarantees, serving only as a neutral coordination and enforcement layer.",
+  "tags": ["Execution Coordination Layer", "Institutional Grade Execution Infra", "Principal Protection"],
+  "links": [
+    { "type": "website", "name": "Website", "url": "https://www.yodl.fi" },
+    { "type": "docs", "name": "Documentation", "url": "https://docs.yodl.fi" },
+    { "type": "externalLink", "name": "X (Twitter)", "url": "https://x.com/yodl_fi" },
+    { "type": "explorer", "name": "Etherscan", "url": "https://etherscan.io/address/0xcFbAfe0b90c3619FdD9defE8D9456CD8718560AB" }
+  ]
+}

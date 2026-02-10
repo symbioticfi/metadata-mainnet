@@ -1,0 +1,28 @@
+{
+  "name": "t3rn Vault",
+  "description": "t3rn is a programmable cross-chain execution layer designed for low-cost settlements, averaging just $0.005 per transaction. Orders are trustlessly validated with Merkle Patricia Trie (MPT) proofs from each network and anchored to t3rn's chain, enabling developers to build sophisticated, interoperable applications on a unified metalayer.",
+  "tags": ["t3rn", "cross-chain", "interoperability", "bridge"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://t3rn.io"
+    },
+    {
+      "type": "externalLink",
+      "name": "Documentation",
+      "url": "https://docs.t3rn.io"
+    },
+    {
+      "type": "externalLink",
+      "name": "GitHub",
+      "url": "https://github.com/t3rn"
+    },
+    {
+      "type": "explorer",
+      "name": "TRN Token",
+      "url": "https://etherscan.io/token/0xC1ef3EF1064a936693d1f058bBf48453C5d66587"
+    }
+  ],
+  "curatorId": "0x66655b925234e2c4967afe2fa97b984607227357"
+}

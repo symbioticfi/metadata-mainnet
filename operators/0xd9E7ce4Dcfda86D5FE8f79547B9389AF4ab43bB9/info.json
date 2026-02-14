@@ -1,0 +1,14 @@
+{
+	"name": "Odyssey Finance",
+	"description": "Odyssey simplifies the DeFi experience, allowing users to trade, swap, loop, and access unlimited yields all within a single app.",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://odyssey.finance/"
+		}
+	]
+}

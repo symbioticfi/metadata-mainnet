@@ -1,0 +1,14 @@
+{
+	"name": "ByteHub",
+	"description": "An IT firm focused on DeFi development, creating secure and innovative decentralized financial solutions",
+	"tags": [
+		"operator"
+	],
+	"links": [
+		{
+			"type": "website",
+			"name": "Website",
+			"url": "https://bytehub-org.com"
+		}
+	]
+}

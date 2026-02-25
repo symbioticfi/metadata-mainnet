@@ -1,0 +1,26 @@
+{
+  "name": "Nexus Mutual Network",
+  "description": "Nexus Mutual is a member-owned insurance-alternative protocol built on Ethereum mainnet that allows people to pool risk and buy coverage to protect against onchain losses. The Mutual leverages Symbiotic's infrastructure as an excess coverage layer, where Nexus Mutual's underwriters serve as first-loss capital and Symbiotic restakers provide second-loss capital.",
+  "tags": [
+    "network",
+    "Cover",
+    "Insurance Alternative"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.nexusmutual.io/"
+    },
+    {
+      "type": "externalLink",
+      "name": "Nexus Mutual App",
+      "url": "https://app.nexusmutual.io/"
+    },
+    {
+      "type": "docs",
+      "name": "Nexus Mutual Documentation",
+      "url": "https://docs.nexusmutual.io/"
+    }
+  ]
+}

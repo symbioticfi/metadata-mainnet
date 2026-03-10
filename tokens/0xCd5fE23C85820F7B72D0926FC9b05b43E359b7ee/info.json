@@ -1,0 +1,36 @@
+{
+    "name": "WeETH",
+    "description": "Wrapped eETH is the first native liquid restaking token on Ethereum. Stakers can mint eETH on ether.fi. When a user does this, ether.fi will then stake and restake the ETH, allowing users to maximize rewards. By minting eETH you are getting exposure to 4 types of rewards: 1) Ethereum staking rewards 2) ether.fi Loyalty Points 3) restaking rewards (including EigenLayer points) 4) ability to provide liquidity to Defi protocols.",
+    "tags": [
+        "token",
+        "WeETH"
+    ],
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb"
+        },
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://www.ether.fi/"
+        },
+        {
+            "type": "docs",
+            "name": "ETHFI Documentation",
+            "url": "https://etherfi.gitbook.io/etherfi/ethfi"
+        },
+        {
+            "type": "example",
+            "name": "ETHFI Staking",
+            "url": "https://etherfi.gitbook.io/etherfi/ethfi/ethfi-staking"
+        },
+        {
+            "type": "example",
+            "name": "How to bridge ETHFI",
+            "url": "https://etherfi.gitbook.io/etherfi/ethfi/how-to-bridge-ethfi"
+        }
+    ],
+    "cmcId": "28695"
+}

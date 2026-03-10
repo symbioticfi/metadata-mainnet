@@ -1,16 +1,36 @@
-{"name": "Human Network",
-"description": "The network for Human Keys and Human Tech. An oblivious pseudorandom function and more by Holonym Foundation",
-"tags": ["Human Keys", "Human Tech", "OPRF", "Oblivious Pseudorandom Function", "Threshold", "MPC", "Holonym", "Cryptography", "Digital Rights", "Privacy", "Identity", "Decentralized Identity", "Mishti"],
-"links": [
+{
+  "name": "Human Network",
+  "description": "The network for Human Keys and Human Tech. An oblivious pseudorandom function and more by Holonym Foundation",
+  "tags": [
+    "Human Keys",
+    "Human Tech",
+    "OPRF",
+    "Oblivious Pseudorandom Function",
+    "Threshold",
+    "MPC",
+    "Holonym",
+    "Cryptography",
+    "Digital Rights",
+    "Privacy",
+    "Identity",
+    "Decentralized Identity",
+    "Mishti"
+  ],
+  "links": [
     {
       "type": "website",
       "name": "Website",
       "url": "https://network.human.tech/"
     },
     {
+      "type": "website",
+      "name": "dashboard",
+      "url": "https://network.hu.mn/"
+    },
+    {
       "type": "docs",
       "name": "Human Network Documentation",
-      "url": "https://docs.mishti.network/"
+      "url": "https://docs.network.human.tech/"
     }
   ]
 }

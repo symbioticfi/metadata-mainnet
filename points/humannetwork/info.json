@@ -1,0 +1,22 @@
+{
+  "name": "Human Network",
+  "description": "Human points are designed to reward node operators and restakers who have contributed to Human Network in its early stages by running and securing active nodes and participating in the protocol.",
+  "tags": ["Human Network", "Human Keys", "Human Tech", "Points"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://network.human.tech/"
+    },
+    {
+      "type": "website",
+      "name": "dashboard",
+      "url": "https://network.hu.mn/"
+    },
+    {
+      "type": "docs",
+      "name": "Human Network Documentation",
+      "url": "https://docs.network.human.tech/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Vesper Vault delegating wstETH to the Odyssey Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://app.vesper.finance/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/vesper"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x9f96f6403F1410e64C74a5cCd0CdE341e63aA482"
+    }
+  ],
+  "name": "Vesper-Odyssey-wstETH",
+  "tags": [
+    "Vesper",
+    "Cap",
+    "Odyssey"
+  ],
+  "vaultType": "network-exclusive"
+}

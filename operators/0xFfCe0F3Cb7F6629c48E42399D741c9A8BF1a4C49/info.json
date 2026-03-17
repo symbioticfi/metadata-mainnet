@@ -1,0 +1,25 @@
+{
+  "description": "Concrete Operator receiving sfrxUSD from the Concrete Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.concrete.xyz/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/concrete"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xFfCe0F3Cb7F6629c48E42399D741c9A8BF1a4C49"
+    }
+  ],
+  "name": "Concrete-Concrete-sfrxUSD",
+  "tags": [
+    "Concrete",
+    "Cap"
+  ]
+}

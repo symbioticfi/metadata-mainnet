@@ -1,0 +1,26 @@
+{
+  "description": "Odyssey Operator receiving wstETH from the Vesper Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://odyssey.finance/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/odyssey"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x8203f2B96C1DbAD2aBb7Dc5c0d65179748e8F98b"
+    }
+  ],
+  "name": "Odyssey-Vesper-wstETH",
+  "tags": [
+    "Odyssey",
+    "Cap",
+    "Vesper"
+  ]
+}

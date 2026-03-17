@@ -1,0 +1,27 @@
+{
+  "description": "Ether fi Vault delegating weETH to the M11 Credit Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.ether.fi/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/ether-fi"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x5c493fCB2017d0A644526CFca29eEF7ab22f5B8B"
+    }
+  ],
+  "name": "Ether fi-M11 Credit-weETH",
+  "tags": [
+    "Ether fi",
+    "Cap",
+    "M11 Credit"
+  ],
+  "vaultType": "network-exclusive"
+}

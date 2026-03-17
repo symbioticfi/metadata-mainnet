@@ -1,0 +1,27 @@
+{
+  "description": "Bedrock Vault delegating uniBTC to the Susquehanna Crypto Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x4b7A4Bae15B049F84f2806eA7297fcD3702aC82B"
+    }
+  ],
+  "name": "Bedrock-Susquehanna Crypto-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap",
+    "Susquehanna Crypto"
+  ],
+  "vaultType": "network-exclusive"
+}

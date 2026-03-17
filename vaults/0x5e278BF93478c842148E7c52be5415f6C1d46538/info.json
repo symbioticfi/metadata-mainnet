@@ -1,0 +1,26 @@
+{
+  "description": "Bedrock Vault delegating uniBTC to the Bedrock Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x5e278BF93478c842148E7c52be5415f6C1d46538"
+    }
+  ],
+  "name": "Bedrock-Bedrock-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap"
+  ],
+  "vaultType": "network-exclusive"
+}

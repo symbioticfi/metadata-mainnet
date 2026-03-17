@@ -1,0 +1,26 @@
+{
+  "description": "Structured Vault delegating uniBTC to the Structured Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.structured.money/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/structured"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xc50f8C3f843865c640F541b0f8e700af227dAa83"
+    }
+  ],
+  "name": "Structured-Structured-uniBTC",
+  "tags": [
+    "Structured",
+    "Cap"
+  ],
+  "vaultType": "network-exclusive"
+}

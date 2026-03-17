@@ -1,0 +1,26 @@
+{
+  "description": "Amber Group Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.ambergroup.io/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/amber-group"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x108C05B49bCEE1087228608cFbfAa4A0D968E5B7"
+    }
+  ],
+  "name": "Amber Group-Bedrock-uniBTC",
+  "tags": [
+    "Amber Group",
+    "Cap",
+    "Bedrock"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Structured Operator receiving uniBTC from the Structured Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.structured.money/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/structured"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xf50245775EB0f6596059788bb350209D22e191A1"
+    }
+  ],
+  "name": "Structured-Structured-uniBTC",
+  "tags": [
+    "Structured",
+    "Cap"
+  ]
+}

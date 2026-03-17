@@ -1,0 +1,27 @@
+{
+  "description": "Renzo pzETH Vault delegating wstETH to the Susquehanna Crypto Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.renzoprotocol.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/renzo-pzETH"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x4b0B5106EDeCFbDA379C323eB626966984135D9E"
+    }
+  ],
+  "name": "Renzo pzETH-Susquehanna Crypto-wstETH",
+  "tags": [
+    "Renzo pzETH",
+    "Cap",
+    "Susquehanna Crypto"
+  ],
+  "vaultType": "network-exclusive"
+}

@@ -1,0 +1,26 @@
+{
+  "description": "Susquehanna Crypto Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.linkedin.com/company/susquehanna-crypto/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/susquehanna-crypto"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xe8c66812541fcED6876A5A91826b16fDbB518FbC"
+    }
+  ],
+  "name": "Susquehanna Crypto-Bedrock-uniBTC",
+  "tags": [
+    "Susquehanna Crypto",
+    "Cap",
+    "Bedrock"
+  ]
+}

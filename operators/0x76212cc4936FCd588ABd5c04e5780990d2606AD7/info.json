@@ -1,0 +1,25 @@
+{
+  "description": "Bedrock Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x76212cc4936FCd588ABd5c04e5780990d2606AD7"
+    }
+  ],
+  "name": "Bedrock-Bedrock-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap"
+  ]
+}

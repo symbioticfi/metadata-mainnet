@@ -1,0 +1,26 @@
+{
+  "description": "Susquehanna Crypto Operator receiving wstETH from the Renzo pzETH Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.linkedin.com/company/susquehanna-crypto/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/susquehanna-crypto"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x452d9178E69409b860518aD599f974Ec9618b104"
+    }
+  ],
+  "name": "Susquehanna Crypto-Renzo pzETH-wstETH",
+  "tags": [
+    "Susquehanna Crypto",
+    "Cap",
+    "Renzo pzETH"
+  ]
+}

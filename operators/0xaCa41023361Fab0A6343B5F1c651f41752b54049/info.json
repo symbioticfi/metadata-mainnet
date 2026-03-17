@@ -1,0 +1,26 @@
+{
+  "description": "M11 Credit Operator receiving weETH from the Ether fi Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.m11credit.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/m11-credit"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xaCa41023361Fab0A6343B5F1c651f41752b54049"
+    }
+  ],
+  "name": "M11 Credit-Ether fi-weETH",
+  "tags": [
+    "M11 Credit",
+    "Cap",
+    "Ether fi"
+  ]
+}

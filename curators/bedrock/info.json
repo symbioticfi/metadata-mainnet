@@ -1,0 +1,8 @@
+{
+    "name": "Bedrock",
+    "description": "Bedrock is a multi-asset liquid restaking protocol for ETH and BTC, developed in partnership with RockX, an established blockchain infrastructure provider with extensive experience in staking.",
+    "tags": ["curator", "staking"],
+    "links": [
+        { "type": "website", "name": "Website", "url": "https://www.bedrock.technology/" }
+    ]
+}

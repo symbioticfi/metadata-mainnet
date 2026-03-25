@@ -1,6 +1,6 @@
 {
-  "name": "Gami Cap sfrxUSD Vault",
-  "description": "The Gami Vault delegating sfrxUSD to the Gami operator for Cap. The sfrxUSD Vault enables users to earn yield on sfrxUSD, where deposits are allocated across Curve liquidity provisioning via StakeDAO, Spectra yield trading, Morpho leveraged loops (up to 5×), and the gamiUSDC strategy.",                                              
+  "name": "Gami sfrxUSD Vault on Cap",
+  "description": "The Gami Vault delegating sfrxUSD to the Gami operator for Cap. The sfrxUSD Vault enables users to earn yield on sfrxUSD, where deposits are allocated across Curve liquidity provisioning via StakeDAO, Spectra yield trading, Morpho, and other yield opportunities.",                                              
     "tags": ["Gami Labs", "Cap"],
     "curatorId": "gamilabs",
     "vaultType": "network-exclusive",

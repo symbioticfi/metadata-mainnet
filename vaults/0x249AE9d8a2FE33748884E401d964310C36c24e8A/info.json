@@ -1,0 +1,26 @@
+{
+  "description": "Solv Protocol Vault delegating SolvBTC to the Solv Protocol Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://solv.finance/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/solv-protocol"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x249AE9d8a2FE33748884E401d964310C36c24e8A"
+    }
+  ],
+  "name": "Solv Protocol-Solv Protocol-SolvBTC",
+  "tags": [
+    "Solv Protocol",
+    "Cap"
+  ],
+  "vaultType": "network-exclusive"
+}

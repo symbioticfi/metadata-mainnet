@@ -1,0 +1,26 @@
+{
+  "description": "Flow Traders Operator receiving LBTC from the Lombard Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.flowtraders.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/flow-traders"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x631b7CDf6D44b84c7aea818e90f610E95bd43E0a"
+    }
+  ],
+  "name": "Flow Traders-Lombard-LBTC",
+  "tags": [
+    "Flow Traders",
+    "Cap",
+    "Lombard"
+  ]
+}

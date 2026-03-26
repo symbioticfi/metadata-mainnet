@@ -1,0 +1,27 @@
+{
+  "description": "Lombard Vault delegating LBTC to the Flow Traders Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.lombard.finance/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/lombard"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x6daA2f7952D51d9Bd1551a3b4360027109a33B56"
+    }
+  ],
+  "name": "Lombard-Flow Traders-LBTC",
+  "tags": [
+    "Lombard",
+    "Cap",
+    "Flow Traders"
+  ],
+  "vaultType": "network-exclusive"
+}

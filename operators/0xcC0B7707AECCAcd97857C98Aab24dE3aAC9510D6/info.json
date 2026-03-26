@@ -1,0 +1,25 @@
+{
+  "description": "Gami Labs Operator receiving sfrxUSD from the Gami Labs Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://gamilabs.io/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/gami-labs"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xcC0B7707AECCAcd97857C98Aab24dE3aAC9510D6"
+    }
+  ],
+  "name": "Gami Labs-Gami Labs-sfrxUSD",
+  "tags": [
+    "Gami Labs",
+    "Cap"
+  ]
+}

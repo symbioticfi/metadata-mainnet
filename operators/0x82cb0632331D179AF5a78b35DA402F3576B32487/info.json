@@ -1,0 +1,25 @@
+{
+  "description": "Solv Protocol Operator receiving SolvBTC from the Solv Protocol Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://solv.finance/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/solv-protocol"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x82cb0632331D179AF5a78b35DA402F3576B32487"
+    }
+  ],
+  "name": "Solv Protocol-Solv Protocol-SolvBTC",
+  "tags": [
+    "Solv Protocol",
+    "Cap"
+  ]
+}

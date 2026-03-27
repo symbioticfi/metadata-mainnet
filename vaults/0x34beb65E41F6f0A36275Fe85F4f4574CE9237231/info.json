@@ -28,5 +28,6 @@
         "lombard",
         "bard"
     ],
+    "curatorId": "lombard",
     "vaultType": "network-exclusive"
 }

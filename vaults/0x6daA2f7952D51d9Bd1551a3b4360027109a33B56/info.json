@@ -19,5 +19,6 @@
   ],
   "name": "Lombard-Flow Traders-LBTC",
   "tags": ["Lombard", "Cap", "Flow Traders"],
+  "curatorId": "lombard",
   "vaultType": "network-exclusive"
 }

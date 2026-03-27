@@ -1,0 +1,16 @@
+{
+  "name": "Lombard",
+  "description": "Lombard is the onchain Bitcoin company that turns idle BTC into productive capital, giving holders access to yield opportunities across DeFi without security compromises. Lombard's products include LBTC (yield-bearing BTC), BTC.b (permissionless bridged BTC), and a suite of automated Bitcoin yield strategies. The protocol is secured by a consortium of 15 leading crypto institutions, including OKX, Kraken, Galaxy, DCG, and Wintermute.",
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.lombard.finance/"
+    },
+    {
+      "type": "docs",
+      "name": "Lombard Documentation",
+      "url": "https://docs.lombard.finance/"
+    }
+  ]
+}

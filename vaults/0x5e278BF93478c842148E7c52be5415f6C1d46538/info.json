@@ -18,9 +18,7 @@
     }
   ],
   "name": "Bedrock-Bedrock-uniBTC",
-  "tags": [
-    "Bedrock",
-    "Cap"
-  ],
+  "tags": ["Bedrock", "Cap"],
+  "curatorId": "bedrock",
   "vaultType": "network-exclusive"
 }

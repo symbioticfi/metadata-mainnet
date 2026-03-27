@@ -18,10 +18,7 @@
     }
   ],
   "name": "Renzo pzETH-Susquehanna Crypto-wstETH",
-  "tags": [
-    "Renzo pzETH",
-    "Cap",
-    "Susquehanna Crypto"
-  ],
+  "tags": ["Renzo pzETH", "Cap", "Susquehanna Crypto"],
+  "curatorId": "renzo",
   "vaultType": "network-exclusive"
 }

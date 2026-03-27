@@ -18,10 +18,7 @@
     }
   ],
   "name": "Ether fi-M11 Credit-weETH",
-  "tags": [
-    "Ether fi",
-    "Cap",
-    "M11 Credit"
-  ],
+  "tags": ["Ether fi", "Cap", "M11 Credit"],
+  "curatorId": "etherfi",
   "vaultType": "network-exclusive"
 }

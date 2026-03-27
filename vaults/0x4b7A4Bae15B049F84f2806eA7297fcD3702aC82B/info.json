@@ -18,10 +18,7 @@
     }
   ],
   "name": "Bedrock-Susquehanna Crypto-uniBTC",
-  "tags": [
-    "Bedrock",
-    "Cap",
-    "Susquehanna Crypto"
-  ],
+  "tags": ["Bedrock", "Cap", "Susquehanna Crypto"],
+  "curatorId": "bedrock",
   "vaultType": "network-exclusive"
 }

@@ -18,9 +18,7 @@
     }
   ],
   "name": "Solv Protocol-Solv Protocol-SolvBTC",
-  "tags": [
-    "Solv Protocol",
-    "Cap"
-  ],
-  "vaultType": "network-exclusive"
+  "tags": ["Solv Protocol", "Cap"],
+  "vaultType": "network-exclusive",
+  "curatorId": "solv"
 }

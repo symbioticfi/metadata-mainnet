@@ -1,0 +1,13 @@
+{
+  "name": "Solv Protocol",
+  "description": "Solv Protocol is the operating layer for Bitcoin, powering the next $1T Bitcoin Finance economy by connecting the world’s hardest money to productive capital rails.",
+  "tags": ["curator", "staking"],
+  "links": [
+    { "type": "website", "name": "Website", "url": "https://solv.finance" },
+    {
+      "type": "docs",
+      "name": "Solv Documentation",
+      "url": "https://docs.solv.finance/"
+    }
+  ]
+}

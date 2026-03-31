@@ -1,0 +1,26 @@
+{
+  "name": "SolvBTC",
+  "description": "SolvBTC is a Bitcoin reserve asset that lets users deposit BTC into protocol-managed Bitcoin addresses and receive SolvBTC on Ethereum and other EVM-compatible chains at a 1:1 ratio.",
+  "tags": [
+    "token",
+    "SolvBTC"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/address/0x7A56E1C57C7475CCf742a1832B028F0456652F97"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://solv.finance/"
+    },
+    {
+      "type": "docs",
+      "name": "SolvBTC Documentation",
+      "url": "https://docs.solv.finance/solvbtc-technical-architecture/bitcoin-mainnet-architecture"
+    }
+  ],
+  "cmcId": "33312"
+}

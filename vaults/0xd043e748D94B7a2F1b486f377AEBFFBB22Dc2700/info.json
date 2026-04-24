@@ -20,5 +20,6 @@
       "type": "defaultStakingRewardsV2"
     }
   ],
+  "curatorId": "hyperithm",
   "vaultType": "network-exclusive"
 }

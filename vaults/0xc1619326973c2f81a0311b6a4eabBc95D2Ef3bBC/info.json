@@ -1,0 +1,27 @@
+{
+  "description": "M11 Credit Vault delegating AA_FalconXUSDC to the Rainbow Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.m11credit.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/m11-credit"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xc1619326973c2f81a0311b6a4eabBc95D2Ef3bBC"
+    }
+  ],
+  "name": "M11 Credit-Rainbow-AA_FalconXUSDC",
+  "tags": [
+    "M11 Credit",
+    "Cap",
+    "Rainbow"
+  ],
+  "vaultType": "network-exclusive"
+}

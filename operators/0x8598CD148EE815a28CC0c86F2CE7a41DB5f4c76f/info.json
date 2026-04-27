@@ -1,0 +1,26 @@
+{
+  "description": "Rainbow Operator receiving AA_FalconXUSDC from the M11 Credit Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://learn.rainbow.me/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/operators/rainbow"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x8598CD148EE815a28CC0c86F2CE7a41DB5f4c76f"
+    }
+  ],
+  "name": "Rainbow-M11 Credit-AA_FalconXUSDC",
+  "tags": [
+    "Rainbow",
+    "Cap",
+    "M11 Credit"
+  ]
+}

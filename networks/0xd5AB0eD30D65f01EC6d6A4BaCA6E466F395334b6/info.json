@@ -1,0 +1,37 @@
+{
+    "name": "0G",
+    "description": "0G is the Blockchain for AI Agents, a modular Layer 1 integrating chain, storage, data availability, and compute to power verifiable, fully onchain AI at scale.",
+    "tags": ["AI Agents", "Modular", "Layer 1", "AI", "Compute", "Data Availability", "Storage"],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://0g.ai"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.0g.ai"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xd5AB0eD30D65f01EC6d6A4BaCA6E466F395334b6"
+        },
+        {
+            "type": "externalLink",
+            "name": "0G Chainscan",
+            "url": "https://chainscan.0g.ai"
+        },
+        {
+            "type": "externalLink",
+            "name": "X",
+            "url": "https://x.com/0G_labs"
+        },
+        {
+            "type": "externalLink",
+            "name": "GitHub",
+            "url": "https://github.com/0gfoundation"
+        }
+    ]
+}

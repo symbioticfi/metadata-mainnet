@@ -1,0 +1,26 @@
+{
+  "description": "Re7 Capital Operator receiving wstETH from the Re7 Labs Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://re7.capital/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/re7-capital"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x5C26974178016c92d48a3498AC8BF6dD936a57A9"
+    }
+  ],
+  "name": "Re7 Capital-Re7 Labs-wstETH",
+  "tags": [
+    "Re7 Capital",
+    "Cap",
+    "Re7 Labs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "0G Vault OFT",
+    "description": "0G Vault OFT (0G OFT) is the LayerZero OFT representation on Ethereum of the Mellow Interop SourceCore (Ascend Staked OG) vault on 0G chain. Users deposit Wrapped 0G into the 0G-chain vault, and the bridged OFT on Ethereum is used as restaking collateral on the 0G network via Symbiotic.",
+    "tags": ["token", "0G Vault OFT", "Mellow", "0G"],
+    "links": [
+        {
+            "type": "website",
+            "name": "Mellow Website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "type": "docs",
+            "name": "Mellow Documentation",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/interoperable-vaults"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xE42215BD71E190b3864267569c2f66077260EaE4"
+        },
+        {
+            "type": "externalLink",
+            "name": "0G Network",
+            "url": "https://0g.ai"
+        }
+    ]
+}

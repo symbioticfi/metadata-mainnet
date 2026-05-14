@@ -1,0 +1,28 @@
+{
+    "name": "Wrapped 0G",
+    "description": "Wrapped 0G (W0G) is the ERC-20 wrapper of the native 0G token, used as collateral for validator restaking on the 0G network. 0G is the Blockchain for AI Agents, a modular Layer 1 integrating chain, storage, data availability, and compute to power verifiable, fully onchain AI at scale.",
+    "tags": ["0G", "Wrapped", "W0G"],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://0g.ai"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.0g.ai"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x4C1Dab3Be86347977F3DfC4b9688224ef2272939"
+        },
+        {
+            "type": "externalLink",
+            "name": "0G Chainscan",
+            "url": "https://chainscan.0g.ai"
+        }
+    ],
+    "cmcId": "38337"
+}

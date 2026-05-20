@@ -1,0 +1,19 @@
+{
+  "name": "NodesRun",
+  "description": "Expert Node Operator",
+  "tags": [
+      "operator"
+  ],
+  "links": [
+      {
+          "type": "website",
+          "name": "Website",
+          "url": "https://nodesrun.com"
+      },
+      {
+          "type": "website",
+          "name": "X",
+          "url": "https://x.com/nodesruns"
+      }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "description": "Lido Blockscape stVault secures, facilitates, and monitors SSNs curation on the Symbiotic ecosystem using Lido V3 infrastructure.The vault minimizes operator authority bias, mitigating the risk of unintended slashing, reducing trust and security assumptions while maintaining a competitive risk-adjusted yield for stETH restakers.",
+    "links": [
+        {
+            "name": "Curator website",
+            "type": "website",
+            "url": "https://mevcapital.com/"
+        },
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://mellow.finance/"
+        },
+        {
+            "name": "Deposit",
+            "type": "externalLink",
+            "url": "https://app.mellow.finance/vaults/ethereum-mevcapital-lidov3-stvault-blockscape"
+        },
+        {
+            "name": "Etherscan",
+            "type": "explorer",
+            "url": "https://etherscan.io/address/0xC1f35a2FA20499064c635893C39aa56aa72146C9"
+        },
+        {
+            "name": "Documentation",
+            "type": "docs",
+            "url": "https://docs.mellow.finance/mellow-lrt-lst-primitive/simple-lrt"
+        }
+    ],
+    "name": "Lido Blockscape x MEV Capital stVault",
+    "tags": [
+        "mellow",
+        "Blockscape",
+        "MEV"
+    ]
+}

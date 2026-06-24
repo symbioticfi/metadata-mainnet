@@ -1,0 +1,26 @@
+{
+  "description": "MatrixDock Vault delegating XAUM to the MatrixDock Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.matrixdock.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/matrixdock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xe72696546379d6961b5ee368fc82cc28a8c57e29"
+    }
+  ],
+  "name": "MatrixDock-MatrixDock-XAUM",
+  "tags": [
+    "MatrixDock",
+    "Cap"
+  ],
+  "vaultType": "network-exclusive"
+}

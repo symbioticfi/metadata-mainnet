@@ -1,0 +1,26 @@
+{
+  "description": "Portofino Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.portofino.tech/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/portofino"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x2aebfe114728a7a8251a582143a6acf35947a575"
+    }
+  ],
+  "name": "Portofino-Bedrock-uniBTC",
+  "tags": [
+    "Portofino",
+    "Cap",
+    "Bedrock"
+  ]
+}

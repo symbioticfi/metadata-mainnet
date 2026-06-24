@@ -1,0 +1,27 @@
+{
+  "description": "Bedrock Vault delegating uniBTC to the Flowdesk Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xabe79b5004f0738c38017633d81654eaef3b416d"
+    }
+  ],
+  "name": "Bedrock-Flowdesk-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap",
+    "Flowdesk"
+  ],
+  "vaultType": "network-exclusive"
+}

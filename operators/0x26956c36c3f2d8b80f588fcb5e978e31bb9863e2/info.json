@@ -1,0 +1,26 @@
+{
+  "description": "Flowdesk Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.flowdesk.co/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/flowdesk"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x26956c36c3f2d8b80f588fcb5e978e31bb9863e2"
+    }
+  ],
+  "name": "Flowdesk-Bedrock-uniBTC",
+  "tags": [
+    "Flowdesk",
+    "Cap",
+    "Bedrock"
+  ]
+}

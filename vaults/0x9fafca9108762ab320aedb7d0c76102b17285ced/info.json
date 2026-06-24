@@ -1,0 +1,27 @@
+{
+  "description": "Bedrock Vault delegating uniBTC to the Portofino Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x9fafca9108762ab320aedb7d0c76102b17285ced"
+    }
+  ],
+  "name": "Bedrock-Portofino-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap",
+    "Portofino"
+  ],
+  "vaultType": "network-exclusive"
+}

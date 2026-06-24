@@ -1,0 +1,26 @@
+{
+  "description": "Selini Capital Operator receiving uniBTC from the Bedrock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.selinicapital.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/selini-capital"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x679cec48410a02a44fd5aa0b8334ad3ab2514669"
+    }
+  ],
+  "name": "Selini Capital-Bedrock-uniBTC",
+  "tags": [
+    "Selini Capital",
+    "Cap",
+    "Bedrock"
+  ]
+}

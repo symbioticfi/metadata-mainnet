@@ -1,0 +1,27 @@
+{
+  "description": "Bedrock Vault delegating uniBTC to the Selini Capital Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bedrock.technology/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/bedrock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xca5412f167228f33571a1d2c1fccf28f5b74ab59"
+    }
+  ],
+  "name": "Bedrock-Selini Capital-uniBTC",
+  "tags": [
+    "Bedrock",
+    "Cap",
+    "Selini Capital"
+  ],
+  "vaultType": "network-exclusive"
+}

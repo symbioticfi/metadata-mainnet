@@ -1,0 +1,27 @@
+{
+  "description": "Re7 Labs Vault delegating wstETH to the Re7 Capital Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.re7labs.xyz/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/re7-labs"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x5b1c752840cba714e97afcd75cd0edee5821b133"
+    }
+  ],
+  "name": "Re7 Labs-Re7 Capital-wstETH",
+  "tags": [
+    "Re7 Labs",
+    "Cap",
+    "Re7 Capital"
+  ],
+  "vaultType": "network-exclusive"
+}

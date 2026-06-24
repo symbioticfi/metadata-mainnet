@@ -1,0 +1,25 @@
+{
+  "description": "MatrixDock Operator receiving XAUM from the MatrixDock Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.matrixdock.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/matrixdock"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xc60b9b0dffd58bfa0a16a9460123eecca30f8edd"
+    }
+  ],
+  "name": "MatrixDock-MatrixDock-XAUM",
+  "tags": [
+    "MatrixDock",
+    "Cap"
+  ]
+}

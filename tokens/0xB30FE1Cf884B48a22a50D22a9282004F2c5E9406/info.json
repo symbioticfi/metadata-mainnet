@@ -1,0 +1,30 @@
+{
+    "name": "GROVE",
+    "description": "GROVE is the governance token for Grove",
+    "tags": [
+        "token",
+        "GROVE"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://grove.finance/"
+        },
+        {
+            "type": "docs",
+            "name": "Analytics",
+            "url": "https://data.grove.finance/"
+        },
+        {
+            "type": "docs",
+            "name": "Documentation",
+            "url": "https://docs.grove.finance/"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406"
+        }
+    ]
+}

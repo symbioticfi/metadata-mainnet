@@ -1,5 +1,5 @@
 {
-    "name": "Grove GROVE Staking Vault",
+    "name": "GROVE Staking Vault",
     "description": "The Grove Staking Vault enables users to stake their GROVE tokens and earn rewards.",
     "tags": [
         "vault",
@@ -18,8 +18,13 @@
         },
         {
             "type": "explorer",
-            "name": "Etherscan",
-            "url": "https://etherscan.io/token/0xF3Ddcaa3BD5D04ba08beC69cf34D9d9C9c112d14"
+            "name": "Etherscan - Vault",
+            "url": "https://etherscan.io/address/0xF3Ddcaa3BD5D04ba08beC69cf34D9d9C9c112d14"
+        },
+        {
+            "type": "explorer",
+            "name": "Etherscan - Token",
+            "url": "https://etherscan.io/address/0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406"
         }
     ],
     "vaultType": "network-exclusive"

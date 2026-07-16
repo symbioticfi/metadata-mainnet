@@ -8,9 +8,7 @@
     "euler",
     "liusd",
     "liquid-lane",
-    "infinifi",
-    "mGlobal",
-    "AA_FalconXUSDC"
+    "infinifi"
   ],
   "links": [
     {
@@ -20,7 +18,7 @@
     },
     {
       "type": "website",
-      "name": "Euler Earn vault",
+      "name": "Euler Earn Vault",
       "url": "https://app.euler.finance/earn/0xB4a2fC3adAF3BfA8FCBA2A6FDAA200De106B8825?network=1"
     }
   ]

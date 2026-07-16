@@ -1,0 +1,25 @@
+{
+  "name": "infiniFi RWA Liquidity Vault",
+  "description": "This vault primarily allocates USDC into the infiniFi Euler Earn Vault. It may also participate in Symbiotic Liquid Lane RFQs to purchase selected liUSD and RWA assets at a discount, with proceeds recycled back into the vault strategy.",
+  "tags": [
+    "defi",
+    "rwa",
+    "usdc",
+    "euler",
+    "liusd",
+    "liquid-lane",
+    "infinifi"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Protocol Website",
+      "url": "https://infinifi.xyz"
+    },
+    {
+      "type": "website",
+      "name": "Euler Earn vault",
+      "url": "https://app.euler.finance/earn/0xB4a2fC3adAF3BfA8FCBA2A6FDAA200De106B8825?network=1"
+    }
+  ]
+}

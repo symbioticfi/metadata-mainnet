@@ -1,0 +1,17 @@
+{
+  "name": "Keyrock Flagship USDC",
+  "description": "The Keyrock x Symbiotic USDC vault allows depositors to interact with sophisticated strategies while never having capital sitting idle. By blending lending markets, redemptions, and bridge facilitation loans, it provides a unique risk/return profile that targets above base rate yields.",
+  "tags": [],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://keyrock.com/"
+    },
+    {
+      "type": "social",
+      "name": "X",
+      "url": "https://x.com/keyrock"
+    }
+  ]
+}

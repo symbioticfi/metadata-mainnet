@@ -1,0 +1,20 @@
+{
+  "name": "Cassa Liquid Lane USDC Vault",
+  "description": "A curated USDC vault allocating capital between passive DeFi yield strategies and instant liquidity for selected tokenised assets through Symbiotic Liquid Lane.",
+  "tags": [
+    "usdc",
+    "rwa",
+    "liquid-lane",
+    "instant-redemptions",
+    "curated",
+    "defi",
+    "cassa"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Cassa Website",
+      "url": "https://www.cassa.fyi/"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "KPK USDC RWA Liquidity",
-  "description": "Deploys USDC into lending strategies and the acquisition of RWAs at a discount to fair value.",
+  "description": "KPK is a non-custodial onchain asset manager for DAOs, institutions and capital allocators, actively managing capital across DeFi since 2020. Over $8bn deployed onchain, more than 16,000 transactions and zero funds lost.",
   "tags": ["KPK", "RWA", "Vault", "DeFi"],
   "links": [
     {

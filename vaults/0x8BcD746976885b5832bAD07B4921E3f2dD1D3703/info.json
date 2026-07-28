@@ -1,7 +1,7 @@
 {
   "name": "KPK USDC RWA Liquidity",
   "tags": ["KPK", "RWA", "Vault", "DeFi"],
-  "description": "KPK is a non-custodial onchain asset manager for DAOs, institutions and capital allocators, actively managing capital across DeFi since 2020. Over $8bn deployed onchain, more than 16,000 transactions and zero funds lost.",
+  "description": "The KPK USDC RWA Liquidity vault earns a liquidity premium by market-making tokenised RWA collateral: buying at a discount when holders need immediate liquidity, and redeeming at par with the issuer. Idle capital is allocated to USDC lending strategies, including KPK-curated Morpho vaults, so capital remains continuously yielding. RWA exposure is capped per market, with 24/7 risk management automation.",
   "links": [
     {
       "name": "Curator website",

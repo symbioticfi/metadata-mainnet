@@ -1,0 +1,17 @@
+{
+  "name": "KPK",
+  "description": "karpatkey is a decentralized organization providing on-chain treasury management and DeFi strategy execution for leading DAOs and protocols.",
+  "tags": ["KPK", "RWA", "Vault", "DeFi"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://kpk.io"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.kpk.io/vaults/vaults/symbiotic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "KPK USDC RWA Liquidity",
+  "description": "Deploys USDC into lending strategies and the acquisition of RWAs at a discount to fair value.",
+  "tags": ["KPK", "RWA", "Vault", "DeFi"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://kpk.io"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.kpk.io/vaults/vaults/symbiotic"
+    }
+  ],
+  "curatorId": "kpk"
+}

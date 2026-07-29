@@ -1,0 +1,18 @@
+{
+  "name": "Clearstar Warehouse USDC",
+  "description": "The Clearstar Warehouse USDC vault facilitates fast on- and off-ramping of real-world assets (RWAs) with USDC.",
+  "tags": ["Clearstar", "RWA", "Vault", "DeFi", "Curator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.clearstar.xyz/"
+    },
+    {
+      "type": "docs",
+      "name": "Due Diligence Framework",
+      "url": "https://www.clearstar.xyz/due-diligence/clearstar-due-diligence.html"
+    }
+  ],
+  "curatorId": "clearstar"
+}

@@ -32,5 +32,6 @@
     "mellow",
     "MEV"
   ],
+  "curatorId": "mev-capital",
   "vaultType": "btc-restaking"
 }

@@ -23,5 +23,6 @@
     "Cap",
     "Portofino"
   ],
+  "curatorId": "bedrock",
   "vaultType": "network-exclusive"
 }

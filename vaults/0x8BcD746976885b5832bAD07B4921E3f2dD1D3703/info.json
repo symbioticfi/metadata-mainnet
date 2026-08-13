@@ -1,0 +1,23 @@
+{
+  "name": "KPK USDC RWA Liquidity",
+  "tags": ["KPK", "RWA", "Vault", "DeFi"],
+  "description": "The KPK USDC RWA Liquidity vault earns a liquidity premium by market-making tokenised RWA collateral: buying at a discount when holders need immediate liquidity, and redeeming at par with the issuer. Idle capital is allocated to USDC lending strategies, including KPK-curated Morpho vaults, so capital remains continuously yielding. RWA exposure is capped per market, with 24/7 risk management automation.",
+  "links": [
+    {
+      "name": "Curator website",
+      "type": "website",
+      "url": "https://kpk.io"
+    },
+    {
+      "name": "Documentation",
+      "type": "docs",
+      "url": "https://docs.kpk.io/vaults/vaults/symbiotic"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x8BcD746976885b5832bAD07B4921E3f2dD1D3703"
+    }
+  ],
+  "curatorId": "kpk"
+}

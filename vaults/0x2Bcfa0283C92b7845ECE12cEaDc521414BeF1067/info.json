@@ -5,6 +5,7 @@
         "vault",
         "token:ETHFI"
     ],
+    "curatorId": "etherfi",
     "links": [
         {
             "type": "externalLink",

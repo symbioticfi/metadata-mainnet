@@ -1,0 +1,22 @@
+{
+  "name": "Clearstar",
+  "description": "Clearstar is a risk curation firm making onchain yield viable at institutional scale. It curates and operates risk-managed strategies backed by qualitative-first due diligence, continuous onchain monitoring, and protocol hardening.",
+  "tags": ["Clearstar", "RWA", "Vault", "DeFi", "Curator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.clearstar.xyz/"
+    },
+    {
+      "type": "docs",
+      "name": "Due Diligence Framework",
+      "url": "https://www.clearstar.xyz/due-diligence/clearstar-due-diligence.html"
+    },
+    {
+      "type": "externalLink",
+      "name": "Research & Reports",
+      "url": "https://www.clearstar.xyz/reports/"
+    }
+  ]
+}

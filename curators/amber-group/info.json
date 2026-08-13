@@ -1,0 +1,17 @@
+{
+  "name": "Amber Group",
+  "description": "Trusted by top-tier institutional and individual investors, Amber Premium offers bespoke digital assets investment and portfolio management solutions.",
+  "tags": ["vault", "staking"],
+  "links": [
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/ambergroup_io"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.ambergroup.io/"
+    }
+  ]
+}

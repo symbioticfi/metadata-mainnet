@@ -23,5 +23,6 @@
     "Cap",
     "Selini Capital"
   ],
+  "curatorId": "bedrock",
   "vaultType": "network-exclusive"
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Amber Group USDC Vault",
+  "description": "The Amber x Symbiotic USDC vault allows depositors to interact with sophisticated strategies while never having capital sitting idle. By blending lending markets, RWA redemptions, and bridge facilitation loans, it provides a unique risk/return profile that targets above base rate yields.",
+  "tags": ["vault", "amber"],
+  "links": [
+    {
+      "type": "website",
+      "name": "X",
+      "url": "https://x.com/ambergroup_io"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.ambergroup.io/"
+    }
+  ],
+  "curatorId": "amber-group"
+}

@@ -23,5 +23,6 @@
     "Cap",
     "Flowdesk"
   ],
+  "curatorId": "bedrock",
   "vaultType": "network-exclusive"
 }

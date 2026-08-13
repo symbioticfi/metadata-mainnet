@@ -23,5 +23,6 @@
     "Cap",
     "Flow Traders"
   ],
+  "curatorId": "lombard",
   "vaultType": "network-exclusive"
 }

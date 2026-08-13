@@ -36,5 +36,6 @@
 			"type": "defaultStakingRewardsV2Epoched"
 		}
 	],
+	"curatorId": "mev-capital",
 	"vaultType": "eth-restaking"
 }

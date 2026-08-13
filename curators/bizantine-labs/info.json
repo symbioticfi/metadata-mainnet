@@ -1,0 +1,16 @@
+{
+  "name": "Bizantine Labs",
+  "description": "Bizantine Labs is an institutional, non-custodial DeFi vault curator and risk infrastructure provider. Active in digital assets since 2017, the team designs, deploys, and continuously monitors multi-chain vault strategies across Ethereum, Base, Flare, Monad, and other emerging ecosystems, spanning restaking, overcollateralized lending, real-world asset yield, and structured onchain strategies.",
+  "tags": [
+    "curator",
+    "institutional",
+    "risk-management",
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://bizantine.capital/"
+    }
+  ]
+}

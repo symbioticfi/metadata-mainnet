@@ -3,7 +3,7 @@
 This repository is designed to manage metadata and related resources for decentralized entities, such as vaults, networks, operators, tokens, points, and curators.
 It provides a standardized structure for organizing and accessing information about these entities.
 By contributing to this repository, you help create a reliable, decentralized knowledge base. After being merged, this
-data will be used in [app.symbiotic.fi]() to provide users with accurate and up-to-date information about various entities in the DeFi ecosystem.
+data will be used in [app.symbiotic.fi](https://app.symbiotic.fi) to provide users with accurate and up-to-date information about various entities in the DeFi ecosystem.
 
 ---
 
@@ -54,12 +54,12 @@ Each entity is identified by its Ethereum address (`0x...`), Points distributor 
     - If the entity is a `vault` or `points`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
 2. **Register the entity in the registry**:
     - Before adding metadata for vaults, networks, or operators, ensure that they are registered in their respective registries. You can find the current registry contract addresses in the [Symbiotic documentation](https://docs.symbiotic.fi/deployments/current). Unregistered entities will not be accepted.
-4. **Create a new folder**:
+3. **Create a new folder**:
     - Navigate to the appropriate directory for the entity type.
     - Create a folder named after the Ethereum address (e.g., `0x1234567890abcdef1234567890abcdef12345678`) or point ID (e.g., `kalypso`).
-5. **Add the `info.json` file**:
+4. **Add the `info.json` file**:
     - Include metadata in the specified format (see below).
-6. **(Optional) Add an icon file**:
+5. **(Optional) Add an icon file**:
     - If available, include a `logo.png` file with the entity’s logo.
 
 Your PR will be reviewed by the symbiotic team, and if approved, it will be merged into the repository. Please note that the PR will be reviewed only after the entity is checked with automated checks.

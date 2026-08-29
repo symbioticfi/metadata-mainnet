@@ -1,0 +1,31 @@
+{
+    "name": "Lido v3 stVault - Nansen Validators",
+    "description": "This Lido v3 stVault represents a strategic partnership between industry leaders Nansen and Gauntlet, focused on optimizing Lido v3 Vaults",
+    "tags": [
+      "vault",
+      "token:wstETH", "Nansen", "Gauntlet"
+    ],
+    "links": [
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://etherscan.io/address/0x94204ba4A8c633D91768C60cAbe75f0f46813a93"
+      },
+      {
+        "type": "website",
+        "name": "Deposits",
+        "url": "https://app.mellow.finance/vaults/ethereum-nansen-gauntlet-lidov3-stvault"
+      },
+      {
+        "type": "website",
+        "name": "Curator",
+        "url": "www.gauntlet.xyz"
+      },
+      {
+        "type": "docs",
+        "name": "ETH Liquid Staking Documentation",
+        "url": "https://docs.liquidcollective.io/eth"
+      }
+    ],
+    "curatorName": "Gauntlet"
+  }

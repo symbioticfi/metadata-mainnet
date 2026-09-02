@@ -1,0 +1,24 @@
+{
+    "name": "Ascend 0G Vault 3",
+    "description": "Ascend 0G Vault holds 0G Vault OFT (0G OFT) as collateral and restakes it to help secure the 0G network through Symbiotic. The collateral originates as Wrapped 0G (W0G) on the 0G chain and reaches Ethereum as a LayerZero OFT via the Mellow Interop OFTAdapter, backed 1:1 by W0G locked in the adapter. The vault is delegated to a single operator and serves the 0G network exclusively.",
+    "tags": [
+        "vault",
+        "Ascend",
+        "0G",
+        "Mellow",
+        "restaking"
+    ],
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x641A4f5993A8fc86fb1F26F448Ac0C0390B096B5"
+        },
+        {
+            "type": "externalLink",
+            "name": "0G Network",
+            "url": "https://0g.ai"
+        }
+    ],
+    "vaultType": "network-exclusive"
+}

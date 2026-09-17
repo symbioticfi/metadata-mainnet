@@ -1,0 +1,19 @@
+{
+    "name": "Staker Space",
+    "description": "Independent node operator securing public blockchains",
+    "tags": [
+        "operator"
+    ],
+    "links": [
+        {
+            "type": "website",
+            "name": "Website",
+            "url": "https://staker.space/"
+        },
+        {
+            "type": "website",
+            "name": "X",
+            "url": "https://x.com/StakerSpace"
+        }
+    ]
+}

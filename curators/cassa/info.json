@@ -1,0 +1,12 @@
+{
+  "name": "Cassa",
+  "description": "Cassa builds onchain risk markets for vaults, real-world assets, and structured products.",
+  "tags": ["curator", "defi", "rwa"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.cassa.fyi/"
+    }
+  ]
+}

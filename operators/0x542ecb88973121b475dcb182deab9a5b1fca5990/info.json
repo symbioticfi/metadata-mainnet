@@ -1,0 +1,26 @@
+{
+  "description": "M1 Capital Operator receiving BGBTC from the Bitget Vault for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://m1-capital.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/borrowers/m1-capital"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0x542ecb88973121b475dcb182deab9a5b1fca5990"
+    }
+  ],
+  "name": "M1 Capital-Bitget-BGBTC",
+  "tags": [
+    "M1 Capital",
+    "Cap",
+    "Bitget"
+  ]
+}

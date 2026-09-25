@@ -1,0 +1,21 @@
+{
+  "name": "BGBTC",
+  "description": "Bitget Wrapped BTC (BGBTC) is a wrapped Bitcoin asset issued by Bitget and pegged 1:1 to BTC, letting holders keep BTC exposure while using it in DeFi and Bitget yield products.",
+  "tags": [
+    "token",
+    "BGBTC"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://etherscan.io/token/0x0520930F21b14Cafac7a27b102487beE7138a017"
+    },
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.bitget.com/events/bitget-btc-staking"
+    }
+  ],
+  "cmcId": "39908"
+}

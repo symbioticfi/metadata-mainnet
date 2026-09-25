@@ -1,0 +1,28 @@
+{
+  "description": "Bitget Vault delegating BGBTC to the M1 Capital Operator for Cap.",
+  "links": [
+    {
+      "name": "Website",
+      "type": "website",
+      "url": "https://www.bitget.com/"
+    },
+    {
+      "name": "Cap explorer",
+      "type": "externalLink",
+      "url": "https://cap.app/underwriters/bitget"
+    },
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/address/0xa49822ff7ca97316171c59dae7ec90db146d8c09"
+    }
+  ],
+  "name": "Bitget-M1 Capital-BGBTC",
+  "tags": [
+    "Bitget",
+    "Cap",
+    "M1 Capital"
+  ],
+  "curatorId": "bitget",
+  "vaultType": "network-exclusive"
+}

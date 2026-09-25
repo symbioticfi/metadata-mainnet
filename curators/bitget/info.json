@@ -1,0 +1,12 @@
+{
+  "name": "Bitget",
+  "description": "Bitget is a cryptocurrency exchange and Web3 company offering spot and derivatives trading, and the issuer of BGBTC, a wrapped Bitcoin asset pegged 1:1 to BTC.",
+  "tags": ["curator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.bitget.com/"
+    }
+  ]
+}

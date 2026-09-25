@@ -23,5 +23,6 @@
     "Cap",
     "M1 Capital"
   ],
+  "curatorId": "bitget",
   "vaultType": "network-exclusive"
 }

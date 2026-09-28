@@ -7,4 +7,6 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     uses: symbioticfi/metadata-validation-scripts/.github/workflows/full-info.yml@main

@@ -2,14 +2,19 @@
   "description": "Renzo pzETH Vault delegating wstETH to the Susquehanna Crypto Operator for Cap.",
   "links": [
     {
+      "name": "Deposit",
+      "type": "externalLink",
+      "url": "https://app.mellow.finance/vaults/ethereum-pzeth"
+    },
+    {
       "name": "Website",
       "type": "website",
       "url": "https://www.renzoprotocol.com/"
     },
     {
       "name": "Cap explorer",
-      "type": "externalLink",
-      "url": "https://cap.app/delegators/renzo-pzETH"
+      "type": "explorer",
+      "url": "https://cap.app/underwriters/renzo-pzETH"
     },
     {
       "name": "Etherscan",

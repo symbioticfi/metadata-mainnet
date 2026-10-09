@@ -8,8 +8,8 @@
     },
     {
       "name": "Cap explorer",
-      "type": "externalLink",
-      "url": "https://cap.app/delegators/solv-protocol"
+      "type": "explorer",
+      "url": "https://cap.app/underwriters/solv-protocol"
     },
     {
       "name": "Etherscan",

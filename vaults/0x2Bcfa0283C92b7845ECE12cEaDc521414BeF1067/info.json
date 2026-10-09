@@ -8,11 +8,6 @@
     "curatorId": "etherfi",
     "links": [
         {
-            "type": "externalLink",
-            "name": "deposit",
-            "url": "https://www.ether.fi/"
-        },
-        {
             "type": "explorer",
             "name": "Etherscan",
             "url": "https://etherscan.io/address/0x2Bcfa0283C92b7845ECE12cEaDc521414BeF1067"

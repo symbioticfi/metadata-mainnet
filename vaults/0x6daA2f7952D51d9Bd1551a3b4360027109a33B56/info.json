@@ -8,8 +8,8 @@
     },
     {
       "name": "Cap explorer",
-      "type": "explorer",
-      "url": "https://cap.app/underwriters/lombard"
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/lombard"
     },
     {
       "name": "Etherscan",

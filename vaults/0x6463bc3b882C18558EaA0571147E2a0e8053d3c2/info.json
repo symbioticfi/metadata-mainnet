@@ -8,8 +8,8 @@
     },
     {
       "name": "Cap explorer",
-      "type": "explorer",
-      "url": "https://cap.app/underwriters/gami-labs"
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/gami-labs"
     },
     {
       "name": "Etherscan",

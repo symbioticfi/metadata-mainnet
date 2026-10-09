@@ -8,8 +8,8 @@
     },
     {
       "name": "Cap explorer",
-      "type": "explorer",
-      "url": "https://cap.app/underwriters/m11-credit"
+      "type": "externalLink",
+      "url": "https://cap.app/delegators/m11-credit"
     },
     {
       "name": "Etherscan",

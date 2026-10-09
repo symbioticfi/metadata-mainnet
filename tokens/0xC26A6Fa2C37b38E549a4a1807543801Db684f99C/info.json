@@ -1,0 +1,21 @@
+{
+  "name": "AA_FalconXUSDC",
+  "description": "AA tranche token for Pareto’s FalconX USDC credit vault on Ethereum.",
+  "tags": [
+    "token",
+    "AA_FalconXUSDC",
+    "credit"
+  ],
+  "links": [
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/token/0xC26A6Fa2C37b38E549a4a1807543801Db684f99C"
+    },
+    {
+      "name": "Official contract addresses",
+      "type": "docs",
+      "url": "https://docs.pareto.credit/developers/addresses/product/credit-vaults"
+    }
+  ]
+}

@@ -8,9 +8,9 @@
     "curatorId": "etherfi",
     "links": [
         {
-            "type": "externalLink",
-            "name": "deposit",
-            "url": "https://www.ether.fi/"
+            "type": "website",
+            "name": "Staked ETHFI",
+            "url": "https://www.ether.fi/app/cash/assets/staked-ethfi"
         },
         {
             "type": "explorer",

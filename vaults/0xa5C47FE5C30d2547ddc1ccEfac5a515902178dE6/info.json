@@ -12,11 +12,6 @@
       "url": "https://mellow.finance/"
     },
     {
-      "name": "Deposit",
-      "type": "externalLink",
-      "url": "https://app.mellow.finance/vaults/ethereum-restaked-tBTC"
-    },
-    {
       "type": "explorer",
       "name": "Etherscan",
       "url": "https://etherscan.io/address/0xa5C47FE5C30d2547ddc1ccEfac5a515902178dE6"

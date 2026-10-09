@@ -8,8 +8,8 @@
     },
     {
       "name": "Cap explorer",
-      "type": "externalLink",
-      "url": "https://cap.app/delegators/bedrock"
+      "type": "explorer",
+      "url": "https://cap.app/underwriters/bedrock"
     },
     {
       "name": "Etherscan",

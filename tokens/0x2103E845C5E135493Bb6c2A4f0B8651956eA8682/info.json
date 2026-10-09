@@ -1,0 +1,21 @@
+{
+  "name": "XAUM",
+  "description": "Matrixdock Gold token on Ethereum, representing one troy ounce of physical gold.",
+  "tags": [
+    "token",
+    "XAUM",
+    "gold"
+  ],
+  "links": [
+    {
+      "name": "Etherscan",
+      "type": "explorer",
+      "url": "https://etherscan.io/token/0x2103E845C5E135493Bb6c2A4f0B8651956eA8682"
+    },
+    {
+      "name": "Official contract addresses",
+      "type": "docs",
+      "url": "https://matrixdock.gitbook.io/matrixdock-docs/english/gold-token-xaum/smart-contract/contract-address"
+    }
+  ]
+}

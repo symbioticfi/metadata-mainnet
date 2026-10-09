@@ -9,7 +9,7 @@
         {
             "name": "Deposit",
             "type": "externalLink",
-            "url": "https://app.mellow.finance/partners/p2p/vaults/ethereum-rsteth"
+            "url": "https://app.mellow.finance/vaults/ethereum-rsteth"
         },
         {
             "type": "explorer",

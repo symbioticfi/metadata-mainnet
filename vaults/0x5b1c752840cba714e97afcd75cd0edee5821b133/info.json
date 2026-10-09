@@ -2,13 +2,18 @@
   "description": "Re7 Labs Vault delegating wstETH to the Re7 Capital Operator for Cap.",
   "links": [
     {
+      "name": "Deposit",
+      "type": "externalLink",
+      "url": "https://app.mellow.finance/vaults/ethereum-rsteth"
+    },
+    {
       "name": "Website",
       "type": "website",
       "url": "https://www.re7labs.xyz/"
     },
     {
       "name": "Cap explorer",
-      "type": "externalLink",
+      "type": "explorer",
       "url": "https://cap.app/underwriters/re7-labs"
     },
     {

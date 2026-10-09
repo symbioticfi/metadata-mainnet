@@ -2,14 +2,19 @@
   "description": "Ether fi Vault delegating weETH to the M11 Credit Operator for Cap.",
   "links": [
     {
+      "name": "Deposit",
+      "type": "externalLink",
+      "url": "https://www.ether.fi/app/cash/assets/symbiotic-staked-eth"
+    },
+    {
       "name": "Website",
       "type": "website",
       "url": "https://www.ether.fi/"
     },
     {
       "name": "Cap explorer",
-      "type": "externalLink",
-      "url": "https://cap.app/delegators/ether-fi"
+      "type": "explorer",
+      "url": "https://cap.app/underwriters/ether-fi"
     },
     {
       "name": "Etherscan",

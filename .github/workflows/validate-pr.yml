@@ -37,7 +37,7 @@ jobs:
 
       - name: Validate
         if: steps.changes.outputs.exists == 'true'
-        uses: symbioticfi/metadata-validation-scripts@main
+        uses: symbioticfi/metadata-validation-scripts@a21a6f01a2b6c5fda769e0c7c0b55d79172568f6 # pin@main (audited commit)
         with:
           files: ${{ steps.changes.outputs.files }}
           issue: ${{ github.event.number }}

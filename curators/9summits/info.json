@@ -1,0 +1,12 @@
+{
+  "name": "9Summits",
+  "description": "9Summits is an onchain risk curator managing DeFi vault strategies, lending markets and risk management for depositors, treasuries, protocols and asset managers.",
+  "tags": ["curator"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://www.9summits.io"
+    }
+  ]
+}

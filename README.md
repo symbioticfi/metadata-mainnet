@@ -61,7 +61,6 @@ Each entity is identified by its Ethereum address (`0x...`), Points distributor 
     - If the entity is a `vault` or `points`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
 2. **Register the entity in the registry**:
     - Before adding metadata for vaults, networks, or operators, ensure that they are registered in their respective registries. You can find the current registry contract addresses in the [Symbiotic documentation](https://docs.symbiotic.fi/get-started/resources/addresses). Unregistered entities will not be accepted.
-    - For `adapters` and `merkle-adapters`, validation reads the adapter's `FACTORY()` and requires `factory.isEntity(adapter)` to return true. Vault whitelist status is not checked.
 3. **Create a new folder**:
     - Navigate to the appropriate directory for the entity type.
     - Create a folder named after the Ethereum address (e.g., `0x1234567890abcdef1234567890abcdef12345678`) or point ID (e.g., `kalypso`).

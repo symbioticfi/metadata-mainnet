@@ -1,6 +1,6 @@
 # **Symbiotic entities metadata repository**
 
-This repository is designed to manage metadata and related resources for decentralized entities, such as vaults, networks, operators, tokens, points, and curators.
+This repository is designed to manage metadata and related resources for decentralized entities, such as vaults, networks, operators, tokens, points, curators, and adapters.
 It provides a standardized structure for organizing and accessing information about these entities.
 By contributing to this repository, you help create a reliable, decentralized knowledge base. After being merged, this
 data will be used in [app.symbiotic.fi](https://app.symbiotic.fi) to provide users with accurate and up-to-date information about various entities in the DeFi ecosystem.
@@ -31,6 +31,13 @@ repository/
 │   ├── 0x<address>/
 │   │   ├── info.json
 │   │   └── logo.png (optional)
+├── adapters/
+│   ├── 0x<adapter-address>/
+│   │   ├── info.json
+│   │   └── logo.png
+├── merkle-adapters/
+│   ├── 0x<adapter-address>/
+│   │   └── info.json
 ├── points/
 │   ├── <points_distributor_id>/
 │   │   ├── info.json
@@ -50,10 +57,11 @@ Each entity is identified by its Ethereum address (`0x...`), Points distributor 
 **Note: After your PR is submitted, email your PR link to verify@symbiotic.fi from your official business email (domain must match that of your entity website) to allow us to confirm your identity ahead of merging your PR.**
 
 1. **Determine the entity type**:
-    - Decide whether the entity belongs to `vaults`, `networks`, `operators`, `tokens`, `points`, or `curators`.
+    - Decide whether the entity belongs to `vaults`, `networks`, `operators`, `tokens`, `points`, `curators`, `adapters`, or `merkle-adapters`.
     - If the entity is a `vault` or `points`, please be sure that it's collateral token entity is registered in the `tokens` folder before adding the vault metadata. If not, please add the token first.
 2. **Register the entity in the registry**:
-    - Before adding metadata for vaults, networks, or operators, ensure that they are registered in their respective registries. You can find the current registry contract addresses in the [Symbiotic documentation](https://docs.symbiotic.fi/deployments/current). Unregistered entities will not be accepted.
+    - Before adding metadata for vaults, networks, or operators, ensure that they are registered in their respective registries. You can find the current registry contract addresses in the [Symbiotic documentation](https://docs.symbiotic.fi/get-started/resources/addresses). Unregistered entities will not be accepted.
+    - For `adapters` and `merkle-adapters`, validation reads the adapter's `FACTORY()` and requires `factory.isEntity(adapter)` to return true. Vault whitelist status is not checked.
 3. **Create a new folder**:
     - Navigate to the appropriate directory for the entity type.
     - Create a folder named after the Ethereum address (e.g., `0x1234567890abcdef1234567890abcdef12345678`) or point ID (e.g., `kalypso`).
@@ -61,6 +69,7 @@ Each entity is identified by its Ethereum address (`0x...`), Points distributor 
     - Include metadata in the specified format (see below).
 5. **(Optional) Add an icon file**:
     - If available, include a `logo.png` file with the entity’s logo.
+    - `merkle-adapters` entries contain only `info.json`; do not add a logo.
 
 Your PR will be reviewed by the symbiotic team, and if approved, it will be merged into the repository. Please note that the PR will be reviewed only after the entity is checked with automated checks.
 
@@ -68,7 +77,29 @@ Your PR will be reviewed by the symbiotic team, and if approved, it will be merg
 
 ### **File Format: `info.json`**
 
-The `info.json` file must follow this structure:
+#### **Merkle Adapter Portfolio Metadata**
+
+For `merkle-adapters/<adapter-address>/info.json`, use portfolio scope rather than the display metadata fields below. The folder identifies the adapter contract; its `account()` holds the strategy positions.
+
+```json
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": ["0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"]
+        }
+      ]
+    }
+  ]
+}
+```
+
+Select the protocols, markets, vaults and common tokens that NAV must value. Follow the validator's [Merkle portfolio guide](https://github.com/symbioticfi/metadata-validation-scripts/blob/main/docs/merkle-protocol-allowlist.md) for supported IDs and required fields such as Euler subaccounts. Bundle roots, signatures and call permissions are not metadata fields.
+
+For other entity types, use the display metadata fields below. Ordinary adapters use the validator's [adapter schema](https://github.com/symbioticfi/metadata-validation-scripts/blob/main/src/scripts/schemas/adapters.json).
 
 #### **Required Fields**
 - `name` (string): The name of the entity.

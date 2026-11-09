@@ -1,0 +1,52 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+          ]
+        },
+        {
+          "protocol": "aave_v3",
+          "ids": ["horizon"]
+        },
+        {
+          "protocol": "aave_v4",
+          "ids": ["0x94e7a5dcbe816e498b89ab752661904e2f56c485"]
+        },
+        {
+          "protocol": "euler",
+          "ids": ["0xd06836f33c9c3c1d372097952c0e60240b1a3fde"],
+          "subaccounts": [0]
+        },
+        {
+          "protocol": "morpho_blue",
+          "ids": [
+            "0x64d65c9a2d91c36d56fbc42d69e979335320169b3df63bf92789e2c8883fcc64"
+          ]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": [
+            "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+            "0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
+            "0x7a72bcd2c3f7f7e4d6679170a0625bab15d7dda1",
+            "0x355a1c6a3f1946d4dbd7ce932492925ab9f261a7"
+          ]
+        },
+        {
+          "protocol": "three_f",
+          "ids": []
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

@@ -45,6 +45,42 @@
         {
           "protocol": "merkl",
           "ids": []
+        },
+        {
+          "protocol": "ember",
+          "ids": ["0x9be9294722f8aad37b11a9792be2c782182cafa2"]
+        },
+        {
+          "protocol": "lagoon",
+          "ids": ["0x78295b34d940c780c8c02a607fedf58242e7df2c"]
+        },
+        {
+          "protocol": "mhyper",
+          "ids": []
+        },
+        {
+          "protocol": "jaaa",
+          "ids": []
+        },
+        {
+          "protocol": "hybond",
+          "ids": []
+        },
+        {
+          "protocol": "prime",
+          "ids": []
+        },
+        {
+          "protocol": "wylds",
+          "ids": []
+        },
+        {
+          "protocol": "susn",
+          "ids": []
+        },
+        {
+          "protocol": "aa_falconxusdc",
+          "ids": []
         }
       ]
     }

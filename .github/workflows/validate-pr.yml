@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Detect changed files
-        uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c  # pin@v3.2.0
+        uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c # v3.2.0
         id: changes
         with:
           exclude-statuses: 'removed'
@@ -24,14 +24,14 @@ jobs:
             !README.md
 
       - name: Checkout repository
-        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0  # pin@v7.0.0
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           allow-unsafe-pr-checkout: true
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Checkout upstream
-        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0  # pin@v7.0.0
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           allow-unsafe-pr-checkout: true
           path: upstream

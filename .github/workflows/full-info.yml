@@ -9,4 +9,4 @@ jobs:
   generate:
     permissions:
       contents: write
-    uses: symbioticfi/metadata-validation-scripts/.github/workflows/full-info.yml@8748d25fe107f581616146a7b1d360aff0e8aee2 # v1.0.0
+    uses: symbioticfi/metadata-validation-scripts/.github/workflows/full-info.yml@471421146c90ef71c27adecbfe8b652ceadaf541 # v1.0.1

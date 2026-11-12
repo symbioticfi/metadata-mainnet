@@ -1,0 +1,36 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7"
+          ]
+        },
+        {
+          "protocol": "morpho_blue",
+          "ids": [
+            "0xe7e9694b754c4d4f7e21faf7223f6fa71abaeb10296a4c43a54a7977149687d2",
+            "0x755f954513d31d5f24aaf3d0cdc5e913a28383f8ea8ff85be9ffffa7371fb64d"
+          ]
+        },
+        {
+          "protocol": "prime",
+          "ids": []
+        },
+        {
+          "protocol": "wylds",
+          "ids": []
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

@@ -52,7 +52,10 @@
         },
         {
           "protocol": "lagoon",
-          "ids": ["0x78295b34d940c780c8c02a607fedf58242e7df2c"]
+          "ids": [
+            "0x78295b34d940c780c8c02a607fedf58242e7df2c",
+            "0x03d1ec0d01b659b89a87eabb56e4af5cb6e14bfc"
+          ]
         },
         {
           "protocol": "mhyper",

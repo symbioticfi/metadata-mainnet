@@ -18,6 +18,7 @@ jobs:
         uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c # v3.2.0
         id: changes
         with:
+          head-ref: ${{ github.event.pull_request.head.sha }}
           exclude-statuses: 'removed'
           patterns: |
             !.github/**

@@ -82,6 +82,10 @@
           "ids": []
         },
         {
+          "protocol": "usn",
+          "ids": []
+        },
+        {
           "protocol": "aa_falconxusdc",
           "ids": []
         }

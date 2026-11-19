@@ -46,6 +46,14 @@
         {
           "protocol": "merkl",
           "ids": []
+        },
+        {
+          "protocol": "susn",
+          "ids": []
+        },
+        {
+          "protocol": "usn",
+          "ids": []
         }
       ]
     }

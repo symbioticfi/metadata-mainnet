@@ -1,0 +1,14 @@
+{
+    "description": "Private Vault by [blockscape](https://blockscape.network/)",
+    "links": [
+        {
+            "name": "Website",
+            "type": "website",
+            "url": "https://blockscape.network/"
+        }
+    ],
+    "name": "Blockscape Vault",
+    "tags": [
+        "blockscape"
+    ]
+}

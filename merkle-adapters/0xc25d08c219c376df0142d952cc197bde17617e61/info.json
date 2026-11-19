@@ -40,7 +40,8 @@
         {
           "protocol": "lagoon",
           "ids": [
-            "0xdae854d0896ad2fee335689a3f7b4a95fd1a3e46"
+            "0xdae854d0896ad2fee335689a3f7b4a95fd1a3e46",
+            "0x03d1ec0d01b659b89a87eabb56e4af5cb6e14bfc"
           ]
         },
         {

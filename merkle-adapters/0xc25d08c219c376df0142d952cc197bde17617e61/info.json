@@ -1,0 +1,53 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+          ]
+        },
+        {
+          "protocol": "aave_v3",
+          "ids": [
+            "core"
+          ]
+        },
+        {
+          "protocol": "euler",
+          "ids": [
+            "0x0f3cc0af08538a9ec551af53e4f0a19fd7273ed9"
+          ],
+          "subaccounts": [
+            0
+          ]
+        },
+        {
+          "protocol": "morpho_blue",
+          "ids": [
+            "0x64d65c9a2d91c36d56fbc42d69e979335320169b3df63bf92789e2c8883fcc64"
+          ]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": [
+            "0x04422053addbc9bb2759b248b574e3fca76bc145"
+          ]
+        },
+        {
+          "protocol": "lagoon",
+          "ids": [
+            "0xdae854d0896ad2fee335689a3f7b4a95fd1a3e46"
+          ]
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

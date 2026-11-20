@@ -1,0 +1,12 @@
+{
+    "name": "Merkle Adapter",
+    "description": "Allocates vault assets across DeFi positions through a managed account.",
+    "tags": ["merkle"],
+    "links": [
+        {
+            "type": "explorer",
+            "name": "Etherscan",
+            "url": "https://etherscan.io/address/0x999221F1b6cC07A777678DD4C1afEfD350a20ad7"
+        }
+    ]
+}

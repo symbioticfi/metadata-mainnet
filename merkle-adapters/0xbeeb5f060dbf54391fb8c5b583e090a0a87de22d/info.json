@@ -10,8 +10,7 @@
             "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-            "0xaca92e438df0b2401ff60da7e4337b687a2435da"
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
           ]
         },
         {
@@ -39,7 +38,7 @@
         {
           "protocol": "morpho_blue",
           "ids": [
-            "0xfe9529b421abbc798f4a72b2dcf8c16ec2cc4f0114e472c8da81a26e601dc67e"
+            "0xfb7c3a3af1ab477a2224b1387d0fd233ee9fb80e8208011996e4fd5aacd50c36"
           ]
         },
         {

@@ -18,6 +18,22 @@
         {
           "protocol": "merkl",
           "ids": []
+        },
+        {
+          "protocol": "prime",
+          "ids": []
+        },
+        {
+          "protocol": "wylds",
+          "ids": []
+        },
+        {
+          "protocol": "susn",
+          "ids": []
+        },
+        {
+          "protocol": "usn",
+          "ids": []
         }
       ]
     }

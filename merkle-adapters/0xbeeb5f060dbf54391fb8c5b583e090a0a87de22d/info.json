@@ -1,0 +1,61 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+          ]
+        },
+        {
+          "protocol": "aave_v3",
+          "ids": [
+            "core"
+          ]
+        },
+        {
+          "protocol": "aave_v4",
+          "ids": [
+            "0x973a023a77420ba610f06b3858ad991df6d85a08",
+            "0x94e7a5dcbe816e498b89ab752661904e2f56c485"
+          ]
+        },
+        {
+          "protocol": "euler",
+          "ids": [
+            "0x998d761ec1badaceb064624cc3a1d37a46c88ba4"
+          ],
+          "subaccounts": [
+            0
+          ]
+        },
+        {
+          "protocol": "morpho_blue",
+          "ids": [
+            "0xfb7c3a3af1ab477a2224b1387d0fd233ee9fb80e8208011996e4fd5aacd50c36"
+          ]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": [
+            "0x3d5eccb62974178236a768a7ef14d3ce468fbe91"
+          ]
+        },
+        {
+          "protocol": "mhyperbtc",
+          "ids": []
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

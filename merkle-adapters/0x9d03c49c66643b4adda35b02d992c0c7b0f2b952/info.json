@@ -1,0 +1,39 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          ]
+        },
+        {
+          "protocol": "lagoon",
+          "ids": [
+            "0x03d1ec0d01b659b89a87eabb56e4af5cb6e14bfc",
+            "0x28663161f9fa2963eb6102b88a741e195e974df6",
+            "0x4ef75e307f7edbf0462c679192c1ff7e911c389a",
+            "0x6a39fe461278376f61acbbb6759550e24a78a7b2",
+            "0xcda323c2df692d989b24ba51d0acca924cf9a344",
+            "0xce0b790ae0d8cf91e01f3fb69025e14569b574f3",
+            "0xd2386d8413c2ec4a761901da14c74a98ebe5054b",
+            "0xdae854d0896ad2fee335689a3f7b4a95fd1a3e46"
+          ]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": [
+            "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+            "0xbeeff2c5bf38f90e3482a8b19f12e5a6d2fca757"
+          ]
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

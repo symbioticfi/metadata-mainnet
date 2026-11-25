@@ -1,0 +1,25 @@
+{
+  "chains": [
+    {
+      "chainId": 1,
+      "protocols": [
+        {
+          "protocol": "tokens",
+          "ids": [
+            "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          ]
+        },
+        {
+          "protocol": "morpho_vaultv2",
+          "ids": [
+            "0x04422053addbc9bb2759b248b574e3fca76bc145"
+          ]
+        },
+        {
+          "protocol": "merkl",
+          "ids": []
+        }
+      ]
+    }
+  ]
+}

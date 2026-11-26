@@ -7,7 +7,9 @@
           "protocol": "tokens",
           "ids": [
             "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
           ]
         },
         {
@@ -43,12 +45,19 @@
           "ids": []
         },
         {
+          "protocol": "iris",
+          "ids": []
+        },
+        {
           "protocol": "merkl",
           "ids": []
         },
         {
           "protocol": "ember",
-          "ids": ["0x9be9294722f8aad37b11a9792be2c782182cafa2"]
+          "ids": [
+            "0x9be9294722f8aad37b11a9792be2c782182cafa2",
+            "0x140560d74949c8b01e9ce238b18bdd94ca7b2874"
+          ]
         },
         {
           "protocol": "lagoon",
@@ -87,6 +96,10 @@
         },
         {
           "protocol": "aa_falconxusdc",
+          "ids": []
+        },
+        {
+          "protocol": "hinc",
           "ids": []
         }
       ]

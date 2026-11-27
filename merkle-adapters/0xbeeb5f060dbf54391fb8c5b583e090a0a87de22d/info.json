@@ -10,7 +10,8 @@
             "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+            "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
           ]
         },
         {
@@ -23,7 +24,8 @@
           "protocol": "aave_v4",
           "ids": [
             "0x973a023a77420ba610f06b3858ad991df6d85a08",
-            "0x94e7a5dcbe816e498b89ab752661904e2f56c485"
+            "0x94e7a5dcbe816e498b89ab752661904e2f56c485",
+            "0xe1900480ac69f0b296841cd01cc37546d92f35cd"
           ]
         },
         {
@@ -38,7 +40,8 @@
         {
           "protocol": "morpho_blue",
           "ids": [
-            "0xfb7c3a3af1ab477a2224b1387d0fd233ee9fb80e8208011996e4fd5aacd50c36"
+            "0xfb7c3a3af1ab477a2224b1387d0fd233ee9fb80e8208011996e4fd5aacd50c36",
+            "0x9de73bf59b4b09f9b974081c30a2570174f212ea62de8da777c7770a4832ae72"
           ]
         },
         {
@@ -49,6 +52,10 @@
         },
         {
           "protocol": "mhyperbtc",
+          "ids": []
+        },
+        {
+          "protocol": "mhyper",
           "ids": []
         },
         {
